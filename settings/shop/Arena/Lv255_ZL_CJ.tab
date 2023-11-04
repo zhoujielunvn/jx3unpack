@@ -1,0 +1,19 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+逐鹿天下·吹雪轻剑	CustomWeapon	4998	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·吹雪轻剑	CustomWeapon	4999	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·龙蟠重剑	CustomWeapon	4996	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·龙蟠重剑	CustomWeapon	4997	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·吹雪囊	CustomWeapon	5024	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·孤城囊	CustomWeapon	5025	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·孤城衣	CustomArmor	11472	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·孤城衣	CustomArmor	11473	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·孤城冠	CustomArmor	11368	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·孤城冠	CustomArmor	11369	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·孤城束腰	CustomArmor	11394	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·孤城束腰	CustomArmor	11395	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·孤城裤	CustomArmor	11446	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·孤城裤	CustomArmor	11447	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·孤城靴	CustomArmor	11420	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·孤城靴	CustomArmor	11421	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·孤城护手	CustomArmor	11342	0	-1	-1	0	2670000			1													3200				1					护臂
+逐鹿天下·孤城护手	CustomArmor	11343	0	-1	-1	0	2670000			1													3200				1					护臂

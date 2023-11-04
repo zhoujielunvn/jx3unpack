@@ -1,0 +1,33 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+逐鹿天下·怅翠双剑	CustomWeapon	4992	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·鸾俦双剑	CustomWeapon	4993	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·怅翠双剑	CustomWeapon	4994	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·鸾俦双剑	CustomWeapon	4995	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·怅翠囊	CustomWeapon	5020	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·鸾俦囊	CustomWeapon	5021	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·怅翠囊	CustomWeapon	5022	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·鸾俦囊	CustomWeapon	5023	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·怅翠衣	CustomArmor	11468	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·鸾俦衣	CustomArmor	11469	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·怅翠衣	CustomArmor	11470	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·鸾俦衣	CustomArmor	11471	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·怅翠冠	CustomArmor	11364	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·鸾俦冠	CustomArmor	11365	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·怅翠冠	CustomArmor	11366	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·鸾俦冠	CustomArmor	11367	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·怅翠束腰	CustomArmor	11390	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·鸾俦束腰	CustomArmor	11391	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·怅翠束腰	CustomArmor	11392	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·鸾俦束腰	CustomArmor	11393	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·怅翠裤	CustomArmor	11442	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·鸾俦裤	CustomArmor	11443	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·怅翠裤	CustomArmor	11444	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·鸾俦裤	CustomArmor	11445	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·怅翠靴	CustomArmor	11416	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·鸾俦靴	CustomArmor	11417	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·怅翠靴	CustomArmor	11418	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·鸾俦靴	CustomArmor	11419	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·怅翠护手	CustomArmor	11338	0	-1	-1	0	2670000			1													3200				1					护臂
+逐鹿天下·鸾俦护手	CustomArmor	11339	0	-1	-1	0	2670000			1													3200				1					护臂
+逐鹿天下·怅翠护手	CustomArmor	11340	0	-1	-1	0	2670000			1													3200				1					护臂
+逐鹿天下·鸾俦护手	CustomArmor	11341	0	-1	-1	0	2670000			1													3200				1					护臂

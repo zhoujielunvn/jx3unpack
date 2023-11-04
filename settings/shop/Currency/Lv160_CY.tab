@@ -1,0 +1,13 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+任侠·萍踪护手	CustomArmor	2632	0	-1	-1	0	2140000			1						5	4610	1									1					护臂
+任侠·卿狂护手	CustomArmor	2633	0	-1	-1	0	2140000			1						5	4610	1									1					护臂
+任侠·卿狂冠	CustomArmor	404	0	-1	-1	0	2750000			1						5	4611	1									1					头部
+任侠·萍踪冠	CustomArmor	405	0	-1	-1	0	2750000			1						5	4611	1									1					头部
+任侠·萍踪衣	CustomArmor	3209	0	-1	-1	0	3060000			1						5	4612	1									1					上衣
+任侠·卿狂衣	CustomArmor	3210	0	-1	-1	0	3060000			1						5	4612	1									1					上衣
+任侠·萍踪裤	CustomArmor	3482	0	-1	-1	0	3060000			1						5	4613	1									1					裤子
+任侠·卿狂裤	CustomArmor	3483	0	-1	-1	0	3060000			1						5	4613	1									1					裤子
+任侠·卿狂履	CustomArmor	3747	0	-1	-1	0	2140000			1						5	4614	1									1					鞋子
+任侠·萍踪履	CustomArmor	3749	0	-1	-1	0	2140000			1						5	4614	1									1					鞋子
+任侠·萍踪护腰	CustomArmor	4069	0	-1	-1	0	2140000			1						5	4615	1									1					腰带
+任侠·卿狂护腰	CustomArmor	4070	0	-1	-1	0	2140000			1						5	4615	1									1					腰带

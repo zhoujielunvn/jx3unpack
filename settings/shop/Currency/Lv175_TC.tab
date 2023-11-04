@@ -1,0 +1,13 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+缘风·铁壁护臂	CustomArmor	251	0	-1	-1	0	2220000			1						5	4616	1									1					护臂
+缘风·破军护臂	CustomArmor	1874	0	-1	-1	0	2220000			1						5	4616	1									1					护臂
+缘风·铁壁盔	CustomArmor	2911	0	-1	-1	0	2860000			1						5	4617	1									1					头部
+缘风·破军盔	CustomArmor	2920	0	-1	-1	0	2860000			1						5	4617	1									1					头部
+缘风·铁壁铠	CustomArmor	594	0	-1	-1	0	3180000			1						5	4618	1									1					上衣
+缘风·破军铠	CustomArmor	1903	0	-1	-1	0	3180000			1						5	4618	1									1					上衣
+缘风·铁壁甲	CustomArmor	785	0	-1	-1	0	3180000			1						5	4619	1									1					裤子
+缘风·破军甲	CustomArmor	1918	0	-1	-1	0	3180000			1						5	4619	1									1					裤子
+缘风·铁壁靴	CustomArmor	969	0	-1	-1	0	2220000			1						5	4620	1									1					鞋子
+缘风·破军靴	CustomArmor	3784	0	-1	-1	0	2220000			1						5	4620	1									1					鞋子
+缘风·铁壁腰带	CustomArmor	1118	0	-1	-1	0	2220000			1						5	4621	1									1					腰带
+缘风·破军腰带	CustomArmor	1948	0	-1	-1	0	2220000			1						5	4621	1									1					腰带

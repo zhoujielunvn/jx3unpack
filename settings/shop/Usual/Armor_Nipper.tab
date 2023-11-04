@@ -1,0 +1,8 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+旧短布缠手	CustomArmor	102	0	-1	-1	0	10000			1																	0					护臂
+旧鹿皮手套	CustomArmor	114	0	-1	-1	0	10000			1																	0					护臂
+旧丝质护腕	CustomArmor	131	0	-1	-1	0	20000			1																	0					护臂
+革护腕	CustomArmor	150	0	-1	-1	0	20000			1																	0					护臂
+硬皮护臂	CustomArmor	169	0	-1	-1	0	30000			1																	0					护臂
+乌锤护腕	CustomArmor	192	0	-1	-1	0	50000			1																	0					护臂
+缎腕带	CustomArmor	220	0	-1	-1	0	70000			1																	0					护臂

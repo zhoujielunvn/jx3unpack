@@ -1,0 +1,25 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+铁血丹心·太虚护手	CustomArmor	5721	0	-1	-1	0	1300000			1						5	6407	1									1					护臂
+铁血丹心·灵虚护手	CustomArmor	5733	0	-1	-1	0	1300000			1						5	6407	1									1					护臂
+铁血丹心·太虚护手	CustomArmor	6042	0	-1	-1	0	1300000			1						5	6407	1									1					护臂
+铁血丹心·灵虚护手	CustomArmor	6054	0	-1	-1	0	1300000			1						5	6407	1									1					护臂
+铁血丹心·太虚冠	CustomArmor	5719	0	-1	-1	0	1680000			1						5	6408	1									1					头部
+铁血丹心·灵虚冠	CustomArmor	5731	0	-1	-1	0	1680000			1						5	6408	1									1					头部
+铁血丹心·太虚冠	CustomArmor	6040	0	-1	-1	0	1680000			1						5	6408	1									1					头部
+铁血丹心·灵虚冠	CustomArmor	6052	0	-1	-1	0	1680000			1						5	6408	1									1					头部
+铁血丹心·太虚衣	CustomArmor	5716	0	-1	-1	0	1860000			1						5	6409	1									1					上衣
+铁血丹心·灵虚衣	CustomArmor	5728	0	-1	-1	0	1860000			1						5	6409	1									1					上衣
+铁血丹心·太虚衣	CustomArmor	6037	0	-1	-1	0	1860000			1						5	6409	1									1					上衣
+铁血丹心·灵虚衣	CustomArmor	6049	0	-1	-1	0	1860000			1						5	6409	1									1					上衣
+铁血丹心·太虚裤	CustomArmor	5717	0	-1	-1	0	1860000			1						5	6410	1									1					裤子
+铁血丹心·灵虚裤	CustomArmor	5729	0	-1	-1	0	1860000			1						5	6410	1									1					裤子
+铁血丹心·太虚裤	CustomArmor	6038	0	-1	-1	0	1860000			1						5	6410	1									1					裤子
+铁血丹心·灵虚裤	CustomArmor	6050	0	-1	-1	0	1860000			1						5	6410	1									1					裤子
+铁血丹心·太虚靴	CustomArmor	5720	0	-1	-1	0	1300000			1						5	6411	1									1					鞋子
+铁血丹心·灵虚靴	CustomArmor	5732	0	-1	-1	0	1300000			1						5	6411	1									1					鞋子
+铁血丹心·太虚靴	CustomArmor	6041	0	-1	-1	0	1300000			1						5	6411	1									1					鞋子
+铁血丹心·灵虚靴	CustomArmor	6053	0	-1	-1	0	1300000			1						5	6411	1									1					鞋子
+铁血丹心·太虚腰带	CustomArmor	5718	0	-1	-1	0	1300000			1						5	6412	1									1					腰带
+铁血丹心·灵虚腰带	CustomArmor	5730	0	-1	-1	0	1300000			1						5	6412	1									1					腰带
+铁血丹心·太虚腰带	CustomArmor	6039	0	-1	-1	0	1300000			1						5	6412	1									1					腰带
+铁血丹心·灵虚腰带	CustomArmor	6051	0	-1	-1	0	1300000			1						5	6412	1									1					腰带

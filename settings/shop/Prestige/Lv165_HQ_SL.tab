@@ -1,0 +1,34 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+义薄云天·普度棍	CustomWeapon	2609	0	-1	-1	0	2230000			1				6000													1					近程武器
+义薄云天·普度棍	CustomWeapon	2712	0	-1	-1	0	2230000			1				6000													1					近程武器
+铁血丹心·镇恶棍	CustomWeapon	2629	0	-1	-1	0	3720000			1				6000													1					近程武器
+铁血丹心·镇恶棍	CustomWeapon	2732	0	-1	-1	0	3720000			1				6000													1					近程武器
+义薄云天·普度囊	CustomWeapon	2679	0	-1	-1	0	1120000			1				3000													1					远程武器
+义薄云天·普度囊	CustomWeapon	2760	0	-1	-1	0	1120000			1				3000													1					远程武器
+铁血丹心·镇恶囊	CustomWeapon	2697	0	-1	-1	0	1860000			1				3000													1					远程武器
+铁血丹心·镇恶囊	CustomWeapon	2778	0	-1	-1	0	1860000			1				3000													1					远程武器
+铁血丹心·镇恶衣	CustomArmor	5740	0	-1	-1	0	1860000			1				5000													1					上衣
+铁血丹心·镇恶衣	CustomArmor	6061	0	-1	-1	0	1860000			1				5000													1					上衣
+铁血丹心·镇恶衣	CustomArmor	5848	0	-1	-1	0	3100000			1				5000													1					上衣
+铁血丹心·镇恶衣	CustomArmor	6169	0	-1	-1	0	3100000			1				5000													1					上衣
+铁血丹心·镇恶冠	CustomArmor	5743	0	-1	-1	0	1680000			1				4500													1					头部
+铁血丹心·镇恶冠	CustomArmor	6064	0	-1	-1	0	1680000			1				4500													1					头部
+铁血丹心·镇恶冠	CustomArmor	5851	0	-1	-1	0	2790000			1				4500													1					头部
+铁血丹心·镇恶冠	CustomArmor	6172	0	-1	-1	0	2790000			1				4500													1					头部
+铁血丹心·镇恶腰带	CustomArmor	5742	0	-1	-1	0	1300000			1				3500													1					腰带
+铁血丹心·镇恶腰带	CustomArmor	6063	0	-1	-1	0	1300000			1				3500													1					腰带
+铁血丹心·镇恶腰带	CustomArmor	5850	0	-1	-1	0	2170000			1				3500													1					腰带
+铁血丹心·镇恶腰带	CustomArmor	6171	0	-1	-1	0	2170000			1				3500													1					腰带
+铁血丹心·镇恶裤	CustomArmor	5741	0	-1	-1	0	1860000			1				5000													1					裤子
+铁血丹心·镇恶裤	CustomArmor	6062	0	-1	-1	0	1860000			1				5000													1					裤子
+铁血丹心·镇恶裤	CustomArmor	5849	0	-1	-1	0	3100000			1				5000													1					裤子
+铁血丹心·镇恶裤	CustomArmor	6170	0	-1	-1	0	3100000			1				5000													1					裤子
+铁血丹心·镇恶靴	CustomArmor	5744	0	-1	-1	0	1300000			1				3500													1					鞋子
+铁血丹心·镇恶靴	CustomArmor	6065	0	-1	-1	0	1300000			1				3500													1					鞋子
+铁血丹心·镇恶靴	CustomArmor	5852	0	-1	-1	0	2170000			1				3500													1					鞋子
+铁血丹心·镇恶靴	CustomArmor	6173	0	-1	-1	0	2170000			1				3500													1					鞋子
+铁血丹心·镇恶护手	CustomArmor	5745	0	-1	-1	0	1300000			1				3500													1					护臂
+铁血丹心·镇恶护手	CustomArmor	6066	0	-1	-1	0	1300000			1				3500													1					护臂
+铁血丹心·镇恶护手	CustomArmor	5853	0	-1	-1	0	2170000			1				3500													1					护臂
+铁血丹心·镇恶护手	CustomArmor	6174	0	-1	-1	0	2170000			1				3500													1					护臂
+战魂手谕	Other	7510	0	-1	1	0	100			1				10													0					

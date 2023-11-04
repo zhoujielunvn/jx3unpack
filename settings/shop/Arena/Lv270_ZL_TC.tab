@@ -1,0 +1,17 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+剑试天下·秦威枪	CustomWeapon	4875	0	-1	-1	0	4720000			1													6900		1600	7	1					近程武器
+剑试天下·秦威枪	CustomWeapon	4876	0	-1	-1	0	4720000			1													6900		1600	7	1					近程武器
+剑试天下·秦威囊	CustomWeapon	4903	0	-1	-1	0	2360000			1													3500		0	7	1					远程武器
+剑试天下·秦威囊	CustomWeapon	4904	0	-1	-1	0	2360000			1													3500		0	7	1					远程武器
+剑试天下·秦威衣	CustomArmor	11193	0	-1	-1	0	3940000			1													6200		1500	7	1					上衣
+剑试天下·秦威衣	CustomArmor	11194	0	-1	-1	0	3940000			1													6200		1500	7	1					上衣
+剑试天下·秦威冠	CustomArmor	11089	0	-1	-1	0	3540000			1													5300		1400	7	1					头部
+剑试天下·秦威冠	CustomArmor	11090	0	-1	-1	0	3540000			1													5300		1400	7	1					头部
+剑试天下·秦威腰带	CustomArmor	11115	0	-1	-1	0	2750000			1													3500		0	7	1					腰带
+剑试天下·秦威腰带	CustomArmor	11116	0	-1	-1	0	2750000			1													3500		0	7	1					腰带
+剑试天下·秦威裤	CustomArmor	11167	0	-1	-1	0	3940000			1													3500		1200	7	1					裤子
+剑试天下·秦威裤	CustomArmor	11168	0	-1	-1	0	3940000			1													3500		1200	7	1					裤子
+剑试天下·秦威靴	CustomArmor	11141	0	-1	-1	0	2750000			1													3500		0	7	1					鞋子
+剑试天下·秦威靴	CustomArmor	11142	0	-1	-1	0	2750000			1													3500		0	7	1					鞋子
+剑试天下·秦威护手	CustomArmor	11063	0	-1	-1	0	2750000			1													3500		0	7	1					护臂
+剑试天下·秦威护手	CustomArmor	11064	0	-1	-1	0	2750000			1													3500		0	7	1					护臂

@@ -1,0 +1,34 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+义薄云天·游龙枪	CustomWeapon	2610	0	-1	-1	0	2230000			1				6000													1					近程武器
+义薄云天·游龙枪	CustomWeapon	2713	0	-1	-1	0	2230000			1				6000													1					近程武器
+铁血丹心·婉扬枪	CustomWeapon	2630	0	-1	-1	0	3720000			1				6000													1					近程武器
+铁血丹心·婉扬枪	CustomWeapon	2733	0	-1	-1	0	3720000			1				6000													1					近程武器
+义薄云天·游龙囊	CustomWeapon	2686	0	-1	-1	0	1120000			1				3000													1					远程武器
+义薄云天·游龙囊	CustomWeapon	2767	0	-1	-1	0	1120000			1				3000													1					远程武器
+铁血丹心·婉扬囊	CustomWeapon	2704	0	-1	-1	0	1860000			1				3000													1					远程武器
+铁血丹心·婉扬囊	CustomWeapon	2785	0	-1	-1	0	1860000			1				3000													1					远程武器
+铁血丹心·婉扬衣	CustomArmor	5710	0	-1	-1	0	1860000			1				5000													1					上衣
+铁血丹心·婉扬衣	CustomArmor	6031	0	-1	-1	0	1860000			1				5000													1					上衣
+铁血丹心·婉扬衣	CustomArmor	5818	0	-1	-1	0	3100000			1				5000													1					上衣
+铁血丹心·婉扬衣	CustomArmor	6139	0	-1	-1	0	3100000			1				5000													1					上衣
+铁血丹心·婉扬冠	CustomArmor	5713	0	-1	-1	0	1680000			1				4500													1					头部
+铁血丹心·婉扬冠	CustomArmor	6034	0	-1	-1	0	1680000			1				4500													1					头部
+铁血丹心·婉扬冠	CustomArmor	5819	0	-1	-1	0	2790000			1				4500													1					头部
+铁血丹心·婉扬冠	CustomArmor	6140	0	-1	-1	0	2790000			1				4500													1					头部
+铁血丹心·婉扬腰带	CustomArmor	5712	0	-1	-1	0	1300000			1				3500													1					腰带
+铁血丹心·婉扬腰带	CustomArmor	6033	0	-1	-1	0	1300000			1				3500													1					腰带
+铁血丹心·婉扬腰带	CustomArmor	5820	0	-1	-1	0	2170000			1				3500													1					腰带
+铁血丹心·婉扬腰带	CustomArmor	6141	0	-1	-1	0	2170000			1				3500													1					腰带
+铁血丹心·婉扬裤	CustomArmor	5711	0	-1	-1	0	1860000			1				5000													1					裤子
+铁血丹心·婉扬裤	CustomArmor	6032	0	-1	-1	0	1860000			1				5000													1					裤子
+铁血丹心·婉扬裤	CustomArmor	5821	0	-1	-1	0	3100000			1				5000													1					裤子
+铁血丹心·婉扬裤	CustomArmor	6142	0	-1	-1	0	3100000			1				5000													1					裤子
+铁血丹心·婉扬靴	CustomArmor	5714	0	-1	-1	0	1300000			1				3500													1					鞋子
+铁血丹心·婉扬靴	CustomArmor	6035	0	-1	-1	0	1300000			1				3500													1					鞋子
+铁血丹心·婉扬靴	CustomArmor	5822	0	-1	-1	0	2170000			1				3500													1					鞋子
+铁血丹心·婉扬靴	CustomArmor	6143	0	-1	-1	0	2170000			1				3500													1					鞋子
+铁血丹心·婉扬护手	CustomArmor	5715	0	-1	-1	0	1300000			1				3500													1					护臂
+铁血丹心·婉扬护手	CustomArmor	6036	0	-1	-1	0	1300000			1				3500													1					护臂
+铁血丹心·婉扬护手	CustomArmor	5823	0	-1	-1	0	2170000			1				3500													1					护臂
+铁血丹心·婉扬护手	CustomArmor	6144	0	-1	-1	0	2170000			1				3500													1					护臂
+战魂手谕	Other	7510	0	-1	1	0	100			1				10													0					

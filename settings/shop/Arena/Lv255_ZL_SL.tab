@@ -1,0 +1,17 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+逐鹿天下·盘炽棍	CustomWeapon	4984	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·积劫杖	CustomWeapon	4985	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·盘炽囊	CustomWeapon	5012	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·积劫囊	CustomWeapon	5013	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·盘炽衣	CustomArmor	11460	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·盘炽衣	CustomArmor	11461	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·盘炽冠	CustomArmor	11356	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·盘炽冠	CustomArmor	11357	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·盘炽束腰	CustomArmor	11382	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·盘炽束腰	CustomArmor	11383	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·盘炽裤	CustomArmor	11434	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·盘炽裤	CustomArmor	11435	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·盘炽靴	CustomArmor	11408	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·盘炽靴	CustomArmor	11409	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·盘炽护手	CustomArmor	11330	0	-1	-1	0	2670000			1													3200				1					护臂
+逐鹿天下·盘炽护手	CustomArmor	11331	0	-1	-1	0	2670000			1													3200				1					护臂

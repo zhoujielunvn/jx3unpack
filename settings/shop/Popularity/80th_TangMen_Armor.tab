@@ -1,0 +1,27 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+扶柳裤	CustomArmor	10994	0	-1	-1	5	240000			1																	1					裤子
+扶柳鞋	CustomArmor	11004	0	-1	-1	5	170000			1																	1					鞋子
+扶柳衣	CustomArmor	10982	0	-1	-1	5	240000			1																	1					上衣
+挂角	CustomArmor	11007	0	-1	-1	6	660000			1																	1					鞋子
+虎掷护手	CustomArmor	36623	0	-1	-1	6	80000			1																	1					护臂
+虎掷裤子	CustomArmor	36626	0	-1	-1	6	110000			1																	1					裤子
+虎掷帽	CustomArmor	36624	0	-1	-1	6	100000			1																	1					头部
+虎掷上装	CustomArmor	36625	0	-1	-1	6	110000			1																	1					上衣
+虎掷鞋	CustomArmor	36627	0	-1	-1	6	80000			1																	1					鞋子
+虎掷腰	CustomArmor	36628	0	-1	-1	6	80000			1																	1					腰带
+弥载裤	CustomArmor	10995	0	-1	-1	5	240000			1																	1					裤子
+弥载鞋	CustomArmor	11005	0	-1	-1	5	170000			1																	1					鞋子
+弥载衣	CustomArmor	10983	0	-1	-1	5	240000			1																	1					上衣
+泣鱼护手	CustomArmor	36629	0	-1	-1	6	80000			1																	1					护臂
+泣鱼裤	CustomArmor	36632	0	-1	-1	6	110000			1																	1					裤子
+泣鱼帽	CustomArmor	36630	0	-1	-1	6	100000			1																	1					头部
+泣鱼鞋	CustomArmor	36633	0	-1	-1	6	80000			1																	1					鞋子
+泣鱼腰	CustomArmor	36634	0	-1	-1	6	80000			1																	1					腰带
+泣鱼衣	CustomArmor	36631	0	-1	-1	6	110000			1																	1					上衣
+青龙卷月	CustomArmor	10996	0	-1	-1	6	940000			1																	1					裤子
+神谟	CustomArmor	10984	0	-1	-1	6	940000			1																	1					上衣
+霜影	CustomWeapon	4851	0	-1	-1	7	1690000			1																	1					近程武器
+朔风狂啸	CustomArmor	10997	0	-1	-1	6	940000			1																	1					裤子
+悬危	CustomArmor	11006	0	-1	-1	6	660000			1																	1					鞋子
+炎兵	CustomWeapon	4850	0	-1	-1	7	1690000			1																	1					近程武器
+攸心	CustomArmor	10985	0	-1	-1	6	940000			1																	1					上衣

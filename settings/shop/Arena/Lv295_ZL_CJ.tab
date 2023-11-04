@@ -1,0 +1,19 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+名满天下·决杀利刃	CustomWeapon	5237	0	-1	-1	0	4960000			1													6900		1600	7	1					近程武器
+名满天下·决杀利刃	CustomWeapon	5238	0	-1	-1	0	4960000			1													6900		1600	7	1					近程武器
+名满天下·决杀凶兵	CustomWeapon	5235	0	-1	-1	0	4960000			1													6900		1600	7	1					近程武器
+名满天下·决杀凶兵	CustomWeapon	5236	0	-1	-1	0	4960000			1													6900		1600	7	1					近程武器
+名满天下·决杀战囊	CustomWeapon	5209	0	-1	-1	0	2480000			1													3500		0	7	1					远程武器
+名满天下·决杀战囊	CustomWeapon	5210	0	-1	-1	0	2480000			1													3500		0	7	1					远程武器
+名满天下·决杀金衣	CustomArmor	11988	0	-1	-1	0	4130000			1													6200		1500	7	1					上衣
+名满天下·决杀金衣	CustomArmor	11989	0	-1	-1	0	4130000			1													6200		1500	7	1					上衣
+名满天下·决杀头饰	CustomArmor	12014	0	-1	-1	0	3720000			1													5300		1400	7	1					头部
+名满天下·决杀头饰	CustomArmor	12015	0	-1	-1	0	3720000			1													5300		1400	7	1					头部
+名满天下·决杀腰带	CustomArmor	12066	0	-1	-1	0	2890000			1													3500		0	7	1					腰带
+名满天下·决杀腰带	CustomArmor	12067	0	-1	-1	0	2890000			1													3500		0	7	1					腰带
+名满天下·决杀护腿	CustomArmor	12092	0	-1	-1	0	4130000			1													3500		1200	7	1					裤子
+名满天下·决杀护腿	CustomArmor	12093	0	-1	-1	0	4130000			1													3500		1200	7	1					裤子
+名满天下·决杀战靴	CustomArmor	12118	0	-1	-1	0	2890000			1													3500		0	7	1					鞋子
+名满天下·决杀战靴	CustomArmor	12119	0	-1	-1	0	2890000			1													3500		0	7	1					鞋子
+名满天下·决杀护手	CustomArmor	12040	0	-1	-1	0	2890000			1													3500		0	7	1					护臂
+名满天下·决杀护手	CustomArmor	12041	0	-1	-1	0	2890000			1													3500		0	7	1					护臂

@@ -1,0 +1,6 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+劣青马	CustomTrinket	501	0	-1	-1	0	100000			1																	0					坐骑
+80%黄骠	CustomTrinket	504	0	-1	-1	0	1800000			1																	0					坐骑
+100%越影	CustomTrinket	511	0	-1	-1		10000000			1																	0					坐骑
+110%燎原火	CustomTrinket	551	0	-1	-1	0	50000000			1																	0					坐骑
+115%腾雾城市一	CustomTrinket	593	0	-1	-1	0	200000000			1																	0					坐骑

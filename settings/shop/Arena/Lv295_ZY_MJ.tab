@@ -1,0 +1,17 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+名满天下·恒光圣刀	CustomWeapon	6100	0	-1	-1	0	4960000			1				63300									3450		1600	7	1					近程武器
+名满天下·恒光圣刀	CustomWeapon	6101	0	-1	-1	0	4960000			1				63300									3450		1600	7	1					近程武器
+名满天下·恒光囊	CustomWeapon	6098	0	-1	-1	0	2480000			1				32100									1750		0	7	1					远程武器
+名满天下·恒光囊	CustomWeapon	6099	0	-1	-1	0	2480000			1				32100									1750		0	7	1					远程武器
+名满天下·恒光护胸	CustomArmor	14213	0	-1	-1	0	4130000			1				56800									3100		1500	7	1					上衣
+名满天下·恒光护胸	CustomArmor	14214	0	-1	-1	0	4130000			1				56800									3100		1500	7	1					上衣
+名满天下·恒光兜帽	CustomArmor	14215	0	-1	-1	0	3720000			1				48600									2650		1400	7	1					头部
+名满天下·恒光兜帽	CustomArmor	14216	0	-1	-1	0	3720000			1				48600									2650		1400	7	1					头部
+名满天下·恒光腰带	CustomArmor	14219	0	-1	-1	0	2890000			1				32100									1750		0	7	1					腰带
+名满天下·恒光腰带	CustomArmor	14220	0	-1	-1	0	2890000			1				32100									1750		0	7	1					腰带
+名满天下·恒光腿甲	CustomArmor	14221	0	-1	-1	0	4130000			1				32100									1750		1200	7	1					裤子
+名满天下·恒光腿甲	CustomArmor	14222	0	-1	-1	0	4130000			1				32100									1750		1200	7	1					裤子
+名满天下·恒光战靴	CustomArmor	14223	0	-1	-1	0	2890000			1				32100									1750		0	7	1					鞋子
+名满天下·恒光战靴	CustomArmor	14224	0	-1	-1	0	2890000			1				32100									1750		0	7	1					鞋子
+名满天下·恒光束腕	CustomArmor	14217	0	-1	-1	0	2890000			1				32100									1750		0	7	1					护臂
+名满天下·恒光束腕	CustomArmor	14218	0	-1	-1	0	2890000			1				32100									1750		0	7	1					护臂

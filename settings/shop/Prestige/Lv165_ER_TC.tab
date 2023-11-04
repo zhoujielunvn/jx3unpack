@@ -1,0 +1,34 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+傲世狂歌·铁壁枪	CustomWeapon	2620	0	-1	-1	0	2230000			1				6000													1					近程武器
+傲世狂歌·铁壁枪	CustomWeapon	2723	0	-1	-1	0	2230000			1				6000													1					近程武器
+瀚海雄风·沧浪枪	CustomWeapon	2640	0	-1	-1	0	3720000			1				6000													1					近程武器
+瀚海雄风·沧浪枪	CustomWeapon	2743	0	-1	-1	0	3720000			1				6000													1					近程武器
+傲世狂歌·铁壁囊	CustomWeapon	2677	0	-1	-1	0	1120000			1				3000													1					远程武器
+傲世狂歌·铁壁囊	CustomWeapon	2758	0	-1	-1	0	1120000			1				3000													1					远程武器
+瀚海雄风·沧浪囊	CustomWeapon	2695	0	-1	-1	0	1860000			1				3000													1					远程武器
+瀚海雄风·沧浪囊	CustomWeapon	2776	0	-1	-1	0	1860000			1				3000													1					远程武器
+瀚海雄风·沧浪衣	CustomArmor	5764	0	-1	-1	0	1860000			1				5000													1					上衣
+瀚海雄风·沧浪衣	CustomArmor	6085	0	-1	-1	0	1860000			1				5000													1					上衣
+瀚海雄风·沧浪衣	CustomArmor	5872	0	-1	-1	0	3100000			1				5000													1					上衣
+瀚海雄风·沧浪衣	CustomArmor	6193	0	-1	-1	0	3100000			1				5000													1					上衣
+瀚海雄风·沧浪冠	CustomArmor	5767	0	-1	-1	0	1680000			1				4500													1					头部
+瀚海雄风·沧浪冠	CustomArmor	6088	0	-1	-1	0	1680000			1				4500													1					头部
+瀚海雄风·沧浪冠	CustomArmor	5873	0	-1	-1	0	2790000			1				4500													1					头部
+瀚海雄风·沧浪冠	CustomArmor	6194	0	-1	-1	0	2790000			1				4500													1					头部
+瀚海雄风·沧浪腰带	CustomArmor	5766	0	-1	-1	0	1300000			1				3500													1					腰带
+瀚海雄风·沧浪腰带	CustomArmor	6087	0	-1	-1	0	1300000			1				3500													1					腰带
+瀚海雄风·沧浪腰带	CustomArmor	5874	0	-1	-1	0	2170000			1				3500													1					腰带
+瀚海雄风·沧浪腰带	CustomArmor	6195	0	-1	-1	0	2170000			1				3500													1					腰带
+瀚海雄风·沧浪裤	CustomArmor	5765	0	-1	-1	0	1860000			1				5000													1					裤子
+瀚海雄风·沧浪裤	CustomArmor	6086	0	-1	-1	0	1860000			1				5000													1					裤子
+瀚海雄风·沧浪裤	CustomArmor	5875	0	-1	-1	0	3100000			1				5000													1					裤子
+瀚海雄风·沧浪裤	CustomArmor	6196	0	-1	-1	0	3100000			1				5000													1					裤子
+瀚海雄风·沧浪靴	CustomArmor	5768	0	-1	-1	0	1300000			1				3500													1					鞋子
+瀚海雄风·沧浪靴	CustomArmor	6089	0	-1	-1	0	1300000			1				3500													1					鞋子
+瀚海雄风·沧浪靴	CustomArmor	5876	0	-1	-1	0	2170000			1				3500													1					鞋子
+瀚海雄风·沧浪靴	CustomArmor	6197	0	-1	-1	0	2170000			1				3500													1					鞋子
+瀚海雄风·沧浪护手	CustomArmor	5769	0	-1	-1	0	1300000			1				3500													1					护臂
+瀚海雄风·沧浪护手	CustomArmor	6090	0	-1	-1	0	1300000			1				3500													1					护臂
+瀚海雄风·沧浪护手	CustomArmor	5877	0	-1	-1	0	2170000			1				3500													1					护臂
+瀚海雄风·沧浪护手	CustomArmor	6198	0	-1	-1	0	2170000			1				3500													1					护臂
+战魂手谕	Other	7510	0	-1	1	0	100			1				10													0					

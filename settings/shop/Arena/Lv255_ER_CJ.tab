@@ -1,0 +1,19 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+攻无不克·殷武轻剑	CustomWeapon	3935	0	-1	-1	0	4580000			1				52000									3250		1800		1					近程武器
+攻无不克·殷武轻剑	CustomWeapon	3936	0	-1	-1	0	4580000			1				52000									3250		1800		1					近程武器
+攻无不克·殷武重剑	CustomWeapon	3933	0	-1	-1	0	4580000			1				52000									3250		1800		1					近程武器
+攻无不克·殷武重剑	CustomWeapon	3934	0	-1	-1	0	4580000			1				52000									3250		1800		1					近程武器
+攻无不克·殷武囊	CustomWeapon	4071	0	-1	-1	0	2290000			1				25600									1600				1					远程武器
+攻无不克·殷武囊	CustomWeapon	4072	0	-1	-1	0	2290000			1				25600									1600				1					远程武器
+攻无不克·夏启王袍	CustomArmor	9385	0	-1	-1	0	3820000			1				40000									2500		1600		1					上衣
+攻无不克·夏启王袍	CustomArmor	9386	0	-1	-1	0	3820000			1				40000									2500		1600		1					上衣
+攻无不克·夏启古冠	CustomArmor	9473	0	-1	-1	0	3430000			1				32000									2000		1400		1					头部
+攻无不克·夏启古冠	CustomArmor	9474	0	-1	-1	0	3430000			1				32000									2000		1400		1					头部
+攻无不克·夏启护腰	CustomArmor	9451	0	-1	-1	0	2670000			1				25600									1600				1					腰带
+攻无不克·夏启护腰	CustomArmor	9452	0	-1	-1	0	2670000			1				25600									1600				1					腰带
+攻无不克·夏启护腿	CustomArmor	9407	0	-1	-1	0	3820000			1				27200									1700		1200		1					裤子
+攻无不克·夏启护腿	CustomArmor	9408	0	-1	-1	0	3820000			1				27200									1700		1200		1					裤子
+攻无不克·夏启战靴	CustomArmor	9429	0	-1	-1	0	2670000			1				25600									1600				1					鞋子
+攻无不克·夏启战靴	CustomArmor	9430	0	-1	-1	0	2670000			1				25600									1600				1					鞋子
+攻无不克·夏启臂甲	CustomArmor	9363	0	-1	-1	0	2670000			1				25600									1600				1					护臂
+攻无不克·夏启臂甲	CustomArmor	9364	0	-1	-1	0	2670000			1				25600									1600				1					护臂

@@ -1,0 +1,27 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+上清衣	CustomArmor	452	0	-1	-1	5	240000			1																	1					上衣
+两仪长衣	CustomArmor	453	0	-1	-1	5	240000			1																	1					上衣
+上清裤	CustomArmor	644	0	-1	-1	5	240000			1																	1					裤子
+两仪长裤	CustomArmor	645	0	-1	-1	5	240000			1																	1					裤子
+上清鞋	CustomArmor	838	0	-1	-1	5	170000			1																	1					鞋子
+两仪长靴	CustomArmor	839	0	-1	-1	5	170000			1																	1					鞋子
+金虚问道袍	CustomArmor	36452	0	-1	-1	6	110000			1																	1					上衣
+清虚修真袍	CustomArmor	36458	0	-1	-1	6	110000			1																	1					上衣
+太清衣	CustomArmor	553	0	-1	-1	6	940000			1																	1					上衣
+四象袍	CustomArmor	554	0	-1	-1	6	940000			1																	1					上衣
+金虚问道巾	CustomArmor	36451	0	-1	-1	6	100000			1																	1					头部
+清虚修真冠	CustomArmor	36457	0	-1	-1	6	100000			1																	1					头部
+金虚问道玉带	CustomArmor	36455	0	-1	-1	6	80000			1																	1					腰带
+清虚修真玉带	CustomArmor	36461	0	-1	-1	6	80000			1																	1					腰带
+金虚问道裤	CustomArmor	36453	0	-1	-1	6	110000			1																	1					裤子
+清虚修真裳	CustomArmor	36459	0	-1	-1	6	110000			1																	1					裤子
+太清裤	CustomArmor	745	0	-1	-1	6	940000			1																	1					裤子
+四象裤	CustomArmor	746	0	-1	-1	6	940000			1																	1					裤子
+金虚问道鞋	CustomArmor	36454	0	-1	-1	6	80000			1																	1					鞋子
+清虚修真鞋	CustomArmor	36460	0	-1	-1	6	80000			1																	1					鞋子
+太清鞋	CustomArmor	935	0	-1	-1	6	660000			1																	1					鞋子
+四象鞋	CustomArmor	936	0	-1	-1	6	660000			1																	1					鞋子
+金虚问道护手	CustomArmor	36450	0	-1	-1	6	80000			1																	1					护臂
+清虚修真护手	CustomArmor	36456	0	-1	-1	6	80000			1																	1					护臂
+逍遥	CustomWeapon	595	0	-1	-1	7	1690000			1																	1					近程武器
+离殇	CustomWeapon	596	0	-1	-1	7	1690000			1																	1					近程武器

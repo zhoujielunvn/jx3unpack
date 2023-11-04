@@ -1,0 +1,51 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+苍天鹤血·怖军杖	CustomWeapon	5331	0	-1	-1	0	4820000			1				45000						7							1					近程武器
+苍天鹤血·怖军杖	CustomWeapon	5332	0	-1	-1	0	4820000			1				45000						7							1					近程武器
+风涛豪情·观愿杖	CustomWeapon	6365	0	-1	-1	0	5110000			1				102800						14							1					近程武器
+风涛豪情·观愿杖	CustomWeapon	6366	0	-1	-1	0	5110000			1				102800						14							1					近程武器
+苍天鹤血·怖军囊	CustomWeapon	5305	0	-1	-1	0	2410000			1				22500						7							1					远程武器
+苍天鹤血·怖军囊	CustomWeapon	5306	0	-1	-1	0	2410000			1				22500						7							1					远程武器
+风涛豪情·观愿囊	CustomWeapon	6337	0	-1	-1	0	2550000			1				51400						14							1					远程武器
+风涛豪情·观愿囊	CustomWeapon	6338	0	-1	-1	0	2550000			1				51400						14							1					远程武器
+苍天鹤血·怖军袈裟	CustomArmor	12314	0	-1	-1	0	4020000			1				37500						6							1					上衣
+苍天鹤血·怖军袈裟	CustomArmor	12315	0	-1	-1	0	4020000			1				37500						6							1					上衣
+风涛豪情·观愿袈裟	CustomArmor	15154	0	-1	-1	0	4250000			1				85700						13							1					上衣
+风涛豪情·观愿袈裟	CustomArmor	15155	0	-1	-1	0	4250000			1				85700						13							1					上衣
+苍天鹤血·怖军笠	CustomArmor	12288	0	-1	-1	0	3610000			1				33700						5							1					头部
+苍天鹤血·怖军笠	CustomArmor	12289	0	-1	-1	0	3610000			1				33700						5							1					头部
+风涛豪情·观愿笠	CustomArmor	15126	0	-1	-1	0	3830000			1				77100						12							1					头部
+风涛豪情·观愿笠	CustomArmor	15127	0	-1	-1	0	3830000			1				77100						12							1					头部
+苍天鹤血·怖军腰带	CustomArmor	12418	0	-1	-1	0	2810000			1				26200						3							1					腰带
+苍天鹤血·怖军腰带	CustomArmor	12419	0	-1	-1	0	2810000			1				26200						3							1					腰带
+风涛豪情·观愿束带	CustomArmor	15266	0	-1	-1	0	2980000			1				60000						10							1					腰带
+风涛豪情·观愿束带	CustomArmor	15267	0	-1	-1	0	2980000			1				60000						10							1					腰带
+苍天鹤血·怖军裤	CustomArmor	12392	0	-1	-1	0	4020000			1				37500						4							1					裤子
+苍天鹤血·怖军裤	CustomArmor	12393	0	-1	-1	0	4020000			1				37500						4							1					裤子
+风涛豪情·观愿裤	CustomArmor	15238	0	-1	-1	0	4250000			1				85700						11							1					裤子
+风涛豪情·观愿裤	CustomArmor	15239	0	-1	-1	0	4250000			1				85700						11							1					裤子
+苍天鹤血·怖军靴	CustomArmor	12366	0	-1	-1	0	2810000			1				26200						2							1					鞋子
+苍天鹤血·怖军靴	CustomArmor	12367	0	-1	-1	0	2810000			1				26200						2							1					鞋子
+风涛豪情·观愿靴	CustomArmor	15210	0	-1	-1	0	2980000			1				60000						9							1					鞋子
+风涛豪情·观愿靴	CustomArmor	15211	0	-1	-1	0	2980000			1				60000						9							1					鞋子
+苍天鹤血·怖军护手	CustomArmor	12340	0	-1	-1	0	2810000			1				26200						1							1					护臂
+苍天鹤血·怖军护手	CustomArmor	12341	0	-1	-1	0	2810000			1				26200						1							1					护臂
+风涛豪情·观愿护手	CustomArmor	15182	0	-1	-1	0	2980000			1				60000						8							1					护臂
+风涛豪情·观愿护手	CustomArmor	15183	0	-1	-1	0	2980000			1				60000						8							1					护臂
+苍天鹤血·怖军链	CustomTrinket	5074	0	-1	-1	0	2010000			1				22500													1					项链
+苍天鹤血·怖军链	CustomTrinket	5075	0	-1	-1	0	2010000			1				22500													1					项链
+苍天鹤血·怖军护颈	CustomTrinket	5274	0	-1	-1	0	2010000			1				22500													1					项链
+风涛豪情·观愿链	CustomTrinket	6585	0	-1	-1	0	2130000			1				70000													1					项链
+风涛豪情·观愿链	CustomTrinket	6586	0	-1	-1	0	2130000			1				70000													1					项链
+风涛豪情·观愿链	CustomTrinket	6587	0	-1	-1	0	2130000			1				70000													1					项链
+苍天鹤血·怖军戒	CustomTrinket	5048	0	-1	-1	0	2010000			1				22500													1					戒指
+苍天鹤血·怖军戒	CustomTrinket	5049	0	-1	-1	0	2010000			1				22500													1					戒指
+苍天鹤血·怖军环	CustomTrinket	5300	0	-1	-1	0	2010000			1				22500													1					戒指
+风涛豪情·观愿戒	CustomTrinket	6543	0	-1	-1	0	2130000			1				70000													1					戒指
+风涛豪情·观愿戒	CustomTrinket	6544	0	-1	-1	0	2130000			1				70000													1					戒指
+风涛豪情·观愿戒	CustomTrinket	6545	0	-1	-1	0	2130000			1				70000													1					戒指
+苍天鹤血·怖军坠	CustomTrinket	5100	0	-1	-1	0	2010000			1				22500													1					腰坠
+苍天鹤血·怖军坠	CustomTrinket	5101	0	-1	-1	0	2010000			1				22500													1					腰坠
+苍天鹤血·怖军佩	CustomTrinket	5326	0	-1	-1	0	2010000			1				22500													1					腰坠
+风涛豪情·观愿坠	CustomTrinket	6627	0	-1	-1	0	2130000			1				70000													1					腰坠
+风涛豪情·观愿坠	CustomTrinket	6628	0	-1	-1	0	2130000			1				70000													1					腰坠
+风涛豪情·观愿坠	CustomTrinket	6629	0	-1	-1	0	2130000			1				70000													1					腰坠

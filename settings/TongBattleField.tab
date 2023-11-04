@@ -1,0 +1,2 @@
+MapID	MinLevelRequire	MaxLevelRequire	SingleSideCount	DoubleSideCount	MaxPlayerCount	PQTemplateID	Script
+149	120	120	5	5	25	31	battlefield\level80tongbattlefield.lua

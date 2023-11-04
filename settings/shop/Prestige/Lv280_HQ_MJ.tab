@@ -1,0 +1,51 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+碧落青冥·拨云弯刀	CustomWeapon	6104	0	-1	-1	0	4820000			1				45000						7							1					近程武器
+碧落青冥·拨云弯刀	CustomWeapon	6105	0	-1	-1	0	4820000			1				45000						7							1					近程武器
+剑胆琴心·卷阵弯刀	CustomWeapon	6327	0	-1	-1	0	5110000			1				102800						14							1					近程武器
+剑胆琴心·卷阵弯刀	CustomWeapon	6328	0	-1	-1	0	5110000			1				102800						14							1					近程武器
+碧落青冥·拨云囊	CustomWeapon	6102	0	-1	-1	0	2410000			1				22500						7							1					远程武器
+碧落青冥·拨云囊	CustomWeapon	6103	0	-1	-1	0	2410000			1				22500						7							1					远程武器
+剑胆琴心·卷阵囊	CustomWeapon	6297	0	-1	-1	0	2550000			1				51400						14							1					远程武器
+剑胆琴心·卷阵囊	CustomWeapon	6298	0	-1	-1	0	2550000			1				51400						14							1					远程武器
+碧落青冥·拨云衣	CustomArmor	14227	0	-1	-1	0	4020000			1				37500						6							1					上衣
+碧落青冥·拨云衣	CustomArmor	14228	0	-1	-1	0	4020000			1				37500						6							1					上衣
+剑胆琴心·卷阵衣	CustomArmor	15004	0	-1	-1	0	4250000			1				85700						13							1					上衣
+剑胆琴心·卷阵衣	CustomArmor	15005	0	-1	-1	0	4250000			1				85700						13							1					上衣
+碧落青冥·拨云帽	CustomArmor	14225	0	-1	-1	0	3610000			1				33700						5							1					头部
+碧落青冥·拨云帽	CustomArmor	14226	0	-1	-1	0	3610000			1				33700						5							1					头部
+剑胆琴心·卷阵帽	CustomArmor	14976	0	-1	-1	0	3830000			1				77100						12							1					头部
+剑胆琴心·卷阵帽	CustomArmor	14977	0	-1	-1	0	3830000			1				77100						12							1					头部
+碧落青冥·拨云腰带	CustomArmor	14235	0	-1	-1	0	2810000			1				26200						3							1					腰带
+碧落青冥·拨云腰带	CustomArmor	14236	0	-1	-1	0	2810000			1				26200						3							1					腰带
+剑胆琴心·卷阵束带	CustomArmor	15116	0	-1	-1	0	2980000			1				60000						10							1					腰带
+剑胆琴心·卷阵束带	CustomArmor	15117	0	-1	-1	0	2980000			1				60000						10							1					腰带
+碧落青冥·拨云裤	CustomArmor	14233	0	-1	-1	0	4020000			1				37500						4							1					裤子
+碧落青冥·拨云裤	CustomArmor	14234	0	-1	-1	0	4020000			1				37500						4							1					裤子
+剑胆琴心·卷阵裤	CustomArmor	15088	0	-1	-1	0	4250000			1				85700						11							1					裤子
+剑胆琴心·卷阵裤	CustomArmor	15089	0	-1	-1	0	4250000			1				85700						11							1					裤子
+碧落青冥·拨云靴	CustomArmor	14231	0	-1	-1	0	2810000			1				26200						2							1					鞋子
+碧落青冥·拨云靴	CustomArmor	14232	0	-1	-1	0	2810000			1				26200						2							1					鞋子
+剑胆琴心·卷阵靴	CustomArmor	15060	0	-1	-1	0	2980000			1				60000						9							1					鞋子
+剑胆琴心·卷阵靴	CustomArmor	15061	0	-1	-1	0	2980000			1				60000						9							1					鞋子
+碧落青冥·拨云护手	CustomArmor	14229	0	-1	-1	0	2810000			1				26200						1							1					护臂
+碧落青冥·拨云护手	CustomArmor	14230	0	-1	-1	0	2810000			1				26200						1							1					护臂
+剑胆琴心·卷阵护手	CustomArmor	15032	0	-1	-1	0	2980000			1				60000						8							1					护臂
+剑胆琴心·卷阵护手	CustomArmor	15033	0	-1	-1	0	2980000			1				60000						8							1					护臂
+碧落青冥·拨云链	CustomTrinket	6222	0	-1	-1	0	2010000			1				22500													1					项链
+碧落青冥·拨云链	CustomTrinket	6223	0	-1	-1	0	2010000			1				22500													1					项链
+碧落青冥·羽涅戒	CustomTrinket	6248	0	-1	-1	0	2010000			1				22500													1					项链
+剑胆琴心·卷阵链	CustomTrinket	6486	0	-1	-1	0	2130000			1				70000													1					项链
+剑胆琴心·卷阵链	CustomTrinket	6487	0	-1	-1	0	2130000			1				70000													1					项链
+剑胆琴心·卷阵链	CustomTrinket	6488	0	-1	-1	0	2130000			1				70000													1					项链
+碧落青冥·拨云戒	CustomTrinket	6220	0	-1	-1	0	2010000			1				22500													1					戒指
+碧落青冥·拨云戒	CustomTrinket	6221	0	-1	-1	0	2010000			1				22500													1					戒指
+碧落青冥·羽涅戒	CustomTrinket	6250	0	-1	-1	0	2010000			1				22500													1					戒指
+剑胆琴心·卷阵戒	CustomTrinket	6444	0	-1	-1	0	2130000			1				70000													1					戒指
+剑胆琴心·卷阵戒	CustomTrinket	6445	0	-1	-1	0	2130000			1				70000													1					戒指
+剑胆琴心·卷阵戒	CustomTrinket	6446	0	-1	-1	0	2130000			1				70000													1					戒指
+碧落青冥·拨云坠	CustomTrinket	6224	0	-1	-1	0	2010000			1				22500													1					腰坠
+碧落青冥·拨云坠	CustomTrinket	6225	0	-1	-1	0	2010000			1				22500													1					腰坠
+碧落青冥·羽涅坠	CustomTrinket	6252	0	-1	-1	0	2010000			1				22500													1					腰坠
+剑胆琴心·卷阵坠	CustomTrinket	6528	0	-1	-1	0	2130000			1				70000													1					腰坠
+剑胆琴心·卷阵坠	CustomTrinket	6529	0	-1	-1	0	2130000			1				70000													1					腰坠
+剑胆琴心·卷阵坠	CustomTrinket	6530	0	-1	-1	0	2130000			1				70000													1					腰坠

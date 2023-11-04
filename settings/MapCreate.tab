@@ -1,0 +1,8 @@
+Dest	Group1	Group2	Group3	Group4	Group5	Group6	Group7	Group8	Group16	Group127	Group128
+TongDungeon	1	1	0	0	0	0	0	0	0	0	0
+Dungeon	1	0	0	0	1	1	1	1	1	0	0
+Arena	1	0	1	0	0	0	0	0	0	0	0
+BattleField	1	1	1	1	1	0	0	0	1	1	1
+SingleDungeon	1	0	0	1	0	0	0	0	0	0	0
+Community	1	0	0	0	0	0	0	0	0	0	0
+TongLeague	1	1	0	0	0	0	0	0	0	0	0

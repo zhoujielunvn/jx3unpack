@@ -1,0 +1,19 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+雁虞·凝然护臂	CustomArmor	4874	0	-1	-1	0	870000			1						5	4599	1									1					护臂
+雁虞·凝然盔	CustomArmor	4875	0	-1	-1	0	1120000			1						5	4600	1									1					头部
+雁虞·凝然铠	CustomArmor	4876	0	-1	-1	0	1240000			1						5	4601	1									1					上衣
+雁虞·凝然靴	CustomArmor	4877	0	-1	-1	0	870000			1						5	4602	1									1					鞋子
+雁虞·凝然腰带	CustomArmor	4878	0	-1	-1	0	870000			1						5	4603	1									1					腰带
+剑茗·坚金护手	CustomArmor	4901	0	-1	-1	0	1300000			1						5	6761	1									1					护臂
+剑茗·坚金冠	CustomArmor	4902	0	-1	-1	0	1680000			1						5	6762	1									1					头部
+剑茗·坚金衣	CustomArmor	4903	0	-1	-1	0	1860000			1						5	6763	1									1					上衣
+剑茗·坚金裤	CustomArmor	4904	0	-1	-1	0	1860000			1						5	6764	1									1					裤子
+剑茗·坚金履	CustomArmor	4905	0	-1	-1	0	1300000			1						5	6765	1									1					鞋子
+剑茗·坚金护腰	CustomArmor	4906	0	-1	-1	0	1300000			1						5	6766	1									1					腰带
+雁虞·凝然裤	CustomArmor	5253	0	-1	-1	0	1240000			1						5	7040	1									1					裤子
+三宿·南浦链	CustomTrinket	2226	0	-1	-1	0	930000			1						5	7169	1									1					项链
+三宿·南浦戒	CustomTrinket	2197	0	-1	-1	0	930000			1						5	7172	1									1					戒指
+三宿·南浦印	CustomTrinket	2208	0	-1	-1	0	930000			1						5	7173	1									1					戒指
+荻魂·剑痕衣	CustomArmor	6249	0	-1	-1	0	3140000			1						5	7726	1									1					上衣
+荻魂·剑痕带	CustomArmor	6248	0	-1	-1	0	2200000			1						5	7727	1									1					腰带
+荻魂·剑痕靴	CustomArmor	6247	0	-1	-1	0	2200000			1						5	7728	1									1					鞋子

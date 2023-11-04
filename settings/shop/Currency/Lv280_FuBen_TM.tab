@@ -1,0 +1,19 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+烛天·霜月辉耀束腕	CustomArmor	11861	0	-1	-1	0	2810000			1						5	11973	1									1					护臂
+烛天·星火荧煌护手	CustomArmor	11862	0	-1	-1	0	2810000			1						5	11973	1									1					护臂
+烛天·霜月辉耀靴	CustomArmor	11906	0	-1	-1	0	2810000			1						5	11974	1									1					鞋子
+烛天·星火荧煌靴	CustomArmor	11907	0	-1	-1	0	2810000			1						5	11974	1									1					鞋子
+烛天·霜月辉耀裤	CustomArmor	11891	0	-1	-1	0	4020000			1						5	11975	1									1					裤子
+烛天·星火荧煌裤	CustomArmor	11892	0	-1	-1	0	4020000			1						5	11975	1									1					裤子
+烛天·霜月辉耀带	CustomArmor	11921	0	-1	-1	0	2810000			1						5	11976	1									1					腰带
+烛天·星火荧煌带	CustomArmor	11922	0	-1	-1	0	2810000			1						5	11976	1									1					腰带
+烛天·霜月辉耀衫	CustomArmor	11876	0	-1	-1	0	4020000			1						5	11977	1									1					上衣
+烛天·星火荧煌衣	CustomArmor	11877	0	-1	-1	0	4020000			1						5	11977	1									1					上衣
+烛天·霜月辉耀帽	CustomArmor	11846	0	-1	-1	0	3610000			1						5	11978	1									1					头部
+烛天·星火荧煌冠	CustomArmor	11847	0	-1	-1	0	3610000			1						5	11978	1									1					头部
+千缘·狙候终厄链	CustomTrinket	5512	0	-1	-1	0	2010000			1						5	17120	1									1					项链
+千缘·化钧高妙链	CustomTrinket	5511	0	-1	-1	0	2010000			1						5	17120	1									1					项链
+千缘·狙候终厄环	CustomTrinket	5527	0	-1	-1	0	2010000			1						5	17121	1									1					戒指
+千缘·化钧高妙环	CustomTrinket	5526	0	-1	-1	0	2010000			1						5	17121	1									1					戒指
+千缘·狙候终厄戒	CustomTrinket	5542	0	-1	-1	0	2010000			1						5	17122	1									1					戒指
+千缘·化钧高妙戒	CustomTrinket	5541	0	-1	-1	0	2010000			1						5	17122	1									1					戒指

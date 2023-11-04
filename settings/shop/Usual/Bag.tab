@@ -1,0 +1,6 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+粗布腰包	CustomTrinket	18	0	-1	-1	0	2000			1																	0					包裹
+棉布包	CustomTrinket	19	0	-1	-1	0	15000			1																	0					包裹
+丝绸皮包	CustomTrinket	20	0	-1	-1	0	50000			1																	0					包裹
+彩锦皮包	CustomTrinket	21	0	-1	-1	0	80000			1																	0					包裹
+小书包	CustomTrinket	33	0	-1	-1	0	10000			1																	0					包裹

@@ -1,0 +1,33 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+逐鹿天下·开乾剑	CustomWeapon	4986	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·掩坤剑	CustomWeapon	4987	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·开乾剑	CustomWeapon	4988	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·掩坤剑	CustomWeapon	4989	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·开乾囊	CustomWeapon	5014	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·掩坤囊	CustomWeapon	5015	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·开乾囊	CustomWeapon	5016	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·掩坤囊	CustomWeapon	5017	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·开乾衣	CustomArmor	11462	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·掩坤衣	CustomArmor	11463	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·开乾衣	CustomArmor	11464	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·掩坤衣	CustomArmor	11465	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·开乾冠	CustomArmor	11358	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·掩坤冠	CustomArmor	11359	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·开乾冠	CustomArmor	11360	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·掩坤冠	CustomArmor	11361	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·开乾束腰	CustomArmor	11384	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·掩坤束腰	CustomArmor	11385	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·开乾束腰	CustomArmor	11386	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·掩坤束腰	CustomArmor	11387	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·开乾裤	CustomArmor	11436	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·掩坤裤	CustomArmor	11437	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·开乾裤	CustomArmor	11438	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·掩坤裤	CustomArmor	11439	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·开乾靴	CustomArmor	11410	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·掩坤靴	CustomArmor	11411	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·开乾靴	CustomArmor	11412	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·掩坤靴	CustomArmor	11413	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·开乾护手	CustomArmor	11332	0	-1	-1	0	2670000			1													3200				1					护臂
+逐鹿天下·掩坤护手	CustomArmor	11333	0	-1	-1	0	2670000			1													3200				1					护臂
+逐鹿天下·开乾护手	CustomArmor	11334	0	-1	-1	0	2670000			1													3200				1					护臂
+逐鹿天下·掩坤护手	CustomArmor	11335	0	-1	-1	0	2670000			1													3200				1					护臂

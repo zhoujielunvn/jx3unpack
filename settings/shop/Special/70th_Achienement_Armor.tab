@@ -1,0 +1,35 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+天字·探花巾	CustomArmor	4003	0	-1	-1	0	20000	0		1					210												0					头部
+天字·荷叶青	CustomArmor	4005	0	-1	-1	0	20000	0		1					210												0					头部
+天字·隐匿帽	CustomArmor	4006	0	-1	-1	0	60000	9000		1					300												0					头部
+天字·飞狐面具	CustomArmor	4004	0	-1	-1	0	100000	9000		1					300												0					头部
+天字·铭心锤	CustomTrinket	4012	0	-1	-1	0	90000	0		1					180												0					腰部扩展
+天字·草篓	CustomTrinket	4013	0	-1	-1	0	90000			1					180												0					腰部扩展
+天字·极乐帽	CustomTrinket	4010	0	-1	-1	0	240000	0		1					180												0					背部扩展
+天字·乐志帽	CustomTrinket	4032	0	-1	-1	0	240000	0		1					180												0					背部扩展
+天字·酒须醉	CustomTrinket	4015	0	-1	-1	0	90000	1500		1					210												0					腰部扩展
+天字·护花书笈	CustomTrinket	4009	0	-1	-1	0	240000	1500		1					210												0					背部扩展
+天字·如意架	CustomTrinket	4008	0	-1	-1	0	240000	1500		1					210												0					背部扩展
+天字·霓裳架	CustomTrinket	4033	0	-1	-1	0	240000	1500		1					210												0					背部扩展
+天字·玉果篮	CustomTrinket	4034	0	-1	-1	0	240000	1500		1					210												0					背部扩展
+天字·连城角	CustomTrinket	4016	0	-1	-1	0	90000	9000		1					300												0					腰部扩展
+天字·惬意醺	CustomTrinket	4017	0	-1	-1	0	90000	9000		1					300												0					腰部扩展
+天字·昆吾盾	CustomTrinket	4011	0	-1	-1	0	240000	9000		1					300												0					背部扩展
+天字·歃血盾	CustomTrinket	4014	0	-1	-1	0	240000	9000		1					300												0					背部扩展
+110%忽雷驳成就	CustomTrinket	506	0	-1	-1	0	300	9000		1					2000												0					坐骑
+110%月绝影成就	CustomTrinket	507	0	-1	-1	0	300	9000		1					2000												0					坐骑
+压酒	Other	5157	0	-1	1	0	10000	0		1					180												0					
+千鸟	Other	5152	0	-1	1	0	10000	0		1					180												0					
+口水	Other	5156	0	-1	1	0	10000	0		1					180												0					
+风色	Other	5155	0	-1	1	0	250000	2500		1					210												0					
+烛影	Other	5159	0	-1	1	0	250000	2500		1					210												0					
+侠骨	Other	5158	0	-1	1	0	250000	2500		1					210												0					
+吹断	Other	5146	0	-1	1	0	250000	2500		1					210												0					
+欢庆	Other	5153	0	-1	1	0	450000	4500		1					300												0					
+绿水	Other	5154	0	-1	1	0	450000	4500		1					300												0					
+耀华鞍饰	CustomTrinket	17562	0	-1	1	0	3500000	10000	70	1					480												0					
+耀华头饰	CustomTrinket	17563	0	-1	1	0	3500000	10000	70	1					480												0					
+耀华足饰	CustomTrinket	17564	0	-1	1	0	3500000	10000	70	1					480												0					
+暗金头饰	CustomTrinket	17591	0	-1	1	0	3500000	10000	70	1					480												0					
+暗金足饰	CustomTrinket	17592	0	-1	1	0	3500000	10000	70	1					480												0					
+暗金鞍饰	CustomTrinket	17593	0	-1	1	0	3500000	10000	70	1					480												0					

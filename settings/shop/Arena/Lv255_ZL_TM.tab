@@ -1,0 +1,33 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+逐鹿天下·夺魄匣	CustomWeapon	4976	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·追魂匣	CustomWeapon	4977	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·夺魄匣	CustomWeapon	4978	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·追魂匣	CustomWeapon	4979	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·夺魄囊	CustomWeapon	5004	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·追魂囊	CustomWeapon	5005	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·夺魄囊	CustomWeapon	5006	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·追魂囊	CustomWeapon	5007	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·夺魄衣	CustomArmor	11452	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·追魂衣	CustomArmor	11453	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·夺魄衣	CustomArmor	11454	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·追魂衣	CustomArmor	11455	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·夺魄冠	CustomArmor	11348	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·追魂冠	CustomArmor	11349	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·夺魄冠	CustomArmor	11350	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·追魂冠	CustomArmor	11351	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·夺魄束腰	CustomArmor	11374	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·追魂束腰	CustomArmor	11375	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·夺魄束腰	CustomArmor	11376	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·追魂束腰	CustomArmor	11377	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·夺魄裤	CustomArmor	11426	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·追魂裤	CustomArmor	11427	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·夺魄裤	CustomArmor	11428	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·追魂裤	CustomArmor	11429	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·夺魄靴	CustomArmor	11400	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·追魂靴	CustomArmor	11401	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·夺魄靴	CustomArmor	11402	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·追魂靴	CustomArmor	11403	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·夺魄护手	CustomArmor	11322	0	-1	-1	0	2670000			1													3200				1					护臂
+逐鹿天下·追魂护手	CustomArmor	11323	0	-1	-1	0	2670000			1													3200				1					护臂
+逐鹿天下·夺魄护手	CustomArmor	11324	0	-1	-1	0	2670000			1													3200				1					护臂
+逐鹿天下·追魂护手	CustomArmor	11325	0	-1	-1	0	2670000			1													3200				1					护臂

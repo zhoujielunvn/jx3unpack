@@ -1,0 +1,16 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+天仵	CustomWeapon	3288	0	-1	-1	0	3620000			1						5	7161	190									1					近程武器
+幽猊	CustomWeapon	3289	0	-1	-1	0	3620000			1						5	7161	190									1					近程武器
+剑茗·坚金衣	CustomArmor	4903	0	-1	-1	0	1860000			1						5	7161	160									1					上衣
+剑茗·坚金冠	CustomArmor	4902	0	-1	-1	0	1680000			1						5	7161	80									1					头部
+剑茗·坚金护腰	CustomArmor	4906	0	-1	-1	0	1300000			1						5	7161	120									1					腰带
+剑茗·坚金裤	CustomArmor	4904	0	-1	-1	0	1860000			1						5	7161	120									1					裤子
+剑茗·坚金履	CustomArmor	4905	0	-1	-1	0	1300000			1						5	7161	80									1					鞋子
+剑茗·坚金护手	CustomArmor	4901	0	-1	-1	0	1300000			1						5	7161	40									1					护臂
+三宿·南浦链	CustomTrinket	2226	0	-1	-1	0	930000			1						5	7161	100									1					项链
+三宿·南浦戒	CustomTrinket	2197	0	-1	-1	0	930000			1						5	7161	100									1					戒指
+三宿·南浦印	CustomTrinket	2208	0	-1	-1	0	930000			1						5	7161	100									1					戒指
+龙魂谱	Other	5013	0	-1	1	0	8000000			1						5	7161	30									0					
+天煞兵器谱兵器碎片	Other	5012	0	-1	1	0	10000000			1						5	7161	40									0					
+天工图：玄铁剑	Other	6897	0	-1	1	0	25000000			1						5	7161	150									0					
+天工图：君子	Other	6898	0	-1	1	0	25000000			1						5	7161	150									0					

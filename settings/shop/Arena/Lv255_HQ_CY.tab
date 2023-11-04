@@ -1,0 +1,33 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+战无不胜·蜀鼎剑	CustomWeapon	3799	0	-1	-1	0	4580000			1				52000									3250		1800		1					近程武器
+战无不胜·蜀鼎剑	CustomWeapon	3800	0	-1	-1	0	4580000			1				52000									3250		1800		1					近程武器
+战无不胜·罡星剑	CustomWeapon	3801	0	-1	-1	0	4580000			1				52000									3250		1800		1					近程武器
+战无不胜·罡星剑	CustomWeapon	3802	0	-1	-1	0	4580000			1				52000									3250		1800		1					近程武器
+战无不胜·蜀鼎囊	CustomWeapon	3875	0	-1	-1	0	2290000			1				25600									1600				1					远程武器
+战无不胜·蜀鼎囊	CustomWeapon	3876	0	-1	-1	0	2290000			1				25600									1600				1					远程武器
+战无不胜·罡星囊	CustomWeapon	3879	0	-1	-1	0	2290000			1				25600									1600				1					远程武器
+战无不胜·罡星囊	CustomWeapon	3880	0	-1	-1	0	2290000			1				25600									1600				1					远程武器
+战无不胜·括苍仙袍	CustomArmor	8991	0	-1	-1	0	3820000			1				40000									2500		1600		1					上衣
+战无不胜·括苍仙袍	CustomArmor	8992	0	-1	-1	0	3820000			1				40000									2500		1600		1					上衣
+战无不胜·洞玄衣	CustomArmor	8993	0	-1	-1	0	3820000			1				40000									2500		1600		1					上衣
+战无不胜·洞玄衣	CustomArmor	8994	0	-1	-1	0	3820000			1				40000									2500		1600		1					上衣
+战无不胜·括苍仙冠	CustomArmor	9079	0	-1	-1	0	3430000			1				32000									2000		1400		1					头部
+战无不胜·括苍仙冠	CustomArmor	9080	0	-1	-1	0	3430000			1				32000									2000		1400		1					头部
+战无不胜·洞玄冠	CustomArmor	9081	0	-1	-1	0	3430000			1				32000									2000		1400		1					头部
+战无不胜·洞玄冠	CustomArmor	9082	0	-1	-1	0	3430000			1				32000									2000		1400		1					头部
+战无不胜·括苍仙索	CustomArmor	9057	0	-1	-1	0	2670000			1				25600									1600				1					腰带
+战无不胜·括苍仙索	CustomArmor	9058	0	-1	-1	0	2670000			1				25600									1600				1					腰带
+战无不胜·洞玄带	CustomArmor	9059	0	-1	-1	0	2670000			1				25600									1600				1					腰带
+战无不胜·洞玄带	CustomArmor	9060	0	-1	-1	0	2670000			1				25600									1600				1					腰带
+战无不胜·括苍仙裳	CustomArmor	9013	0	-1	-1	0	3820000			1				27200									1700		1200		1					裤子
+战无不胜·括苍仙裳	CustomArmor	9014	0	-1	-1	0	3820000			1				27200									1700		1200		1					裤子
+战无不胜·洞玄护腿	CustomArmor	9015	0	-1	-1	0	3820000			1				27200									1700		1200		1					裤子
+战无不胜·洞玄护腿	CustomArmor	9016	0	-1	-1	0	3820000			1				27200									1700		1200		1					裤子
+战无不胜·括苍仙履	CustomArmor	9035	0	-1	-1	0	2670000			1				25600									1600				1					鞋子
+战无不胜·括苍仙履	CustomArmor	9036	0	-1	-1	0	2670000			1				25600									1600				1					鞋子
+战无不胜·洞玄履	CustomArmor	9037	0	-1	-1	0	2670000			1				25600									1600				1					鞋子
+战无不胜·洞玄履	CustomArmor	9038	0	-1	-1	0	2670000			1				25600									1600				1					鞋子
+战无不胜·括苍仙袖	CustomArmor	8969	0	-1	-1	0	2670000			1				25600									1600				1					护臂
+战无不胜·括苍仙袖	CustomArmor	8970	0	-1	-1	0	2670000			1				25600									1600				1					护臂
+战无不胜·洞玄袖	CustomArmor	8971	0	-1	-1	0	2670000			1				25600									1600				1					护臂
+战无不胜·洞玄袖	CustomArmor	8972	0	-1	-1	0	2670000			1				25600									1600				1					护臂

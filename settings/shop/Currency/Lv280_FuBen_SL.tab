@@ -1,0 +1,19 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+烛天·罗波那护腕	CustomArmor	11854	0	-1	-1	0	2810000			1						5	11931	1									1					护臂
+烛天·哈奴曼之握	CustomArmor	11855	0	-1	-1	0	2810000			1						5	11931	1									1					护臂
+烛天·罗波那长靴	CustomArmor	11899	0	-1	-1	0	2810000			1						5	11932	1									1					鞋子
+烛天·哈奴曼战靴	CustomArmor	11900	0	-1	-1	0	2810000			1						5	11932	1									1					鞋子
+烛天·罗波那绑腿	CustomArmor	11884	0	-1	-1	0	4020000			1						5	11933	1									1					裤子
+烛天·哈奴曼腿甲	CustomArmor	11885	0	-1	-1	0	4020000			1						5	11933	1									1					裤子
+烛天·罗波那长带	CustomArmor	11914	0	-1	-1	0	2810000			1						5	11934	1									1					腰带
+烛天·哈奴曼战带	CustomArmor	11915	0	-1	-1	0	2810000			1						5	11934	1									1					腰带
+烛天·罗波那袈裟	CustomArmor	11869	0	-1	-1	0	4020000			1						5	11935	1									1					上衣
+烛天·哈奴曼战衣	CustomArmor	11870	0	-1	-1	0	4020000			1						5	11935	1									1					上衣
+烛天·罗波那法冠	CustomArmor	11839	0	-1	-1	0	3610000			1						5	11936	1									1					头部
+烛天·哈奴曼战盔	CustomArmor	11840	0	-1	-1	0	3610000			1						5	11936	1									1					头部
+千缘·禅灯雪月链	CustomTrinket	5505	0	-1	-1	0	2010000			1						5	17099	1									1					项链
+千缘·乾陀象牙链	CustomTrinket	5504	0	-1	-1	0	2010000			1						5	17099	1									1					项链
+千缘·禅灯雪月环	CustomTrinket	5520	0	-1	-1	0	2010000			1						5	17100	1									1					戒指
+千缘·乾陀象牙环	CustomTrinket	5519	0	-1	-1	0	2010000			1						5	17100	1									1					戒指
+千缘·禅灯雪月戒	CustomTrinket	5535	0	-1	-1	0	2010000			1						5	17101	1									1					戒指
+千缘·乾陀象牙戒	CustomTrinket	5534	0	-1	-1	0	2010000			1						5	17101	1									1					戒指

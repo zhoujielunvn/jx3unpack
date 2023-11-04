@@ -1,0 +1,200 @@
+nType	szDesc	szImage	nFrame	szFrame	szTip	nSubType	nLevel	fScale
+0	默认		-1	UIAtlas_Pvp_PvpMainCity_Flag.png	默认	-1	0	1
+0	旗帜	ui/Image/Minimap/Minimap.UITex	202	Resource_Minimap_Minimap_稻草人标识.png				
+1	密探	ui/Image/Minimap/Minimap.UITex	200	Resource_Minimap_Minimap_(new)五人精英.png				
+2	尸将	ui/Image/Minimap/Minimap.UITex	200	Resource_Minimap_Minimap_(new)五人精英.png				
+3	宝箱	ui/Image/Minimap/Minimap.UITex	162	Resource_Minimap_Minimap_仓库.png	宝箱			
+4	灰色旗帜	ui/Image/Minimap/Minimap.UITex	247	Resource_Minimap_Minimap_灰标识.png				
+5	红色旗帜	ui/Image/Minimap/Minimap.UITex	202	Resource_Minimap_Minimap_稻草人标识.png				
+6	蓝色旗帜	ui/Image/Minimap/Minimap.UITex	246	Resource_Minimap_Minimap_蓝色标识.png				
+7	恶人镖车	ui/Image/Minimap/Minimap3.UITex	19	Resource_Minimap_Minimap3_骆驼车.png				
+8	浩气镖车	ui/Image/Minimap/Minimap3.UITex	20	Resource_Minimap_Minimap3_马车.png				
+9	红方0%	ui/Image/Common/ProgressBar.UITex	76	Resource_Common_ProgressBar_红底.png	中立			0.8
+10	红方20%	ui/Image/Common/ProgressBar.UITex	71	Resource_Common_ProgressBar_红1.png	红方20%			0.8
+11	红方40%	ui/Image/Common/ProgressBar.UITex	72	Resource_Common_ProgressBar_红2.png	红方40%			0.8
+12	红方60%	ui/Image/Common/ProgressBar.UITex	73	Resource_Common_ProgressBar_红3.png	红方60%			0.8
+13	红方80%	ui/Image/Common/ProgressBar.UITex	74	Resource_Common_ProgressBar_红4.png	红方80%			0.8
+14	红方100%	ui/Image/Common/ProgressBar.UITex	75	Resource_Common_ProgressBar_红5.png	红方100%			0.8
+15	蓝方0%	ui/Image/Common/ProgressBar.UITex	82	Resource_Common_ProgressBar_蓝底.png	中立			0.8
+16	蓝方20%	ui/Image/Common/ProgressBar.UITex	77	Resource_Common_ProgressBar_蓝1.png	蓝方20%			0.8
+17	蓝方40%	ui/Image/Common/ProgressBar.UITex	78	Resource_Common_ProgressBar_蓝2.png	蓝方40%			0.8
+18	蓝方60%	ui/Image/Common/ProgressBar.UITex	79	Resource_Common_ProgressBar_蓝3.png	蓝方60%			0.8
+19	蓝方80%	ui/Image/Common/ProgressBar.UITex	80	Resource_Common_ProgressBar_蓝4.png	蓝方80%			0.8
+20	蓝方100%	ui/Image/Common/ProgressBar.UITex	81	Resource_Common_ProgressBar_蓝5.png	蓝方100%			0.8
+21	红方厚甲战车	ui/Image/Minimap/BattleMinimap.UITex	12	Resource_Minimap_BattleMinimap_红厚甲战车1_0.png	厚甲战车			
+22	红方重炮战车	ui/Image/Minimap/BattleMinimap.UITex	24	Resource_Minimap_BattleMinimap_红重炮战车1_0.png	重炮战车			
+23	红方巨弩战车	ui/Image/Minimap/BattleMinimap.UITex	18	Resource_Minimap_BattleMinimap_红巨弩战车1_0.png	巨弩战车			
+24	蓝方厚甲战车	ui/Image/Minimap/BattleMinimap.UITex	34	Resource_Minimap_BattleMinimap_(new)蓝厚甲战车1_0.png	厚甲战车			
+25	蓝方重炮战车	ui/Image/Minimap/BattleMinimap.UITex	46	Resource_Minimap_BattleMinimap_(new)蓝重炮战车1_0.png	重炮战车			
+26	蓝方巨弩战车	ui/Image/Minimap/BattleMinimap.UITex	40	Resource_Minimap_BattleMinimap_(new)蓝巨弩战车1_0.png	巨弩战车			
+27	蓝方军需官	ui/Image/Minimap/BattleMinimap.UITex	56	Resource_Minimap_BattleMinimap_蓝旗1_0.png	战场军需官			
+28	红方军需官	ui/Image/Minimap/BattleMinimap.UITex	53	Resource_Minimap_BattleMinimap_红旗1_0.png	战场军需官			
+29	红方冰塔	ui/Image/Minimap/BattleMinimap.UITex	6	Resource_Minimap_BattleMinimap_红冰炮塔1_0.png	凛霜箭塔·一级	1	1	
+30	红方毒塔	ui/Image/Minimap/BattleMinimap.UITex	9	Resource_Minimap_BattleMinimap_红毒炮塔1_0.png	腐毒哨岗·一级	3	1	
+31	红方火塔	ui/Image/Minimap/BattleMinimap.UITex	15	Resource_Minimap_BattleMinimap_红火炮塔1_0.png	燃火炮楼·一级	2	1	
+32	蓝方冰塔	ui/Image/Minimap/BattleMinimap.UITex	28	Resource_Minimap_BattleMinimap_蓝冰炮塔1_0.png	凛霜箭塔·一级	1	1	
+33	蓝方毒塔	ui/Image/Minimap/BattleMinimap.UITex	31	Resource_Minimap_BattleMinimap_蓝毒炮塔1_0.png	腐毒哨岗·一级	3	1	
+34	蓝方火塔	ui/Image/Minimap/BattleMinimap.UITex	37	Resource_Minimap_BattleMinimap_蓝火炮塔1_0.png	燃火炮楼·一级	2	1	
+35	蓝方默认箭塔	ui/Image/Minimap/BattleMinimap.UITex	43	Resource_Minimap_BattleMinimap_蓝普通炮塔1_0.png	普通箭塔	0		
+36	红方默认箭塔	ui/Image/Minimap/BattleMinimap.UITex	21	Resource_Minimap_BattleMinimap_红普通炮塔1_0.png	普通箭塔	0		
+37	死亡箭塔	ui/Image/Minimap/BattleMinimap.UITex	27	Resource_Minimap_BattleMinimap_坏掉了.png	已摧毁			
+38	红方冰塔	ui/Image/Minimap/BattleMinimap.UITex	6	Resource_Minimap_BattleMinimap_红冰炮塔1_0.png	凛霜箭塔·二级	1	2	
+39	红方毒塔	ui/Image/Minimap/BattleMinimap.UITex	9	Resource_Minimap_BattleMinimap_红毒炮塔1_0.png	腐毒哨岗·二级	3	2	
+40	红方火塔	ui/Image/Minimap/BattleMinimap.UITex	15	Resource_Minimap_BattleMinimap_红火炮塔1_0.png	燃火炮楼·二级	2	2	
+41	蓝方冰塔	ui/Image/Minimap/BattleMinimap.UITex	28	Resource_Minimap_BattleMinimap_蓝冰炮塔1_0.png	凛霜箭塔·二级	1	2	
+42	蓝方毒塔	ui/Image/Minimap/BattleMinimap.UITex	31	Resource_Minimap_BattleMinimap_蓝毒炮塔1_0.png	腐毒哨岗·二级	3	2	
+43	蓝方火塔	ui/Image/Minimap/BattleMinimap.UITex	37	Resource_Minimap_BattleMinimap_蓝火炮塔1_0.png	燃火炮楼·二级	2	2	
+44	红方冰塔	ui/Image/Minimap/BattleMinimap.UITex	6	Resource_Minimap_BattleMinimap_红冰炮塔1_0.png	凛霜箭塔·三级	1	3	
+45	红方毒塔	ui/Image/Minimap/BattleMinimap.UITex	9	Resource_Minimap_BattleMinimap_红毒炮塔1_0.png	腐毒哨岗·三级	3	3	
+46	红方火塔	ui/Image/Minimap/BattleMinimap.UITex	15	Resource_Minimap_BattleMinimap_红火炮塔1_0.png	燃火炮楼·三级	2	3	
+47	蓝方冰塔	ui/Image/Minimap/BattleMinimap.UITex	28	Resource_Minimap_BattleMinimap_蓝冰炮塔1_0.png	凛霜箭塔·三级	1	3	
+48	蓝方毒塔	ui/Image/Minimap/BattleMinimap.UITex	31	Resource_Minimap_BattleMinimap_蓝毒炮塔1_0.png	腐毒哨岗·三级	3	3	
+49	蓝方火塔	ui/Image/Minimap/BattleMinimap.UITex	37	Resource_Minimap_BattleMinimap_蓝火炮塔1_0.png	燃火炮楼·三级	2	3	
+50	敌方成员	ui/Image/Minimap/Minimap.UITex	199	Resource_Minimap_Minimap_怪物点.png	敌方成员			
+51	红方菌箱	ui/Image/Minimap/Minimap.UITex	202	Resource_Minimap_Minimap_稻草人标识.png	红方菌箱			0.5
+52	蓝方菌箱	ui/Image/Minimap/Minimap.UITex	246	Resource_Minimap_Minimap_蓝色标识.png	蓝方菌箱			0.5
+53	神秘物资箱	ui/Image/Minimap/Minimap.UITex	200	Resource_Minimap_Minimap_(new)五人精英.png	神秘物资箱			0.7
+54	神秘物资箱	ui/Image/Minimap/Minimap.UITex	246	Resource_Minimap_Minimap_蓝色标识.png	神秘物资箱·蓝方			1
+55	神秘物资箱	ui/Image/Minimap/Minimap.UITex	202	Resource_Minimap_Minimap_稻草人标识.png	神秘物资箱·红方			1
+56	旗子	ui/Image/Minimap/Minimap.UITex	202	Resource_Minimap_Minimap_稻草人标识.png	旗子			1
+57	楼兰神兵匣	ui/Image/Minimap/BattleMinimap.UITex	63	Resource_Minimap_BattleMinimap_吃鸡地图宝箱小.png	楼兰神兵匣			0.5
+58	马贼	ui/Image/Minimap/BattleMinimap.UITex	65	Resource_Minimap_BattleMinimap_吃鸡地图马贼小.png	马贼			0.5
+59	尸罐	ui/Image/Minimap/Minimap3.UITex	38	Resource_Minimap_Minimap3_僵尸战场小地图-尸罐.png	尸罐			1
+60	感染头目刺客	ui/Image/Minimap/Minimap3.UITex	34	Resource_Minimap_Minimap3_3.png	感染头目刺客			0.5
+61	感染头目法师	ui/Image/Minimap/Minimap3.UITex	36	Resource_Minimap_Minimap3_(new)2.png	感染头目法师			0.5
+62	感染头目战士	ui/Image/Minimap/Minimap3.UITex	35	Resource_Minimap_Minimap3_(new)1.png	感染头目战士			0.5
+63	探秘者	ui/Image/Minimap/Minimap3.UITex	40	Resource_Minimap_Minimap3_心 拷贝.png	探秘者			0.5
+64	海贼	ui/Image/Minimap/BattleMinimap.UITex	65	Resource_Minimap_BattleMinimap_吃鸡地图马贼小.png	海贼			0.5
+65	沧溟神兵匣	ui/Image/Minimap/BattleMinimap.UITex	63	Resource_Minimap_BattleMinimap_吃鸡地图宝箱小.png	沧溟神兵匣			0.5
+66	蓝方小兵	ui/Image/Minimap/BattleMinimap3.UITex	32	Resource_Minimap_BattleMinimap3_小地图蓝小兵.png	兵俑	0		1
+67	红方小兵	ui/Image/Minimap/BattleMinimap3.UITex	31	Resource_Minimap_BattleMinimap3_小地图红小兵.png	兵俑	0		1
+68	蓝方英雄	ui/Image/Minimap/BattleMinimap3.UITex	35	Resource_Minimap_BattleMinimap3_蓝圈.png		0		1
+69	红方英雄	ui/Image/Minimap/BattleMinimap3.UITex	34	Resource_Minimap_BattleMinimap3_红圈.png		0		1
+70	野怪	ui/Image/Minimap/BattleMinimap3.UITex	33	Resource_Minimap_BattleMinimap3_小地图野怪.png	灵兽	0		1
+71	凶星龙兽	ui/Image/Minimap/BattleMinimap3.UITex	30	Resource_Minimap_BattleMinimap3_小地图小龙.png	凶星龙兽	0		1
+72	煞星龙兽	ui/Image/Minimap/BattleMinimap3.UITex	29	Resource_Minimap_BattleMinimap3_小地图大龙.png	煞星龙兽	0		1
+73	蓝-玄武箭塔25%血	ui/Image/Minimap/BattleMinimap3.UITex	25	Resource_Minimap_BattleMinimap3_小地图防御塔蓝25%.png	玄武箭塔	0		1
+74	蓝-玄武箭塔50%血	ui/Image/Minimap/BattleMinimap3.UITex	26	Resource_Minimap_BattleMinimap3_小地图防御塔蓝50%.png	玄武箭塔	0		1
+75	蓝-玄武箭塔75%血	ui/Image/Minimap/BattleMinimap3.UITex	27	Resource_Minimap_BattleMinimap3_小地图防御塔蓝75%.png	玄武箭塔	0		1
+76	蓝-玄武箭塔100%血	ui/Image/Minimap/BattleMinimap3.UITex	28	Resource_Minimap_BattleMinimap3_小地图防御塔蓝100%.png	玄武箭塔	0		1
+77	蓝-朱雀箭塔25%血	ui/Image/Minimap/BattleMinimap3.UITex	25	Resource_Minimap_BattleMinimap3_小地图防御塔蓝25%.png	朱雀箭塔	0		1
+78	蓝-朱雀箭塔50%血	ui/Image/Minimap/BattleMinimap3.UITex	26	Resource_Minimap_BattleMinimap3_小地图防御塔蓝50%.png	朱雀箭塔	0		1
+79	蓝-朱雀箭塔75%血	ui/Image/Minimap/BattleMinimap3.UITex	27	Resource_Minimap_BattleMinimap3_小地图防御塔蓝75%.png	朱雀箭塔	0		1
+80	蓝-朱雀箭塔100%血	ui/Image/Minimap/BattleMinimap3.UITex	28	Resource_Minimap_BattleMinimap3_小地图防御塔蓝100%.png	朱雀箭塔	0		1
+81	蓝-玄武圣象25%血	ui/Image/Minimap/BattleMinimap3.UITex	6	Resource_Minimap_BattleMinimap3_6_玄武水晶-25.png	玄武圣象	0		1
+82	蓝-玄武圣象50%血	ui/Image/Minimap/BattleMinimap3.UITex	7	Resource_Minimap_BattleMinimap3_7_玄武水晶-50.png	玄武圣象	0		1
+83	蓝-玄武圣象75%血	ui/Image/Minimap/BattleMinimap3.UITex	8	Resource_Minimap_BattleMinimap3_8_玄武水晶-75.png	玄武圣象	0		1
+84	蓝-玄武圣象100%血	ui/Image/Minimap/BattleMinimap3.UITex	9	Resource_Minimap_BattleMinimap3_9_玄武水晶-100.png	玄武圣象	0		1
+85	蓝-朱雀圣象25%血	ui/Image/Minimap/BattleMinimap3.UITex	16	Resource_Minimap_BattleMinimap3_16_朱雀水晶-25.png	朱雀圣象	0		1
+86	蓝-朱雀圣象50%血	ui/Image/Minimap/BattleMinimap3.UITex	17	Resource_Minimap_BattleMinimap3_17_朱雀水晶-50.png	朱雀圣象	0		1
+87	蓝-朱雀圣象75%血	ui/Image/Minimap/BattleMinimap3.UITex	18	Resource_Minimap_BattleMinimap3_18_朱雀水晶-75.png	朱雀圣象	0		1
+88	蓝-朱雀圣象100%血	ui/Image/Minimap/BattleMinimap3.UITex	19	Resource_Minimap_BattleMinimap3_19_朱雀水晶-100.png	朱雀圣象	0		1
+89	红-玄武箭塔25%血	ui/Image/Minimap/BattleMinimap3.UITex	21	Resource_Minimap_BattleMinimap3_小地图防御塔红25%.png	玄武箭塔	0		1
+90	红-玄武箭塔50%血	ui/Image/Minimap/BattleMinimap3.UITex	22	Resource_Minimap_BattleMinimap3_小地图防御塔红50%.png	玄武箭塔	0		1
+91	红-玄武箭塔75%血	ui/Image/Minimap/BattleMinimap3.UITex	23	Resource_Minimap_BattleMinimap3_小地图防御塔红75%.png	玄武箭塔	0		1
+92	红-玄武箭塔100%血	ui/Image/Minimap/BattleMinimap3.UITex	24	Resource_Minimap_BattleMinimap3_小地图防御塔红100%.png	玄武箭塔	0		1
+93	红-朱雀箭塔25%血	ui/Image/Minimap/BattleMinimap3.UITex	21	Resource_Minimap_BattleMinimap3_小地图防御塔红25%.png	朱雀箭塔	0		1
+94	红-朱雀箭塔50%血	ui/Image/Minimap/BattleMinimap3.UITex	22	Resource_Minimap_BattleMinimap3_小地图防御塔红50%.png	朱雀箭塔	0		1
+95	红-朱雀箭塔75%血	ui/Image/Minimap/BattleMinimap3.UITex	23	Resource_Minimap_BattleMinimap3_小地图防御塔红75%.png	朱雀箭塔	0		1
+96	红-朱雀箭塔100%血	ui/Image/Minimap/BattleMinimap3.UITex	24	Resource_Minimap_BattleMinimap3_小地图防御塔红100%.png	朱雀箭塔	0		1
+97	红-玄武圣象25%血	ui/Image/Minimap/BattleMinimap3.UITex	1	Resource_Minimap_BattleMinimap3_玄武水晶-25.png	玄武圣象	0		1
+98	红-玄武圣象50%血	ui/Image/Minimap/BattleMinimap3.UITex	2	Resource_Minimap_BattleMinimap3_玄武水晶-50.png	玄武圣象	0		1
+99	红-玄武圣象75%血	ui/Image/Minimap/BattleMinimap3.UITex	3	Resource_Minimap_BattleMinimap3_玄武水晶-75.png	玄武圣象	0		1
+100	红-玄武圣象100%血	ui/Image/Minimap/BattleMinimap3.UITex	4	Resource_Minimap_BattleMinimap3_玄武水晶-100.png	玄武圣象	0		1
+101	红-朱雀圣象25%血	ui/Image/Minimap/BattleMinimap3.UITex	11	Resource_Minimap_BattleMinimap3_朱雀水晶-25.png	朱雀圣象	0		1
+102	红-朱雀圣象50%血	ui/Image/Minimap/BattleMinimap3.UITex	12	Resource_Minimap_BattleMinimap3_朱雀水晶-50.png	朱雀圣象	0		1
+103	红-朱雀圣象75%血	ui/Image/Minimap/BattleMinimap3.UITex	13	Resource_Minimap_BattleMinimap3_朱雀水晶-75.png	朱雀圣象	0		1
+104	红-朱雀圣象100%血	ui/Image/Minimap/BattleMinimap3.UITex	14	Resource_Minimap_BattleMinimap3_朱雀水晶-100.png	朱雀圣象	0		1
+105	Moba通用门派心法底图-蓝	ui/Image/Minimap/BattleMinimap3.UITex	35	Resource_Minimap_BattleMinimap3_蓝圈.png		0		1
+106	Moba通用门派心法底图-红	ui/Image/Minimap/BattleMinimap3.UITex	34	Resource_Minimap_BattleMinimap3_红圈.png		0		1
+107	少林	ui/Image/icon/skill_shaolin10.UITex	0	Resource\icon\skill\ShaoLin\skill_shaolin10.png	少林	0		0.4
+108	万花	ui/Image/icon/skill_wanhua17.UITex	0	Resource\icon\skill\WanHua\skill_wanhua17.png	万花	0		0.4
+109	天策	ui/Image/icon/skill_tiance02.UITex	0	Resource\icon\skill\TianCe\skill_tiance02.png	天策	0		0.4
+110	纯阳-剑纯	ui/Image/icon/skill_chunyang13.UITex	0	Resource\icon\skill\ChunYang\skill_chunyang13.png	剑纯	0		0.4
+111	七秀	ui/Image/icon/skill_qixiu03.UITex	0	Resource\icon\skill\QiXiu\skill_qixiu03.png	七秀	0		0.4
+112	五毒	ui/Image/icon/wudu_neigong_1.UITex	0	Resource\icon\skill\WuDu\wudu_neigong_1.png	五毒	0		0.38
+113	唐门-田螺	ui/Image/icon/skill_tangm_20.UITex	0	Resource\icon\skill\TangMen\skill_tangm_20.png	天罗诡道	0		0.4
+114	藏剑-轻剑	ui/Image/icon/cangjian_neigong_2.UITex	0	Resource\icon\skill\CangJian\cangjian_neigong_2.png	藏剑	0		0.38
+115	藏剑-重剑	ui/Image/icon/cangjian_neigong_2.UITex	0	Resource\icon\skill\CangJian\cangjian_neigong_2.png	藏剑	0		0.38
+116	丐帮	ui/Image/icon/skill_GB_30.UITex	0	Resource\icon\skill\GaiBang\skill_GB_30.png	丐帮	0		0.35
+117	明教	ui/Image/icon/mingjiao_taolu_8.UITex	0	Resource\icon\skill\MingJiao\mingjiao_taolu_8.png	明教	0		0.4
+118	苍云	ui/Image/icon/Skill_CangY_32.UITex	0	Resource\icon\skill\CangYun\Skill_CangY_32.png	苍云	0		0.4
+119	长歌	ui/Image/icon/skill_0514_27.UITex	0	Resource\icon\skill\ChangGeMen\skill_0514_27.png	长歌	0		0.37
+120	霸刀	ui/Image/icon/daoj_16_8_25_16.UITex	0	Resource\icon\skill\BaDao\daoj_16_8_25_16.png	霸刀	0		0.37
+121	蓬莱	ui/Image/icon/JNPL_18_10_30_27.UITex	0	Resource\icon\skill\PengLai\JNPL_18_10_30_27.png	蓬莱	0		0.35
+122	纯阳-气纯	ui/Image/icon/skill_chunyang21.UITex	0	Resource\icon\skill\ChunYang\skill_chunyang21.png	气纯	0		0.4
+123	唐门-鲸鱼	ui/Image/icon/skill_tangm_01.UITex	0	Resource\icon\skill\TangMen\skill_tangm_01.png	惊羽诀	0		0.39
+124	凌雪阁	ui/Image/icon/JNLXG_19_10_21_9.UITex	0	Resource\icon\skill\LingXueGe\JNLXG_19_10_21_9.png	凌雪阁	0		0.4
+125	衍天宗	ui/Image/icon/skill_20_9_14_1.UITex	0	Resource\icon\skill\YanTianZong\skill_20_9_14_1.png	衍天宗	0		0.4
+126	白龙神兵匣	ui/Image/Minimap/BattleMinimap.UITex	63	Resource_Minimap_BattleMinimap_吃鸡地图宝箱小.png	白龙神兵匣			0.5
+127	山贼	ui/Image/Minimap/BattleMinimap.UITex	65	Resource_Minimap_BattleMinimap_吃鸡地图马贼小.png	山贼			0.5
+128	红色旗帜	ui/Image/Minimap/Minimap.UITex	202	Resource_Minimap_Minimap_稻草人标识.png	红方大旗手			0.6
+129	蓝色旗帜	ui/Image/Minimap/Minimap.UITex	246	Resource_Minimap_Minimap_蓝色标识.png	蓝方大旗手			0.6
+130	红方复活点	ui/Image/Minimap/BattleMinimap2.UITex	41	Resource_Minimap_BattleMinimap2_红方小兵.png	红方复活点	0		1.1
+131	蓝方复活点	ui/Image/Minimap/BattleMinimap2.UITex	42	Resource_Minimap_BattleMinimap2_蓝方小兵.png	蓝方复活点	0		1.1
+132	中立夺复活点	ui/Image/Minimap/BattleMinimap2.UITex	46	Resource_Minimap_BattleMinimap2_野怪.png	可争夺复活点	0		0.65
+133	红方摧城车	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	76	Resource_GuildLeagueMatches_GuildLeagueMatches4_摧城车红色_20.png	摧城车			0.8
+134	红方神机车	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	87	Resource_GuildLeagueMatches_GuildLeagueMatches4_神机车红色_20.png	神机车			0.8
+135	红方云梯车	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	84	Resource_GuildLeagueMatches_GuildLeagueMatches4_云梯车红色_20.png	云梯车			0.8
+136	红方投石车	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	80	Resource_GuildLeagueMatches_GuildLeagueMatches4_投石车红色_20.png	投石车			0.8
+137	蓝方摧城车	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	44	Resource_GuildLeagueMatches_GuildLeagueMatches4_摧城车蓝色_20.png	摧城车			0.8
+138	蓝方神机车	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	78	Resource_GuildLeagueMatches_GuildLeagueMatches4_神机车蓝色_20.png	神机车			0.8
+139	蓝方云梯车	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	86	Resource_GuildLeagueMatches_GuildLeagueMatches4_云梯车蓝色_20.png	云梯车			0.8
+140	蓝方投石车	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	82	Resource_GuildLeagueMatches_GuildLeagueMatches4_投石车蓝色_20.png	投石车			0.8
+141	红-城门0%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	45	Resource_GuildLeagueMatches_GuildLeagueMatches4_红色大门0_20.png	城门5%	0		0.8
+142	红-城门20%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	46	Resource_GuildLeagueMatches_GuildLeagueMatches4_红色大门20_20.png	城门20%	0		0.8
+143	红-城门40%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	47	Resource_GuildLeagueMatches_GuildLeagueMatches4_红色大门40_20.png	城门40%	0		0.8
+144	红-城门60%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	48	Resource_GuildLeagueMatches_GuildLeagueMatches4_红色大门60_20.png	城门60%	0		0.8
+145	红-城门80%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	49	Resource_GuildLeagueMatches_GuildLeagueMatches4_红色大门80_20.png	城门80%	0		0.8
+146	红-城门100%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	50	Resource_GuildLeagueMatches_GuildLeagueMatches4_红色大门100_20.png	城门100%	0		0.8
+147	蓝-城门0%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	63	Resource_GuildLeagueMatches_GuildLeagueMatches4_蓝色大门0_20.png	城门5%	0		0.8
+148	蓝-城门20%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	64	Resource_GuildLeagueMatches_GuildLeagueMatches4_蓝色大门20_20.png	城门20%	0		0.8
+149	蓝-城门40%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	67	Resource_GuildLeagueMatches_GuildLeagueMatches4_蓝色大门40_20.png	城门40%	0		0.8
+150	蓝-城门60%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	83	Resource_GuildLeagueMatches_GuildLeagueMatches4_蓝色大门60_20.png	城门60%	0		0.8
+151	蓝-城门80%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	75	Resource_GuildLeagueMatches_GuildLeagueMatches4_蓝色大门80_20.png	城门80%	0		0.8
+152	蓝-城门100%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	71	Resource_GuildLeagueMatches_GuildLeagueMatches4_蓝色大门100_20.png	城门100%	0		0.8
+153	红-粮仓0%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	57	Resource_GuildLeagueMatches_GuildLeagueMatches4_红色粮仓0_20.png	粮仓5%	0		0.9
+154	红-粮仓20%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	58	Resource_GuildLeagueMatches_GuildLeagueMatches4_红色粮仓20_20.png	粮仓20%	0		0.9
+155	红-粮仓40%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	59	Resource_GuildLeagueMatches_GuildLeagueMatches4_红色粮仓40_20.png	粮仓40%	0		0.9
+156	红-粮仓60%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	60	Resource_GuildLeagueMatches_GuildLeagueMatches4_红色粮仓60_20.png	粮仓60%	0		0.9
+157	红-粮仓80%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	61	Resource_GuildLeagueMatches_GuildLeagueMatches4_红色粮仓80_20.png	粮仓80%	0		0.9
+158	红-粮仓100%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	62	Resource_GuildLeagueMatches_GuildLeagueMatches4_红色粮仓100_20.png	粮仓100%	0		0.9
+159	蓝-粮仓0%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	85	Resource_GuildLeagueMatches_GuildLeagueMatches4_蓝色粮仓0_20.png	粮仓5%	0		0.9
+160	蓝-粮仓20%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	66	Resource_GuildLeagueMatches_GuildLeagueMatches4_蓝色粮仓20_20.png	粮仓20%	0		0.9
+161	蓝-粮仓40%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	68	Resource_GuildLeagueMatches_GuildLeagueMatches4_蓝色粮仓40_20.png	粮仓40%	0		0.9
+162	蓝-粮仓60%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	70	Resource_GuildLeagueMatches_GuildLeagueMatches4_蓝色粮仓60_20.png	粮仓60%	0		0.9
+163	蓝-粮仓80%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	72	Resource_GuildLeagueMatches_GuildLeagueMatches4_蓝色粮仓80_20.png	粮仓80%	0		0.9
+164	蓝-粮仓100%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	74	Resource_GuildLeagueMatches_GuildLeagueMatches4_蓝色粮仓100_20.png	粮仓100%	0		0.9
+165	红-工坊0%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	51	Resource_GuildLeagueMatches_GuildLeagueMatches4_红色工坊0_20.png	工坊5%	0		0.9
+166	红-工坊20%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	52	Resource_GuildLeagueMatches_GuildLeagueMatches4_红色工坊20_20.png	工坊20%	0		0.9
+167	红-工坊40%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	53	Resource_GuildLeagueMatches_GuildLeagueMatches4_红色工坊40_20.png	工坊40%	0		0.9
+168	红-工坊60%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	54	Resource_GuildLeagueMatches_GuildLeagueMatches4_红色工坊60_20.png	工坊60%	0		0.9
+169	红-工坊80%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	55	Resource_GuildLeagueMatches_GuildLeagueMatches4_红色工坊80_20.png	工坊80%	0		0.9
+170	红-工坊100%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	56	Resource_GuildLeagueMatches_GuildLeagueMatches4_红色工坊100_20.png	工坊100%	0		0.9
+171	蓝-工坊0%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	79	Resource_GuildLeagueMatches_GuildLeagueMatches4_蓝色工坊0_20.png	工坊5%	0		0.9
+172	蓝-工坊20%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	65	Resource_GuildLeagueMatches_GuildLeagueMatches4_蓝色工坊20_20.png	工坊20%	0		0.9
+173	蓝-工坊40%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	69	Resource_GuildLeagueMatches_GuildLeagueMatches4_蓝色工坊40_20.png	工坊40%	0		0.9
+174	蓝-工坊60%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	73	Resource_GuildLeagueMatches_GuildLeagueMatches4_蓝色工坊60_20.png	工坊60%	0		0.9
+175	蓝-工坊80%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	77	Resource_GuildLeagueMatches_GuildLeagueMatches4_蓝色工坊80_20.png	工坊80%	0		0.9
+176	蓝-工坊100%血	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	81	Resource_GuildLeagueMatches_GuildLeagueMatches4_蓝色工坊100_20.png	工坊100%	0		0.9
+177	红色旗帜	ui\Image\Minimap\Minimap3.UITex	16	Resource_Minimap_Minimap3_恶人谷旗.png	红方占领			0.6
+178	蓝色旗帜	ui\Image\Minimap\Minimap3.UITex	17	Resource_Minimap_Minimap3_浩气盟旗.png	蓝方占领			0.6
+179	白色旗帜	ui\Image\Minimap\Minimap3.UITex	18	Resource_Minimap_Minimap3_灰色旗.png	无人占领			0.6
+180	战象	ui\Image\Minimap\Minimap.UITex	22	Resource_Minimap_Minimap_轻功点点标识-高亮(3).png	天原战象			0.5
+181	绳池剑宗物资	ui\Image\Minimap\Minimap.UITex	246	Resource_Minimap_Minimap_蓝色标识.png	绳池剑宗物资			0.5
+182	武家物资	ui\Image\Minimap\Minimap.UITex	202	Resource_Minimap_Minimap_稻草人标识.png	武家物资			0.5
+183	药宗	ui\Image\icon\skill_21_9_10_2.UITex	0	Resource\icon\skill\BeiTianYaoZong\skill_21_9_10_2.png	药宗	0		0.4
+184	刀宗	ui/Image/icon/skill_22_9_7_2.UITex	0	Resource\icon\skill\DaoZong\skill_22_9_7_1.png	刀宗	0		0.4
+185	洱海神兵匣	ui/Image/Minimap/BattleMinimap.UITex	63	Resource_Minimap_BattleMinimap_吃鸡地图宝箱小.png	洱海神兵匣			0.5
+186	战战兢兢的马贼	ui/Image/Minimap/BattleMinimap.UITex	65	Resource_Minimap_BattleMinimap_吃鸡地图马贼小.png	战战兢兢的马贼			0.5
+187	日无暇晷·秘	ui/Image/Minimap/Minimap.UITex	354		日无暇晷·秘			0.7
+188	日无暇晷·绝	ui/Image/Minimap/Minimap.UITex	357		日无暇晷·绝			0.7
+189	日无暇晷	ui/Image/Minimap/Minimap.UITex	356		日无暇晷			0.7
+190	流尘玉匣	ui/Image/Minimap/Minimap.UITex	331		流尘玉匣			0.7
+191	魂灯	ui/Image/Minimap/Minimap.UITex	355		魂灯			0.7
+192	首领	ui/Image/Minimap/Minimap.UITex	352		神秘侠客			0.7
+193	首领	ui/Image/Minimap/Minimap.UITex	352		首领			0.3
+194	秘籍商人	ui/Image/Minimap/Minimap.UITex	8	Resource_Minimap_BattleMinimap_吃鸡地图马贼小.png	秘籍商人			0.5
+195	红色箭塔	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	90	Resource_GuildLeagueMatches_GuildLeagueMatches4_神机台新20x20_红.png	红方神机台	0		0.5
+196	蓝色箭塔	ui\Image\GuildLeagueMatches\GuildLeagueMatches4.UITex	91	Resource_GuildLeagueMatches_GuildLeagueMatches4_神机台新20x20_蓝色.png	蓝方神机台	0		0.5
+197	万灵	ui/Image/icon/skill_23_8_22_1.UITex	0	Resource\icon\skill\WanLingShanZhuang\skill_23_8_22_1.png	万灵	0		0.4

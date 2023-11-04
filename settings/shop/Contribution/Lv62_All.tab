@@ -1,0 +1,71 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+子定棍	CustomWeapon	1940	0	-1	-1	0	710000			1			2300														1					近程武器
+子息棍	CustomWeapon	1941	0	-1	-1	0	710000			1			2300														1					近程武器
+子岳枪	CustomWeapon	1944	0	-1	-1	0	710000			1			2300														1					近程武器
+子火枪	CustomWeapon	1945	0	-1	-1	0	710000			1			2300														1					近程武器
+子雪剑	CustomWeapon	1942	0	-1	-1	0	710000			1			2300														1					近程武器
+子雷剑	CustomWeapon	1943	0	-1	-1	0	710000			1			2300														1					近程武器
+子君锐	CustomWeapon	2264	0	-1	-1	0	710000			1			2300														1					近程武器
+子徵双剑	CustomWeapon	1946	0	-1	-1	0	710000			1			2300														1					近程武器
+子羽双剑	CustomWeapon	1947	0	-1	-1	0	710000			1	0		2300														1					近程武器
+子柳笔	CustomWeapon	1938	0	-1	-1	0	710000			1			2300														1					近程武器
+子枫笔	CustomWeapon	1939	0	-1	-1	0	710000			1			2300														1					近程武器
+子君钝	CustomWeapon	2265	0	-1	-1	0	710000			1			2300														1					近程武器
+子蝎笛	CustomWeapon	3060	0	-1	-1	0	710000			1			2300														1					近程武器
+子蟾笛	CustomWeapon	3059	0	-1	-1	0	710000			1			2300														1					近程武器
+子临弩	CustomWeapon	4357	0	-1	-1	0	710000			1			2300														1					近程武器
+子行弩	CustomWeapon	4358	0	-1	-1	0	710000			1			2300														1					近程武器
+子信刀	CustomWeapon	6047	0	-1	-1	0	710000			1			2300														1					近程武器
+子秘刀	CustomWeapon	6048	0	-1	-1	0	710000			1			2300														1					近程武器
+子舜棒	CustomWeapon	6906	0	-1	-1	0	710000			1			2300														1					近程武器
+子云囊	CustomWeapon	1438	0	-1	-1	0	260000			1			500														1					远程武器
+子灵囊	CustomWeapon	2263	0	-1	-1	0	260000			1			500														1					远程武器
+子辟匣	CustomWeapon	4355	0	-1	-1	0	260000			1			500														1					远程武器
+子察匣	CustomWeapon	6045	0	-1	-1	0	260000			1			500														1					远程武器
+子霜长衫	CustomArmor	2951	0	-1	-1	0	430000		0	1			840														1					上衣
+子徵披帛	CustomArmor	2952	0	-1	-1	0	430000		0	1			840														1					上衣
+子持衣	CustomArmor	2953	0	-1	-1	0	430000		0	1			840														1					上衣
+子阵衣	CustomArmor	11022	0	-1	-1	0	430000			1			840														1					上衣
+子觉衣	CustomArmor	14081	0	-1	-1	0	430000			1			840														1					上衣
+子舜衣	CustomArmor	20329	0	-1	-1	0	430000			1			840														1					上衣
+子火头盔	CustomArmor	2687	0	-1	-1	0	380000		0	1			600														1					头部
+子商钗	CustomArmor	2688	0	-1	-1	0	380000		0	1			600														1					头部
+子柳帷帽	CustomArmor	2689	0	-1	-1	0	380000		0	1			600														1					头部
+子持斗笠	CustomArmor	2690	0	-1	-1	0	380000		0	1			600														1					头部
+子息斗笠	CustomArmor	2691	0	-1	-1	0	380000		0	1			600														1					头部
+子山腰带	CustomArmor	3818	0	-1	-1	0	300000			1			600														1					腰带
+子雪束腰	CustomArmor	3819	0	-1	-1	0	300000			1			600														1					腰带
+子火腰带	CustomArmor	3820	0	-1	-1	0	300000			1			600														1					腰带
+子羽结	CustomArmor	3821	0	-1	-1	0	300000			1			600														1					腰带
+子者缠	CustomArmor	11026	0	-1	-1	0	300000			1			600														1					腰带
+子识带	CustomArmor	14085	0	-1	-1	0	300000			1			600														1					腰带
+子舜腰带	CustomArmor	20330	0	-1	-1	0	300000			1			600														1					腰带
+子雷裤	CustomArmor	3277	0	-1	-1	0	430000			1			840														1					裤子
+子徵长裙	CustomArmor	3278	0	-1	-1	0	430000		0	1			840														1					裤子
+子梅裤	CustomArmor	3279	0	-1	-1	0	430000		0	1			840														1					裤子
+子君裤	CustomArmor	4939	0	-1	-1	0	430000			1			840														1					裤子
+子常裤	CustomArmor	11023	0	-1	-1	0	430000			1			840														1					裤子
+子蜈裤	CustomArmor	6605	0	-1	-1	0	430000			1			840														1					裤子
+子乐裤	CustomArmor	14082	0	-1	-1	0	430000			1			840														1					裤子
+子梅鞋	CustomArmor	3544	0	-1	-1	0	300000			1			600														1					鞋子
+子蜈鞋	CustomArmor	6680	0	-1	-1	0	300000			1			600														1					鞋子
+子雷缠	CustomArmor	2419	0	-1	-1	0	300000			1			600														1					护臂
+子岳护臂	CustomArmor	2420	0	-1	-1	0	300000			1			600														1					护臂
+子柳手环	CustomArmor	2421	0	-1	-1	0	300000			1			600														1					护臂
+子净护腕	CustomArmor	2422	0	-1	-1	0	300000			1			600														1					护臂
+子君袖	CustomArmor	4937	0	-1	-1	0	300000			1			600														1					护臂
+子常绑手	CustomArmor	11020	0	-1	-1	0	300000			1			600														1					护臂
+子乐护臂	CustomArmor	14079	0	-1	-1	0	300000			1			600														1					护臂
+子火镜	CustomTrinket	1042	0	-1	-1	0	210000			1			600														1					项链
+子徵链	CustomTrinket	1043	0	-1	-1	0	210000			1			600														1					项链
+子持木珠	CustomTrinket	1044	0	-1	-1	0	210000			1			600														1					项链
+子净木珠	CustomTrinket	1045	0	-1	-1	0	210000			1			600														1					项链
+子岳戒	CustomTrinket	810	0	-1	-1	0	210000			1			600														1					戒指
+子枫戒	CustomTrinket	811	0	-1	-1	0	210000			1			600														1					戒指
+子蝎戒	CustomTrinket	2435	0	-1	-1	0	210000			1			600														1					戒指
+子雪坠	CustomTrinket	1251	0	-1	-1	0	210000			1			600														1					腰坠
+子商玉佩	CustomTrinket	1252	0	-1	-1	0	210000			1			600														1					腰坠
+子柳饰	CustomTrinket	1253	0	-1	-1	0	210000			1			600														1					腰坠
+子临坠	CustomTrinket	4621	0	-1	-1	0	210000			1			600														1					腰坠
+子信坠	CustomTrinket	6139	0	-1	-1	0	210000			1			600														1					腰坠
+子舜坠	CustomTrinket	8153	0	-1	-1	0	210000			1			600														1					腰坠

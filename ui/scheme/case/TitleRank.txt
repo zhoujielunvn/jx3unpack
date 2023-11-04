@@ -1,0 +1,16 @@
+TitleRank	TitlePoint	Desc
+0	500	<Text>text="可在个人战阶商店内购买最高13750品紫色项链，腰坠和戒指" font=100 </text>
+1	2000	<Text>text="最高可购买13750紫色护腕" font=100 </text>
+2	5000	<Text>text="最高可购买13750紫色鞋子" font=100 </text>
+3	10000	<Text>text="最高可购买13750紫色腰带" font=100 </text>
+4	15000	<Text>text="可购买释雪古玉·护腕" font=100 </text>
+5	20000	<Text>text="最高可购买13750紫色下装" font=100 </text>
+6	22000	<Text>text="可购买释雪古玉·鞋子" font=100 </text>
+7		<Text>text="最高可购买13750紫色帽子" font=100 </text>
+8		<text>text="当前战阶称号属性：化劲等级提高2%，移动速度提高1%\\\n"font=100</text><text>text="当前战阶可购买的装备：可以购买释雪古玉·腰带" font=100 </text>
+9		<text>text="当前战阶称号属性：化劲等级提高3%，移动速度提高1%\\\n"font=100</text><text>text="当前战阶可购买的装备：最高可购买13750品上衣" font=100 </text>
+10		<text>text="当前战阶称号属性：化劲等级提高4%，移动速度提高1%\\\n"font=100</text><text>text="当前战阶可购买的装备：可以购买释雪古玉·下装" font=100 </text>
+11		<text>text="当前战阶称号属性：化劲等级提高5%，移动速度提高2%\\\n"font=100</text><text>text="当前战阶可购买的装备：最高可购买13750品紫色近身武器、远程武器" font=100 </text>
+12		<text>text="当前战阶称号属性：化劲等级提高6%，移动速度提高2%\\\n"font=100</text><text>text="当前战阶可购买的装备：可购买释雪古玉·帽子" font=100 </text>
+13		<text>text="当前战阶称号属性：化劲等级提高7%，移动速度提高2%\\\n"font=100</text><text>text="当前战阶可购买的装备：可购买释雪古玉·上衣" font=100 </text>
+14		<text>text="当前战阶称号属性：化劲等级提高10%，移动速度提高5%\\\n"font=100</text><text>text="当前战阶可购买的装备：可购买释雪古玉·近身武器、释雪古玉·远程武器，以及阵营战阶专属挂件" font=100 </text>

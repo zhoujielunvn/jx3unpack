@@ -1,0 +1,21 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+臣星衫	CustomArmor	14051	0	-1	-1	5	240000			1																	1					上衣
+犯斗衣	CustomArmor	14052	0	-1	-1	5	240000			1																	1					上衣
+乘险裤	CustomArmor	14059	0	-1	-1	5	240000			1																	1					裤子
+危途裤	CustomArmor	14060	0	-1	-1	5	240000			1																	1					裤子
+乘胜靴	CustomArmor	14067	0	-1	-1	5	170000			1																	1					鞋子
+慰赠靴	CustomArmor	14068	0	-1	-1	5	170000			1																	1					鞋子
+聚德护胸	CustomArmor	14053	0	-1	-1	6	940000			1																	1					上衣
+亡阳劲衫	CustomArmor	14054	0	-1	-1	6	940000			1																	1					上衣
+渡意裤	CustomArmor	14061	0	-1	-1	6	940000			1																	1					裤子
+都卜裤	CustomArmor	14062	0	-1	-1	6	940000			1																	1					裤子
+海逾靴	CustomArmor	14069	0	-1	-1	6	660000			1																	1					鞋子
+隐仑靴	CustomArmor	14070	0	-1	-1	6	660000			1																	1					鞋子
+山寿	CustomWeapon	6039	0	-1	-1	7	1690000			1																	1					近程武器
+寂刀	CustomWeapon	6040	0	-1	-1	7	1690000			1																	1					近程武器
+戒火护臂	CustomArmor	36647	0	-1	-1	6	80000			1																	1					护臂
+戒火兜帽	CustomArmor	36648	0	-1	-1	6	100000			1																	1					头部
+戒火上衣	CustomArmor	36649	0	-1	-1	6	110000			1																	1					上衣
+戒火护腿	CustomArmor	36650	0	-1	-1	6	110000			1																	1					裤子
+戒火靴	CustomArmor	36651	0	-1	-1	6	80000			1																	1					鞋子
+戒火腰带	CustomArmor	36652	0	-1	-1	6	80000			1																	1					腰带

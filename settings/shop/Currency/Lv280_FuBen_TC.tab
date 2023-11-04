@@ -1,0 +1,19 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+烛天·荒帝御世护腕	CustomArmor	11848	0	-1	-1	0	2810000			1						5	11937	1									1					护臂
+烛天·蛮皇行殇护手	CustomArmor	11849	0	-1	-1	0	2810000			1						5	11937	1									1					护臂
+烛天·荒帝御世靴	CustomArmor	11893	0	-1	-1	0	2810000			1						5	11938	1									1					鞋子
+烛天·蛮皇行殇靴	CustomArmor	11894	0	-1	-1	0	2810000			1						5	11938	1									1					鞋子
+烛天·荒帝御世护腿	CustomArmor	11878	0	-1	-1	0	4020000			1						5	11939	1									1					裤子
+烛天·蛮皇行殇腿甲	CustomArmor	11879	0	-1	-1	0	4020000			1						5	11939	1									1					裤子
+烛天·荒帝御世护腰	CustomArmor	11908	0	-1	-1	0	2810000			1						5	11940	1									1					腰带
+烛天·蛮皇行殇腰甲	CustomArmor	11909	0	-1	-1	0	2810000			1						5	11940	1									1					腰带
+烛天·荒帝御世战衣	CustomArmor	11863	0	-1	-1	0	4020000			1						5	11941	1									1					上衣
+烛天·蛮皇行殇护胸	CustomArmor	11864	0	-1	-1	0	4020000			1						5	11941	1									1					上衣
+烛天·荒帝御世冠	CustomArmor	11833	0	-1	-1	0	3610000			1						5	11942	1									1					头部
+烛天·蛮皇行殇盔	CustomArmor	11834	0	-1	-1	0	3610000			1						5	11942	1									1					头部
+千缘·澹台灭逻链	CustomTrinket	5499	0	-1	-1	0	2010000			1						5	17102	1									1					项链
+千缘·汉影千年链	CustomTrinket	5498	0	-1	-1	0	2010000			1						5	17102	1									1					项链
+千缘·澹台灭逻环	CustomTrinket	5514	0	-1	-1	0	2010000			1						5	17103	1									1					戒指
+千缘·汉影千年环	CustomTrinket	5513	0	-1	-1	0	2010000			1						5	17103	1									1					戒指
+千缘·澹台灭逻戒	CustomTrinket	5529	0	-1	-1	0	2010000			1						5	17104	1									1					戒指
+千缘·汉影千年戒	CustomTrinket	5528	0	-1	-1	0	2010000			1						5	17104	1									1					戒指

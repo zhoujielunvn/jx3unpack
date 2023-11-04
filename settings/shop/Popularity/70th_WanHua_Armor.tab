@@ -1,0 +1,15 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+苍山衣	CustomArmor	451	0	-1	-1	5	240000			1																	1					上衣
+苍山裤	CustomArmor	643	0	-1	-1	5	240000			1																	1					裤子
+苍山鞋	CustomArmor	837	0	-1	-1	5	170000			1																	1					鞋子
+半夏衣	CustomArmor	36601	0	-1	-1	6	110000			1																	1					上衣
+名士衣	CustomArmor	552	0	-1	-1	6	940000			1																	1					上衣
+半夏帽	CustomArmor	36600	0	-1	-1	6	100000			1																	1					头部
+半夏腰带	CustomArmor	36604	0	-1	-1	6	80000			1																	1					腰带
+半夏长裤	CustomArmor	36602	0	-1	-1	6	110000			1																	1					裤子
+名士裤	CustomArmor	744	0	-1	-1	6	940000			1																	1					裤子
+半夏鞋	CustomArmor	36603	0	-1	-1	6	80000			1																	1					鞋子
+名士鞋	CustomArmor	934	0	-1	-1	6	660000			1																	1					鞋子
+半夏护腕	CustomArmor	36599	0	-1	-1	6	80000			1																	1					护臂
+书圣	CustomWeapon	349	0	-1	-1	7	1690000			1																	1					近程武器
+草圣	CustomWeapon	350	0	-1	-1	7	1690000			1																	1					近程武器

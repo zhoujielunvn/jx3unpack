@@ -1,0 +1,33 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+战无不胜·秋水笔	CustomWeapon	3811	0	-1	-1	0	4580000			1				52000									3250		1800		1					近程武器
+战无不胜·秋水笔	CustomWeapon	3812	0	-1	-1	0	4580000			1				52000									3250		1800		1					近程武器
+战无不胜·阳歌笔	CustomWeapon	3813	0	-1	-1	0	4580000			1				52000									3250		1800		1					近程武器
+战无不胜·阳歌笔	CustomWeapon	3814	0	-1	-1	0	4580000			1				52000									3250		1800		1					近程武器
+战无不胜·秋水囊	CustomWeapon	3865	0	-1	-1	0	2290000			1				25600									1600				1					远程武器
+战无不胜·秋水囊	CustomWeapon	3866	0	-1	-1	0	2290000			1				25600									1600				1					远程武器
+战无不胜·阳歌囊	CustomWeapon	3881	0	-1	-1	0	2290000			1				25600									1600				1					远程武器
+战无不胜·阳歌囊	CustomWeapon	3882	0	-1	-1	0	2290000			1				25600									1600				1					远程武器
+战无不胜·伏乾衣	CustomArmor	9003	0	-1	-1	0	3820000			1				40000									2500		1600		1					上衣
+战无不胜·伏乾衣	CustomArmor	9004	0	-1	-1	0	3820000			1				40000									2500		1600		1					上衣
+战无不胜·玄风衣	CustomArmor	9005	0	-1	-1	0	3820000			1				40000									2500		1600		1					上衣
+战无不胜·玄风衣	CustomArmor	9006	0	-1	-1	0	3820000			1				40000									2500		1600		1					上衣
+战无不胜·伏乾帽	CustomArmor	9091	0	-1	-1	0	3430000			1				32000									2000		1400		1					头部
+战无不胜·伏乾帽	CustomArmor	9092	0	-1	-1	0	3430000			1				32000									2000		1400		1					头部
+战无不胜·玄风冠	CustomArmor	9093	0	-1	-1	0	3430000			1				32000									2000		1400		1					头部
+战无不胜·玄风冠	CustomArmor	9094	0	-1	-1	0	3430000			1				32000									2000		1400		1					头部
+战无不胜·伏乾束腰	CustomArmor	9069	0	-1	-1	0	2670000			1				25600									1600				1					腰带
+战无不胜·伏乾束腰	CustomArmor	9070	0	-1	-1	0	2670000			1				25600									1600				1					腰带
+战无不胜·玄风带	CustomArmor	9071	0	-1	-1	0	2670000			1				25600									1600				1					腰带
+战无不胜·玄风带	CustomArmor	9072	0	-1	-1	0	2670000			1				25600									1600				1					腰带
+战无不胜·伏乾裾	CustomArmor	9025	0	-1	-1	0	3820000			1				27200									1700		1200		1					裤子
+战无不胜·伏乾裾	CustomArmor	9026	0	-1	-1	0	3820000			1				27200									1700		1200		1					裤子
+战无不胜·玄风裤	CustomArmor	9027	0	-1	-1	0	3820000			1				27200									1700		1200		1					裤子
+战无不胜·玄风裤	CustomArmor	9028	0	-1	-1	0	3820000			1				27200									1700		1200		1					裤子
+战无不胜·伏乾靴	CustomArmor	9047	0	-1	-1	0	2670000			1				25600									1600				1					鞋子
+战无不胜·伏乾靴	CustomArmor	9048	0	-1	-1	0	2670000			1				25600									1600				1					鞋子
+战无不胜·玄风靴	CustomArmor	9049	0	-1	-1	0	2670000			1				25600									1600				1					鞋子
+战无不胜·玄风靴	CustomArmor	9050	0	-1	-1	0	2670000			1				25600									1600				1					鞋子
+战无不胜·伏乾护手	CustomArmor	8981	0	-1	-1	0	2670000			1				25600									1600				1					护臂
+战无不胜·伏乾护手	CustomArmor	8982	0	-1	-1	0	2670000			1				25600									1600				1					护臂
+战无不胜·玄风流袖	CustomArmor	8983	0	-1	-1	0	2670000			1				25600									1600				1					护臂
+战无不胜·玄风流袖	CustomArmor	8984	0	-1	-1	0	2670000			1				25600									1600				1					护臂

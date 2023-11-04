@@ -1,0 +1,25 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+铁血丹心·惊鸿护手	CustomArmor	5739	0	-1	-1	0	1300000			1						5	6401	1									1					护臂
+铁血丹心·静若护手	CustomArmor	5757	0	-1	-1	0	1300000			1						5	6401	1									1					护臂
+铁血丹心·惊鸿护手	CustomArmor	6060	0	-1	-1	0	1300000			1						5	6401	1									1					护臂
+铁血丹心·静若护手	CustomArmor	6078	0	-1	-1	0	1300000			1						5	6401	1									1					护臂
+铁血丹心·惊鸿冠	CustomArmor	5737	0	-1	-1	0	1680000			1						5	6402	1									1					头部
+铁血丹心·静若冠	CustomArmor	5755	0	-1	-1	0	1680000			1						5	6402	1									1					头部
+铁血丹心·惊鸿冠	CustomArmor	6058	0	-1	-1	0	1680000			1						5	6402	1									1					头部
+铁血丹心·静若冠	CustomArmor	6076	0	-1	-1	0	1680000			1						5	6402	1									1					头部
+铁血丹心·惊鸿衣	CustomArmor	5734	0	-1	-1	0	1860000			1						5	6403	1									1					上衣
+铁血丹心·静若衣	CustomArmor	5752	0	-1	-1	0	1860000			1						5	6403	1									1					上衣
+铁血丹心·惊鸿衣	CustomArmor	6055	0	-1	-1	0	1860000			1						5	6403	1									1					上衣
+铁血丹心·静若衣	CustomArmor	6073	0	-1	-1	0	1860000			1						5	6403	1									1					上衣
+铁血丹心·惊鸿裤	CustomArmor	5735	0	-1	-1	0	1860000			1						5	6404	1									1					裤子
+铁血丹心·静若裤	CustomArmor	5753	0	-1	-1	0	1860000			1						5	6404	1									1					裤子
+铁血丹心·惊鸿裤	CustomArmor	6056	0	-1	-1	0	1860000			1						5	6404	1									1					裤子
+铁血丹心·静若裤	CustomArmor	6074	0	-1	-1	0	1860000			1						5	6404	1									1					裤子
+铁血丹心·惊鸿靴	CustomArmor	5738	0	-1	-1	0	1300000			1						5	6405	1									1					鞋子
+铁血丹心·静若靴	CustomArmor	5756	0	-1	-1	0	1300000			1						5	6405	1									1					鞋子
+铁血丹心·惊鸿靴	CustomArmor	6059	0	-1	-1	0	1300000			1						5	6405	1									1					鞋子
+铁血丹心·静若靴	CustomArmor	6077	0	-1	-1	0	1300000			1						5	6405	1									1					鞋子
+铁血丹心·惊鸿腰带	CustomArmor	5736	0	-1	-1	0	1300000			1						5	6406	1									1					腰带
+铁血丹心·静若腰带	CustomArmor	5754	0	-1	-1	0	1300000			1						5	6406	1									1					腰带
+铁血丹心·惊鸿腰带	CustomArmor	6057	0	-1	-1	0	1300000			1						5	6406	1									1					腰带
+铁血丹心·静若腰带	CustomArmor	6075	0	-1	-1	0	1300000			1						5	6406	1									1					腰带

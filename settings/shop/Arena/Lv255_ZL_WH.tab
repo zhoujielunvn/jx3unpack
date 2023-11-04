@@ -1,0 +1,33 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+逐鹿天下·元龙笔	CustomWeapon	4980	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·清狂笔	CustomWeapon	4981	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·元龙笔	CustomWeapon	4982	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·清狂笔	CustomWeapon	4983	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·元龙囊	CustomWeapon	5008	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·清狂囊	CustomWeapon	5009	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·元龙囊	CustomWeapon	5010	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·清狂囊	CustomWeapon	5011	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·元龙衣	CustomArmor	11456	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·清狂衣	CustomArmor	11457	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·元龙衣	CustomArmor	11458	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·清狂衣	CustomArmor	11459	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·元龙冠	CustomArmor	11352	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·清狂冠	CustomArmor	11353	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·元龙冠	CustomArmor	11354	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·清狂冠	CustomArmor	11355	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·元龙束腰	CustomArmor	11378	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·清狂束腰	CustomArmor	11379	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·元龙束腰	CustomArmor	11380	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·清狂束腰	CustomArmor	11381	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·元龙裤	CustomArmor	11430	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·清狂裤	CustomArmor	11431	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·元龙裤	CustomArmor	11432	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·清狂裤	CustomArmor	11433	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·元龙靴	CustomArmor	11404	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·清狂靴	CustomArmor	11405	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·元龙靴	CustomArmor	11406	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·清狂靴	CustomArmor	11407	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·元龙护手	CustomArmor	11326	0	-1	-1	0	2670000			1													3200				1					护臂
+逐鹿天下·清狂护手	CustomArmor	11327	0	-1	-1	0	2670000			1													3200				1					护臂
+逐鹿天下·元龙护手	CustomArmor	11328	0	-1	-1	0	2670000			1													3200				1					护臂
+逐鹿天下·清狂护手	CustomArmor	11329	0	-1	-1	0	2670000			1													3200				1					护臂

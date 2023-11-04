@@ -1,0 +1,19 @@
+ID	DoodadName(程序不读)	DoodadTemplateID	CostThew	ProfessionID	RequireLevel	DoodadLevel	ToolItemType	ToolItemIndex	PowerfulToolItemType	PowerfulToolItemIndex	EquipmentType	Exp	PrepareFrame	ExpertiseDrop	ExpertiseRate	ExpertiseMinCount	ExpertiseMaxCount	Lv0_Drop0	Lv0_Rate0	Lv0_Drop1	Lv0_Rate1	Lv0_Drop2	Lv0_Rate2	Lv0_Drop3	Lv0_Rate3	Lv0_MinCount	Lv0_MaxCount	Lv1_Drop0	Lv1_Rate0	Lv1_Drop1	Lv1_Rate1	Lv1_Drop2	Lv1_Rate2	Lv1_Drop3	Lv1_Rate3	Lv1_MinCount	Lv1_MaxCount	Lv2_Drop0	Lv2_Rate0	Lv2_Drop1	Lv2_Rate1	Lv2_Drop2	Lv2_Rate2	Lv2_Drop3	Lv2_Rate3	Lv2_MinCount	Lv2_MaxCount	Lv3_Drop0	Lv3_Rate0	Lv3_Drop1	Lv3_Rate1	Lv3_Drop2	Lv3_Rate2	Lv3_Drop3	Lv3_Rate3	Lv3_MinCount	Lv3_MaxCount	CostVigor
+0	未知物件	0	0	0	0	0	0	-1	0	-1	0	0	0																																													0
+1020	铜矿	1020	0	1	20	20	0	0	0	0	0	128	80	矿石\expertise_PL.tab	408	1	2	矿石\tong.tab	1024							1	1	矿石\tong.tab	1024							1	1	矿石\tong.tab	1024							1	1	矿石\tong.tab	1024							1	1	40
+1021	锡矿	1021	0	1	20	20	0	0	0	0	0	128	80	矿石\expertise_PL.tab	408	1	2	矿石\xi.tab	1024							1	1	矿石\xi.tab	1024							1	1	矿石\xi.tab	1024							1	1	矿石\xi.tab	1024							1	1	40
+1022	铅矿	1022	0	1	20	20	0	0	0	0	0	128	80	矿石\expertise_PL.tab	408	1	2	矿石\qian.tab	1024							1	1	矿石\qian.tab	1024							1	1	矿石\qian.tab	1024							1	1	矿石\qian.tab	1024							1	1	40
+1023	锌矿	1023	0	1	20	20	0	0	0	0	0	128	80	矿石\expertise_PL.tab	408	1	2	矿石\xin.tab	1024							1	1	矿石\xin.tab	1024							1	1	矿石\xin.tab	1024							1	1	矿石\xin.tab	1024							1	1	40
+1024	铁矿	1024	0	1	20	20	0	0	0	0	0	128	80	矿石\expertise_PL.tab	408	1	2	矿石\tie.tab	1024							1	1	矿石\tie.tab	1024							1	1	矿石\tie.tab	1024							1	1	矿石\tie.tab	1024							1	1	40
+1025	银矿	1025	0	1	20	20	0	0	0	0	0	128	80	矿石\expertise_PL.tab	408	1	2	矿石\yin.tab	1024							1	1	矿石\yin.tab	1024							1	1	矿石\yin.tab	1024							1	1	矿石\yin.tab	1024							1	1	40
+1027	银砂矿	1027	0	1	20	20	0	0	0	0	0	128	80	矿石\expertise_PL.tab	408	1	2	矿石\yinsha.tab	1024							1	1	矿石\yinsha.tab	1024							1	1	矿石\yinsha.tab	1024							1	1	矿石\yinsha.tab	1024							1	1	40
+2645	月锡	2645	0	1	20	20	0	0	0	0	0	128	80	矿石\expertise_PL.tab	408	1	2	矿石\yuexi.tab	1024							1	1	矿石\yuexi.tab	1024							1	1	矿石\yuexi.tab	1024							1	1	矿石\yuexi.tab	1024							1	1	40
+2644	赤铁	2644	0	1	20	20	0	0	0	0	0	128	80	矿石\expertise_PL.tab	408	1	2	矿石\chitie.tab	1024							1	1	矿石\chitie.tab	1024							1	1	矿石\chitie.tab	1024							1	1	矿石\chitie.tab	1024							1	1	40
+4229	圳铁矿	4229	0	1	20	20	0	0	0	0	0	128	80	矿石\expertise_PL.tab	408	1	2	矿石\zhentie.tab	1024							1	1	矿石\zhentie.tab	1024							1	1	矿石\zhentie.tab	1024							1	1	矿石\zhentie.tab	1024							1	1	40
+4230	禹铜矿	4230	0	1	20	20	0	0	0	0	0	128	80	矿石\expertise_PL.tab	408	1	2	矿石\yutong.tab	1024							1	1	矿石\yutong.tab	1024							1	1	矿石\yutong.tab	1024							1	1	矿石\yutong.tab	1024							1	1	40
+3395	帮会烟雨石矿	3395	0	1	20	20	0	0	0	0	0	128	80	矿石\expertise_PL.tab	408	1	2	矿石\xi.tab	1024							1	1	矿石\xi.tab	1024							1	1	矿石\xi.tab	1024							1	1	矿石\xi.tab	1024							1	1	40
+3417	帮会天青石矿	3417	0	1	20	20	0	0	0	0	0	128	80	矿石\expertise_PL.tab	408	1	2	矿石\Lv95_caijin1.tab	1024							1	1	矿石\Lv95_caijin1.tab	1024							1	1	矿石\Lv95_caijin1.tab	1024							1	1	矿石\Lv95_caijin1.tab	1024							1	1	40
+4501	铅矿	4501	0	1	20	20	0	0	0	0	0	128	80	矿石\expertise_PL.tab	408	1	2	矿石\qian.tab	1024							1	1	矿石\qian.tab	1024							1	1	矿石\qian.tab	1024							1	1	矿石\qian.tab	1024							1	1	40
+4502	铅矿	4502	0	1	20	20	0	0	0	0	0	128	80	矿石\expertise_PL.tab	408	1	2	矿石\qian.tab	1024							1	1	矿石\qian.tab	1024							1	1	矿石\qian.tab	1024							1	1	矿石\qian.tab	1024							1	1	40
+5661	天青石矿	5661	0	1	20	20	0	0	0	0	0	128	80	矿石\expertise_PL.tab	408	1	2	矿石\Lv95_caijin1.tab	1024							1	1	矿石\Lv95_caijin1.tab	1024							1	1	矿石\Lv95_caijin1.tab	1024							1	1	矿石\Lv95_caijin1.tab	1024							1	1	40
+5662	烟雨石矿	5662	0	1	20	20	0	0	0	0	0	128	80	矿石\expertise_PL.tab	408	1	2	矿石\xi.tab	1024							1	1	矿石\xi.tab	1024							1	1	矿石\xi.tab	1024							1	1	矿石\xi.tab	1024							1	1	40

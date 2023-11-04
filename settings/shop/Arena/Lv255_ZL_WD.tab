@@ -1,0 +1,33 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+逐鹿天下·玄蛇笛	CustomWeapon	5000	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·青鸟笛	CustomWeapon	5001	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·玄蛇笛	CustomWeapon	5002	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·青鸟笛	CustomWeapon	5003	0	-1	-1	0	4580000			1													6500		1800		1					近程武器
+逐鹿天下·玄蛇囊	CustomWeapon	5026	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·青鸟囊	CustomWeapon	5027	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·玄蛇囊	CustomWeapon	5028	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·青鸟囊	CustomWeapon	5029	0	-1	-1	0	2290000			1													3200				1					远程武器
+逐鹿天下·玄蛇衣	CustomArmor	11474	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·青鸟衣	CustomArmor	11475	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·玄蛇衣	CustomArmor	11476	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·青鸟衣	CustomArmor	11477	0	-1	-1	0	3820000			1													5000		1600		1					上衣
+逐鹿天下·玄蛇冠	CustomArmor	11370	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·青鸟冠	CustomArmor	11371	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·玄蛇冠	CustomArmor	11372	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·青鸟冠	CustomArmor	11373	0	-1	-1	0	3430000			1													4000		1400		1					头部
+逐鹿天下·玄蛇束腰	CustomArmor	11396	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·青鸟束腰	CustomArmor	11397	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·玄蛇束腰	CustomArmor	11398	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·青鸟束腰	CustomArmor	11399	0	-1	-1	0	2670000			1													3200				1					腰带
+逐鹿天下·玄蛇裤	CustomArmor	11448	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·青鸟裤	CustomArmor	11449	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·玄蛇裤	CustomArmor	11450	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·青鸟裤	CustomArmor	11451	0	-1	-1	0	3820000			1													3400		1200		1					裤子
+逐鹿天下·玄蛇靴	CustomArmor	11422	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·青鸟靴	CustomArmor	11423	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·玄蛇靴	CustomArmor	11424	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·青鸟靴	CustomArmor	11425	0	-1	-1	0	2670000			1													3200				1					鞋子
+逐鹿天下·玄蛇护手	CustomArmor	11344	0	-1	-1	0	2670000			1													3200				1					护臂
+逐鹿天下·青鸟护手	CustomArmor	11345	0	-1	-1	0	2670000			1													3200				1					护臂
+逐鹿天下·玄蛇护手	CustomArmor	11346	0	-1	-1	0	2670000			1													3200				1					护臂
+逐鹿天下·青鸟护手	CustomArmor	11347	0	-1	-1	0	2670000			1													3200				1					护臂

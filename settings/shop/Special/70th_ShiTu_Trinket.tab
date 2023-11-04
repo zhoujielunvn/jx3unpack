@@ -1,0 +1,9 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+风·桃李之链	CustomTrinket	1525	0	-1	-1	0	130000			1						8	1521	1									0					项链
+缘·桃李之链	CustomTrinket	1521	0	-1	-1	0	130000			1						8	1525	1									0					项链
+风·桃李之戒	CustomTrinket	1522	0	-1	-1	0	40000			1						8	1518	1									0					戒指
+缘·桃李之戒	CustomTrinket	1518	0	-1	-1	0	40000			1						8	1522	1									0					戒指
+风·桃李之环	CustomTrinket	1523	0	-1	-1	0	70000			1						8	1519	1									0					戒指
+缘·桃李之环	CustomTrinket	1519	0	-1	-1	0	70000			1						8	1523	1									0					戒指
+风·桃李之坠	CustomTrinket	1524	0	-1	-1	0	100000			1						8	1520	1									0					腰坠
+缘·桃李之坠	CustomTrinket	1520	0	-1	-1	0	100000			1						8	1524	1									0					腰坠

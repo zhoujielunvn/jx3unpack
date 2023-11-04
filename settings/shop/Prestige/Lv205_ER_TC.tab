@@ -1,0 +1,23 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+南风赫炎·征蛮枪	CustomWeapon	3899	0	-1	-1	0	4100000			1				17100													1					近程武器
+南风赫炎·征蛮枪	CustomWeapon	3900	0	-1	-1	0	4100000			1				17100													1					近程武器
+南风赫炎·征蛮囊	CustomWeapon	3971	0	-1	-1	0	2050000			1				8500													1					远程武器
+南风赫炎·征蛮囊	CustomWeapon	3972	0	-1	-1	0	2050000			1				8500													1					远程武器
+南风赫炎·破虏胸铠	CustomArmor	9155	0	-1	-1	0	3420000			1				14200													1					上衣
+南风赫炎·破虏胸铠	CustomArmor	9156	0	-1	-1	0	3420000			1				14200													1					上衣
+南风赫炎·破虏战盔	CustomArmor	9111	0	-1	-1	0	3080000			1				12800													1					头部
+南风赫炎·破虏战盔	CustomArmor	9112	0	-1	-1	0	3080000			1				12800													1					头部
+南风赫炎·破虏护腰	CustomArmor	9221	0	-1	-1	0	2390000			1				10000													1					腰带
+南风赫炎·破虏护腰	CustomArmor	9222	0	-1	-1	0	2390000			1				10000													1					腰带
+南风赫炎·破虏腿甲	CustomArmor	9177	0	-1	-1	0	3420000			1				14200													1					裤子
+南风赫炎·破虏腿甲	CustomArmor	9178	0	-1	-1	0	3420000			1				14200													1					裤子
+南风赫炎·破虏战靴	CustomArmor	9199	0	-1	-1	0	2390000			1				10000													1					鞋子
+南风赫炎·破虏战靴	CustomArmor	9200	0	-1	-1	0	2390000			1				10000													1					鞋子
+南风赫炎·破虏臂甲	CustomArmor	9133	0	-1	-1	0	2390000			1				10000													1					护臂
+南风赫炎·破虏臂甲	CustomArmor	9134	0	-1	-1	0	2390000			1				10000													1					护臂
+南风赫炎·征蛮链	CustomTrinket	3594	0	-1	-1	0	1710000			1				7100													1					项链
+南风赫炎·征蛮链	CustomTrinket	3595	0	-1	-1	0	1710000			1				7100													1					项链
+南风赫炎·征蛮戒	CustomTrinket	3660	0	-1	-1	0	1710000			1				7100													1					戒指
+南风赫炎·征蛮戒	CustomTrinket	3661	0	-1	-1	0	1710000			1				7100													1					戒指
+南风赫炎·征蛮坠	CustomTrinket	3528	0	-1	-1	0	1710000			1				7100													1					腰坠
+南风赫炎·征蛮坠	CustomTrinket	3529	0	-1	-1	0	1710000			1				7100													1					腰坠

@@ -1,0 +1,13 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+下品止血散	Other	3034	0	-1	1		1200			1																	0					
+下品活络散	Other	3035	0	-1	1		2000			1																	0					
+中品止血散	Other	3042	0	-1	1		7000			1																	0					
+中品活络散	Other	3044	0	-1	1		11300			1																	0					
+上品止血散	Other	3054	0	-1	1		21600			1																	0					
+上品活络散	Other	3053	0	-1	1		24100			1																	0					
+下品止血丸	Other	3067	0	-1	1		40100			1																	0					
+下品活络丸	Other	3066	0	-1	1		44000			1																	0					
+中品止血丸	Other	3080	0	-1	1		75000			1																	0					
+中品活络丸	Other	3079	0	-1	1		75000			1																	0					
+上品止血丸	Other	3098	0	-1	1		150000			1																	0					
+上品活络丸	Other	3097	0	-1	1		150000			1																	0					

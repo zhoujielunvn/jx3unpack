@@ -1,0 +1,17 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+独步天下·摩忏锡杖	CustomWeapon	6249	0	-1	-1	0	5250000			1													17600		2200	6	1					近程武器
+独步天下·摩忏锡杖	CustomWeapon	6250	0	-1	-1	0	5250000			1													17600		2200	6	1					近程武器
+独步天下·摩忏之恕	CustomWeapon	6221	0	-1	-1	0	2620000			1													9600		1600	6	1					远程武器
+独步天下·摩忏之恕	CustomWeapon	6222	0	-1	-1	0	2620000			1													9600		1600	6	1					远程武器
+独步天下·摩忏袈裟	CustomArmor	14790	0	-1	-1	0	4370000			1													15000		2000	6	1					上衣
+独步天下·摩忏袈裟	CustomArmor	14791	0	-1	-1	0	4370000			1													15000		2000	6	1					上衣
+独步天下·摩忏顶戴	CustomArmor	14818	0	-1	-1	0	3940000			1													13600		1900	6	1					头部
+独步天下·摩忏顶戴	CustomArmor	14819	0	-1	-1	0	3940000			1													13600		1900	6	1					头部
+独步天下·摩忏腰带	CustomArmor	14874	0	-1	-1	0	3060000			1													12200		1800	6	1					腰带
+独步天下·摩忏腰带	CustomArmor	14875	0	-1	-1	0	3060000			1													12200		1800	6	1					腰带
+独步天下·摩忏护腿	CustomArmor	14902	0	-1	-1	0	4370000			1													12200		1800	6	1					裤子
+独步天下·摩忏护腿	CustomArmor	14903	0	-1	-1	0	4370000			1													12200		1800	6	1					裤子
+独步天下·摩忏长靴	CustomArmor	14930	0	-1	-1	0	3060000			1													10800		1700	6	1					鞋子
+独步天下·摩忏长靴	CustomArmor	14931	0	-1	-1	0	3060000			1													10800		1700	6	1					鞋子
+独步天下·摩忏护手	CustomArmor	14846	0	-1	-1	0	3060000			1													10800		1700	6	1					护臂
+独步天下·摩忏护手	CustomArmor	14847	0	-1	-1	0	3060000			1													10800		1700	6	1					护臂

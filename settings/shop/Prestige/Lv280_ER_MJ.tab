@@ -1,0 +1,51 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+苍天鹤血·羽涅弯刀	CustomWeapon	6108	0	-1	-1	0	4820000			1				45000						7							1					近程武器
+苍天鹤血·羽涅弯刀	CustomWeapon	6109	0	-1	-1	0	4820000			1				45000						7							1					近程武器
+风涛豪情·制劫弯刀	CustomWeapon	6385	0	-1	-1	0	5110000			1				102800						14							1					近程武器
+风涛豪情·制劫弯刀	CustomWeapon	6386	0	-1	-1	0	5110000			1				102800						14							1					近程武器
+苍天鹤血·羽涅囊	CustomWeapon	6106	0	-1	-1	0	2410000			1				22500						7							1					远程武器
+苍天鹤血·羽涅囊	CustomWeapon	6107	0	-1	-1	0	2410000			1				22500						7							1					远程武器
+风涛豪情·制劫囊	CustomWeapon	6355	0	-1	-1	0	2550000			1				51400						14							1					远程武器
+风涛豪情·制劫囊	CustomWeapon	6356	0	-1	-1	0	2550000			1				51400						14							1					远程武器
+苍天鹤血·羽涅衣	CustomArmor	14239	0	-1	-1	0	4020000			1				37500						6							1					上衣
+苍天鹤血·羽涅衣	CustomArmor	14240	0	-1	-1	0	4020000			1				37500						6							1					上衣
+风涛豪情·制劫衣	CustomArmor	15172	0	-1	-1	0	4250000			1				85700						13							1					上衣
+风涛豪情·制劫衣	CustomArmor	15173	0	-1	-1	0	4250000			1				85700						13							1					上衣
+苍天鹤血·羽涅兜帽	CustomArmor	14237	0	-1	-1	0	3610000			1				33700						5							1					头部
+苍天鹤血·羽涅之冠	CustomArmor	14238	0	-1	-1	0	3610000			1				33700						5							1					头部
+风涛豪情·制劫帽	CustomArmor	15144	0	-1	-1	0	3830000			1				77100						12							1					头部
+风涛豪情·制劫帽	CustomArmor	15145	0	-1	-1	0	3830000			1				77100						12							1					头部
+苍天鹤血·羽涅束带	CustomArmor	14247	0	-1	-1	0	2810000			1				26200						3							1					腰带
+苍天鹤血·羽涅腰带	CustomArmor	14248	0	-1	-1	0	2810000			1				26200						3							1					腰带
+风涛豪情·制劫束带	CustomArmor	15284	0	-1	-1	0	2980000			1				60000						10							1					腰带
+风涛豪情·制劫束带	CustomArmor	15285	0	-1	-1	0	2980000			1				60000						10							1					腰带
+苍天鹤血·羽涅裤	CustomArmor	14245	0	-1	-1	0	4020000			1				37500						4							1					裤子
+苍天鹤血·羽涅裤	CustomArmor	14246	0	-1	-1	0	4020000			1				37500						4							1					裤子
+风涛豪情·制劫裤	CustomArmor	15256	0	-1	-1	0	4250000			1				85700						11							1					裤子
+风涛豪情·制劫裤	CustomArmor	15257	0	-1	-1	0	4250000			1				85700						11							1					裤子
+苍天鹤血·羽涅靴	CustomArmor	14243	0	-1	-1	0	2810000			1				26200						2							1					鞋子
+苍天鹤血·羽涅靴	CustomArmor	14244	0	-1	-1	0	2810000			1				26200						2							1					鞋子
+风涛豪情·制劫靴	CustomArmor	15228	0	-1	-1	0	2980000			1				60000						9							1					鞋子
+风涛豪情·制劫靴	CustomArmor	15229	0	-1	-1	0	2980000			1				60000						9							1					鞋子
+苍天鹤血·羽涅护手	CustomArmor	14241	0	-1	-1	0	2810000			1				26200						1							1					护臂
+苍天鹤血·羽涅护手	CustomArmor	14242	0	-1	-1	0	2810000			1				26200						1							1					护臂
+风涛豪情·制劫护手	CustomArmor	15200	0	-1	-1	0	2980000			1				60000						8							1					护臂
+风涛豪情·制劫护手	CustomArmor	15201	0	-1	-1	0	2980000			1				60000						8							1					护臂
+苍天鹤血·羽涅链	CustomTrinket	6228	0	-1	-1	0	2010000			1				22500													1					项链
+苍天鹤血·羽涅链	CustomTrinket	6229	0	-1	-1	0	2010000			1				22500													1					项链
+苍天鹤血·羽涅链	CustomTrinket	6249	0	-1	-1	0	2010000			1				22500													1					项链
+风涛豪情·制劫链	CustomTrinket	6612	0	-1	-1	0	2130000			1				70000													1					项链
+风涛豪情·制劫链	CustomTrinket	6613	0	-1	-1	0	2130000			1				70000													1					项链
+风涛豪情·制劫链	CustomTrinket	6614	0	-1	-1	0	2130000			1				70000													1					项链
+苍天鹤血·羽涅戒	CustomTrinket	6226	0	-1	-1	0	2010000			1				22500													1					戒指
+苍天鹤血·羽涅戒	CustomTrinket	6227	0	-1	-1	0	2010000			1				22500													1					戒指
+苍天鹤血·羽涅戒	CustomTrinket	6251	0	-1	-1	0	2010000			1				22500													1					戒指
+风涛豪情·制劫戒	CustomTrinket	6570	0	-1	-1	0	2130000			1				70000													1					戒指
+风涛豪情·制劫戒	CustomTrinket	6571	0	-1	-1	0	2130000			1				70000													1					戒指
+风涛豪情·制劫戒	CustomTrinket	6572	0	-1	-1	0	2130000			1				70000													1					戒指
+苍天鹤血·羽涅坠	CustomTrinket	6230	0	-1	-1	0	2010000			1				22500													1					腰坠
+苍天鹤血·羽涅坠	CustomTrinket	6231	0	-1	-1	0	2010000			1				22500													1					腰坠
+苍天鹤血·羽涅坠	CustomTrinket	6253	0	-1	-1	0	2010000			1				22500													1					腰坠
+风涛豪情·制劫坠	CustomTrinket	6654	0	-1	-1	0	2130000			1				70000													1					腰坠
+风涛豪情·制劫坠	CustomTrinket	6655	0	-1	-1	0	2130000			1				70000													1					腰坠
+风涛豪情·制劫坠	CustomTrinket	6656	0	-1	-1	0	2130000			1				70000													1					腰坠

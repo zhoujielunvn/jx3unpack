@@ -1,0 +1,8 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+青铁剑	CustomWeapon	483	0	-1	-1	0	4400			1																	0					近程武器
+纸伞	CustomWeapon	502	0	-1	-1	0	20000			1																	0					近程武器
+豁口的短斧	CustomWeapon	515	0	-1	-1	0	30000			1																	0					近程武器
+豁口的隋刀	CustomWeapon	533	0	-1	-1	0	40000			1																	0					近程武器
+食日弯刀	CustomWeapon	546	0	-1	-1	0	50000			1																	0					近程武器
+无锋剑	CustomWeapon	568	0	-1	-1	0	80000			1																	0					近程武器
+太康剑	CustomWeapon	586	0	-1	-1	0	120000			1																	0					近程武器

@@ -1,0 +1,44 @@
+ID	Type	Name	key	ValueName	Desc
+0	0				
+255	0	名士五十强	Rank_Role_Repute	总声望	<text>text="个人积累的江湖中各种势力的声望点数总和排名。" font=0 </text>
+256	0	老江湖五十强	Rank_Role_Achievement	江湖资历	<text>text="隐元秘鉴中积累的江湖资历总数排名。" font=0 </text>
+257	0	兵甲藏家五十强	Rank_Role_EquipmentPoint	装备总分	<text>text="个人身上所有装备，按照装备部位及装备品质的总积分排名。" font=0 </text>
+258	0	名师五十强	Rank_Role_MentorValue	师徒值	<text>text="个人作为师傅拥有的师徒值总分数，包括已经转换成江湖贡献值的。" font=0 </text>
+259	0	阵营英雄五十强	Rank_Role_Prestige	战阶积分	<text>text="个人一周获得的战阶积分总和。" font=0 </text>
+260	0	薪火相传五十强	Rank_Role_ItemMentor	薪火点	<text>text="师父协助满级徒弟完成日常活动获得的薪火点排名。各门派前十名获得限时称号"font=0</text><text>text="[至圣先师]" font=103  link="Designation/164/1"</text><text>text="[桃李满园]" font=104  link="Designation/165/1"</text><text>text="[薪尽火传]" font=104  link="Designation/166/1"</text><text>text="!" font=0 </text>
+261	1	神兵宝甲五十强	Rank_Tong_Good_EquipmentPoint	装备总分	<text>text="统计帮会中所有帮众身上的装备品质，并换算成积分的排名。" font=0 </text>
+262	1	爱心帮会五十强	Rank_Tong_Good_MentorValue	师徒值	<text>text="帮会中所有当师傅的成员的师徒值总分，含已转换成江湖贡献的部分。" font=0 </text>
+263	1	阵营英雄五十强	Rank_Tong_Good_Prestige	战阶积分	<text>text="统计帮会中所有加入阵营的成员，当周获得的战阶积分总和。" font=0 </text>
+264	1	神兵宝甲五十强	Rank_Tong_Evil_EquipmentPoint	装备总分	<text>text="统计帮会中所有帮众身上的装备品质，并换算成积分的排名。" font=0 </text>
+265	1	爱心帮会五十强	Rank_Tong_Evil_MentorValue	师徒值	<text>text="帮会中所有当师傅的成员的师徒值总分，含已转换成江湖贡献的部分。" font=0 </text>
+266	1	阵营英雄五十强	Rank_Tong_Evil_Prestige	战阶积分	<text>text="统计帮会中所有加入阵营的成员，当周获得的战阶积分总和。" font=0 </text>
+268	2	2对2排名	Arena_2V2	队伍分	<text>text="名剑队积分" font=0 </text>
+269	2	3对3排名	Arena_3V3	队伍分	<text>text="名剑队积分" font=0 </text>
+270	2	5对5排名	Arena_5V5	队伍分	<text>text="名剑队积分" font=0 </text>
+271	3	少林	1	过关成绩	<text>text="少林弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>
+272	3	万花	2	过关成绩	<text>text="万花弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>
+273	3	天策	3	过关成绩	<text>text="天策弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>
+274	3	纯阳	4	过关成绩	<text>text="纯阳弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>
+275	3	七秀	5	过关成绩	<text>text="七秀弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>
+276	3	五毒	6	过关成绩	<text>text="五毒弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>
+277	3	唐门	7	过关成绩	<text>text="唐门弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>
+278	3	藏剑	8	过关成绩	<text>text="藏剑弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>
+279	3	明教	10	过关成绩	<text>text="明教弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>
+280	3	丐帮	9	过关成绩	<text>text="丐帮弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>
+281	3	苍云	21	过关成绩	<text>text="苍云弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>
+282	3	长歌	22	过关成绩	<text>text="长歌弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>
+283	3	霸刀	23	过关成绩	<text>text="霸刀弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>
+310	7	艺人	5_119	本周活跃度	<text>text="本周艺人表演时获得的鲜花数。每周结算前三名获得限时聊天前缀称号！" font=0 </text>
+311	7	镖师	1_115	本周活跃度	<text>text="本周据点贸易护镖完成次数。每周结算前三名获得限时聊天前缀称号！" font=0 </text>
+312	7	绿林	2_116	本周活跃度	<text>text="本周绿林陷阱成功击中玩家数。每周结算前三名获得限时聊天前缀称号！" font=0 </text>
+313	7	驭兽师	4_117	本周活跃度	<text>text="本周驭兽总时长（分钟）。每周结算前三名获得限时聊天前缀称号！" font=0 </text>
+314	7	方士	3_118	本周活跃度	<text>text="本周成功度化的精英魂灵数。每周结算前三名获得限时聊天前缀称号！" font=0 </text>
+315	8	大师赛	Arena_Master_3V3	队伍分	<text>text="海选赛排名" font=0 </text>
+340	3	蓬莱	24	过关成绩	<text>text="蓬莱弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>
+351	3	凌雪阁	25	过关成绩	<text>text="凌雪阁弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>
+363	3	衍天宗	211	过关成绩	<text>text="衍天宗弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>
+389	3	药宗	212	过关成绩	<text>text="药宗弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>
+390	0	庐园广记一百强	Rank_Role_CollectFurniture	梓行点	<text>text="庐园广记梓行点排名。" font=0 </text>
+402	3	刀宗	213	过关成绩	<text>text="刀宗弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>
+425	9	八荒衡鉴	281	累计击伤	<text>text="单人单局参与十重·晦冥模式击伤敌对数排名。" font=0 </text>
+426	3	万灵	214	过关成绩	<text>text="万灵弟子在试炼之地中挑战成功的关卡层数和总积分排名。" font=0 </text>

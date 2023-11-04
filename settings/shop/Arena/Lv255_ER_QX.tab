@@ -1,0 +1,33 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+攻无不克·姑余双剑	CustomWeapon	3943	0	-1	-1	0	4580000			1				52000									3250		1800		1					近程武器
+攻无不克·姑余双剑	CustomWeapon	3944	0	-1	-1	0	4580000			1				52000									3250		1800		1					近程武器
+攻无不克·天孙双剑	CustomWeapon	3945	0	-1	-1	0	4580000			1				52000									3250		1800		1					近程武器
+攻无不克·天孙双剑	CustomWeapon	3946	0	-1	-1	0	4580000			1				52000									3250		1800		1					近程武器
+攻无不克·天孙囊	CustomWeapon	4051	0	-1	-1	0	2290000			1				25600									1600				1					远程武器
+攻无不克·天孙囊	CustomWeapon	4052	0	-1	-1	0	2290000			1				25600									1600				1					远程武器
+攻无不克·姑余囊	CustomWeapon	4057	0	-1	-1	0	2290000			1				25600									1600				1					远程武器
+攻无不克·姑余囊	CustomWeapon	4058	0	-1	-1	0	2290000			1				25600									1600				1					远程武器
+攻无不克·雕蝉衣	CustomArmor	9391	0	-1	-1	0	3820000			1				40000									2500		1600		1					上衣
+攻无不克·雕蝉衣	CustomArmor	9392	0	-1	-1	0	3820000			1				40000									2500		1600		1					上衣
+攻无不克·萍姬衣	CustomArmor	9393	0	-1	-1	0	3820000			1				40000									2500		1600		1					上衣
+攻无不克·萍姬衣	CustomArmor	9394	0	-1	-1	0	3820000			1				40000									2500		1600		1					上衣
+攻无不克·雕蝉冠	CustomArmor	9479	0	-1	-1	0	3430000			1				32000									2000		1400		1					头部
+攻无不克·雕蝉冠	CustomArmor	9480	0	-1	-1	0	3430000			1				32000									2000		1400		1					头部
+攻无不克·萍姬冠	CustomArmor	9481	0	-1	-1	0	3430000			1				32000									2000		1400		1					头部
+攻无不克·萍姬冠	CustomArmor	9482	0	-1	-1	0	3430000			1				32000									2000		1400		1					头部
+攻无不克·雕蝉带	CustomArmor	9457	0	-1	-1	0	2670000			1				25600									1600				1					腰带
+攻无不克·雕蝉带	CustomArmor	9458	0	-1	-1	0	2670000			1				25600									1600				1					腰带
+攻无不克·萍姬带	CustomArmor	9459	0	-1	-1	0	2670000			1				25600									1600				1					腰带
+攻无不克·萍姬带	CustomArmor	9460	0	-1	-1	0	2670000			1				25600									1600				1					腰带
+攻无不克·雕蝉裳	CustomArmor	9413	0	-1	-1	0	3820000			1				27200									1700		1200		1					裤子
+攻无不克·雕蝉裳	CustomArmor	9414	0	-1	-1	0	3820000			1				27200									1700		1200		1					裤子
+攻无不克·萍姬裙	CustomArmor	9415	0	-1	-1	0	3820000			1				27200									1700		1200		1					裤子
+攻无不克·萍姬裙	CustomArmor	9416	0	-1	-1	0	3820000			1				27200									1700		1200		1					裤子
+攻无不克·雕蝉履	CustomArmor	9435	0	-1	-1	0	2670000			1				25600									1600				1					鞋子
+攻无不克·雕蝉履	CustomArmor	9436	0	-1	-1	0	2670000			1				25600									1600				1					鞋子
+攻无不克·萍姬靴	CustomArmor	9437	0	-1	-1	0	2670000			1				25600									1600				1					鞋子
+攻无不克·萍姬靴	CustomArmor	9438	0	-1	-1	0	2670000			1				25600									1600				1					鞋子
+攻无不克·雕蝉袖	CustomArmor	9369	0	-1	-1	0	2670000			1				25600									1600				1					护臂
+攻无不克·雕蝉袖	CustomArmor	9370	0	-1	-1	0	2670000			1				25600									1600				1					护臂
+攻无不克·萍姬袖	CustomArmor	9371	0	-1	-1	0	2670000			1				25600									1600				1					护臂
+攻无不克·萍姬袖	CustomArmor	9372	0	-1	-1	0	2670000			1				25600									1600				1					护臂

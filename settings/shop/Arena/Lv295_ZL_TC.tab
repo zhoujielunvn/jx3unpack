@@ -1,0 +1,17 @@
+Name	TabType	ItemIndex	RandSeed	CountLimit	Durability	ReputeLevel	Price	RequireAchievementRecord	RequireLevel	IsValid	CoinType1	CoinAmount1	Contribution	Prestige	AchievementPoint	ItemType1	ItemIndex1	ItemCount1	MentorValue	RequireTitle	Justice	ExamPrint	ArenaAward	ActivityAward	RequireCorpsValue	MaskCorpsNeedToCheck	CanReturn	TongReputation	TongFund	RequireArenaLevel	RequireArenaLevelExcept2v2	Position
+名满天下·狼尊血戟	CustomWeapon	5229	0	-1	-1	0	4960000			1													6900		1600	7	1					近程武器
+名满天下·狼尊血戟	CustomWeapon	5230	0	-1	-1	0	4960000			1													6900		1600	7	1					近程武器
+名满天下·狼尊战囊	CustomWeapon	5203	0	-1	-1	0	2480000			1													3500		0	7	1					远程武器
+名满天下·狼尊战囊	CustomWeapon	5204	0	-1	-1	0	2480000			1													3500		0	7	1					远程武器
+名满天下·狼尊战甲	CustomArmor	11982	0	-1	-1	0	4130000			1													6200		1500	7	1					上衣
+名满天下·狼尊战甲	CustomArmor	11983	0	-1	-1	0	4130000			1													6200		1500	7	1					上衣
+名满天下·狼尊战盔	CustomArmor	12008	0	-1	-1	0	3720000			1													5300		1400	7	1					头部
+名满天下·狼尊战盔	CustomArmor	12009	0	-1	-1	0	3720000			1													5300		1400	7	1					头部
+名满天下·狼尊腰带	CustomArmor	12060	0	-1	-1	0	2890000			1													3500		0	7	1					腰带
+名满天下·狼尊腰带	CustomArmor	12061	0	-1	-1	0	2890000			1													3500		0	7	1					腰带
+名满天下·狼尊腿甲	CustomArmor	12086	0	-1	-1	0	4130000			1													3500		1200	7	1					裤子
+名满天下·狼尊腿甲	CustomArmor	12087	0	-1	-1	0	4130000			1													3500		1200	7	1					裤子
+名满天下·狼尊战靴	CustomArmor	12112	0	-1	-1	0	2890000			1													3500		0	7	1					鞋子
+名满天下·狼尊战靴	CustomArmor	12113	0	-1	-1	0	2890000			1													3500		0	7	1					鞋子
+名满天下·狼尊护手	CustomArmor	12034	0	-1	-1	0	2890000			1													3500		0	7	1					护臂
+名满天下·狼尊护手	CustomArmor	12035	0	-1	-1	0	2890000			1													3500		0	7	1					护臂
