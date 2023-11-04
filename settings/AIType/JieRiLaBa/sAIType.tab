@@ -1,0 +1,15 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+59273	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+59302	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+59303	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+59304	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+59305	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+59306	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+59307	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+59308	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+59309	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+59310	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+59311	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+59312	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+59313	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+59316	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320

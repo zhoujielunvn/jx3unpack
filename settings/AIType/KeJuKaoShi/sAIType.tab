@@ -1,0 +1,15 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+6960	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+6986	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+6987	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+7007	scripts\Map\科举考试\ai\科举考试总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+7008	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+7009	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+7010	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+7025	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+7026	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+7027	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+7046	scripts\Map\科举考试\ai\科举数据总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+7071	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+16486	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+16487	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

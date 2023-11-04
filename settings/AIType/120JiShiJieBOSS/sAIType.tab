@@ -1,0 +1,23 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+110275	scripts/Map/120级世界BOSS/ai/白非人/白非人.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110184	scripts/Map/120级世界BOSS/ai/龙一荡/龙一荡.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110185	scripts/Map/120级世界BOSS/ai/龙一荡/技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110276	scripts/Map/120级世界BOSS/ai/白非人/白非人范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110186	scripts/Map/120级世界BOSS/ai/龙一荡/范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110277	scripts/Map/120级世界BOSS/ai/白非人/白非人技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110278	scripts/Map/120级世界BOSS/ai/白非人/飞刀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110450	scripts/Map/120级世界BOSS/ai/尤伽罗摩/尤伽罗摩.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110199	scripts/Map/120级世界BOSS/ai/龙一荡/毒池.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110615	scripts\Map\120级世界BOSS\ai\尤伽罗摩\毒虫.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110281	scripts/Map/120级世界BOSS/ai/白非人/冥界花.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110451	scripts/Map/120级世界BOSS/ai/尤伽罗摩/尤伽罗摩范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110626	scripts\Map\120级世界BOSS\ai\尤伽罗摩\地虫.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110452	scripts/Map/120级世界BOSS/ai/尤伽罗摩/尤伽罗摩技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110629	scripts\Map\120级世界BOSS\ai\尤伽罗摩\勇虫.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+110630	scripts\Map\120级世界BOSS\ai\尤伽罗摩\毒雨.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110353	scripts/Map/120级世界BOSS/ai/岑伤/岑伤.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110354	scripts/Map/120级世界BOSS/ai/岑伤/岑伤范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110355	scripts/Map/120级世界BOSS/ai/岑伤/岑伤技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110387	scripts/Map/120级世界BOSS/ai/岑伤/岑伤_川流.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+110403	scripts/Map/120级世界BOSS/ai/岑伤/岑伤_幻象.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+123351	scripts/Map/120级世界BOSS/ai/通用血量监控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

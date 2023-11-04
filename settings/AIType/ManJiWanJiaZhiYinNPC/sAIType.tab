@@ -1,0 +1,20 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+41682	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+41887	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+42291	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+42389	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+43618	scripts\Map\世界通用\ai\王贵_满级指引.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+43783	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+44015	scripts\Map\世界通用\ai\王贵_满级指引.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+44016	scripts\Map\世界通用\ai\王贵_满级指引.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+44020	scripts\Map\世界通用\ai\王贵_满级指引.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+44021	scripts\Map\世界通用\ai\王贵_满级指引.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+44022	scripts\Map\世界通用\ai\王贵_满级指引.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+44023	scripts\Map\世界通用\ai\王贵_满级指引.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+44024	scripts\Map\世界通用\ai\王贵_满级指引.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+44025	scripts\Map\世界通用\ai\王贵_满级指引.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+44026	scripts\Map\世界通用\ai\王贵_满级指引.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+44027	scripts\Map\世界通用\ai\王贵_满级指引.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+44047	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+45233	scripts\Map\世界通用\ai\王贵_满级指引.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+55064	scripts\Map\世界通用\ai\王贵_满级指引.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

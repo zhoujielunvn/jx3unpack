@@ -1,0 +1,23 @@
+Include("scripts/LuaEnvInit/GlobalData/VersionControl.li")
+
+function CanExecute(eVersion)
+	if not KOREA_VERSION_NOW then
+		return true
+	end
+	if KOREA_VERSION_NOW == 0 then
+		return true
+	end
+	if not eVersion then
+		Log("CanExecute参数错误，没有版本号。")
+	end
+	if KOREA_VERSION_NOW >= eVersion then
+		return true
+	end
+	return false
+end
+
+function AppendVersionControlToGlobal()
+	_G.KOREA_VERSION = KOREA_VERSION
+	_G.KOREA_VERSION_NOW = KOREA_VERSION_NOW
+	_G.CanExecute = CanExecute
+end

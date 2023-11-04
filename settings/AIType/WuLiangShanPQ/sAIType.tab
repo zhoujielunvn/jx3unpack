@@ -1,0 +1,22 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+14073	scripts/ai/StandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+14074	scripts/ai/StandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+14075	scripts\Map\无量山\ai\无量山PQ\演员AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14076	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	0	80	0	0	0	0		0	0	0	320
+14077	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14078	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14079	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	1	320
+14080	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14081	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14082	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14083	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14084	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14085	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14086	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14087	scripts\Map\无量山\ai\无量山PQ\PQ雪山之巅.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14089	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14090	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14091	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14092	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14093	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14103	scripts\Map\无量山\ai\无量山PQ\演员AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

@@ -1,0 +1,94 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+297	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+320	scripts/ai/StandardAI.lua	0	1536	1536	32	1024	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+374	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+375	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	0	80	0	0	0	0		1	0	0	320
+377	scripts/ai/StandardAI.lua	0	16	16	32	256	64	0	32	0	0	80	0	0	0	0		1	0	0	320
+378	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	0	80	0	0	0	0		1	0	0	320
+381	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	0	80	0	0	0	0		1	1	0	320
+382	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+386	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+387	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	0	80	0	0	0	0		0	0	0	320
+388	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	0	80	0	0	0	0		1	0	0	320
+420	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+422	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+444	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+445	scripts/ai/StandardAI.lua	1	16	16	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+490	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+600	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+659	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+855	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+861	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+862	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+863	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+3766	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+4000	scripts\Map\日轮山城\ai\源明雅.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+4003	scripts\Map\日轮山城\ai\分身的AI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0	1	1	0	1	320
+4004	scripts\Map\日轮山城\ai\日轮2号BOSS2恋.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+4006	scripts\Map\日轮山城\ai\日轮山城1号改.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+4018	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0	1	1	1	1	320
+4029	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+4040	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0	1	1	1	1	320
+4051	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+4075	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+4077	scripts\Map\日轮山城\ai\警戒守卫.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0	1	1	0	1	320
+4078	scripts/ai/DungeonStandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+4079	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+4080	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0	1	1	1	1	320
+4081	scripts/ai/DungeonStandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+4082	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+4105	scripts/ai/DungeonStandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+4107	scripts\Map\日轮山城\ai\警戒守卫.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0	1	1	1	1	320
+4109	scripts\Map\日轮山城\ai\忍法隐身.lua	1	1250	1250	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+4121	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0	1	1	1	1	320
+4122	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+4124	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+4126	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+4163	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	0	384	80	0	30	0	0		1	0	0	320
+4215	scripts\Map\日轮山城\ai\大蛇身.lua	1	1792	1792	32	1536	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+4220	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+4246	scripts\Map\日轮山城\ai\阿麻吕.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+4261	scripts\Map\日轮山城\ai\李重茂.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+4263	scripts\Map\日轮山城\ai\八岐大蛇.lua	1	1792	1792	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+4291	scripts\Map\日轮山城\ai\日轮2号BOSS1奈叶.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+4292	scripts\Map\日轮山城\ai\分身的AI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+4293	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+4294	scripts\Map\日轮山城\ai\弓箭器.lua	1	1250	1250	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+4375	scripts/ai/StandardAI.lua	0	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0	1	1	0	0	320
+4393	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	384	80	0	30	0	0		0	0	0	320
+4620	scripts\Map\日轮山城\ai\日轮山城落石.lua	0	99999999	99999999	32	256	64	960	32	512	384	80	0	30	1	0		0	0	0	320
+4663	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	384	80	0	30	0	0		0	0	0	320
+4664	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+4778	scripts\Map\日轮山城\ai\警戒守卫.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+4779	scripts\Map\日轮山城\ai\哨塔守卫.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0	1	1	0	1	320
+4844	scripts/ai/DungeonStandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+4849	scripts/ai/DungeonStandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+4914	scripts\Map\日轮山城\ai\八重妙法村正.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	1	320
+4915	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+4917	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+4927	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+4928	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+5327	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+5328	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+5329	scripts\Map\日轮山城\ai\忍法隐身.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+5330	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+5407	scripts\Map\日轮山城\ai\上衫流初段.lua	0	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+5410	scripts\Map\日轮山城\ai\警戒守卫.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+5419	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+5425	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	384	80	0	30	1	0		0	0	0	320
+5489	scripts\Map\日轮山城\ai\机器.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+5491	scripts\Map\日轮山城\ai\机器.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+5607	scripts/ai/StandardAI.lua	1	16	16	0	256	64	0	32	0	384	80	0	0	0	0	1	1	0	1	320
+5608	scripts/ai/DungeonStandardAI.lua	0	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+5647	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+5663	scripts\Map\日轮山城\ai\炎点.lua	0	768	768	32	256	64	960	32	512	384	80	0	30	1	0		0	0	0	320
+5704	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+6101	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+6102	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+6241	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+6293	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+64798	scripts/Map/副本通用AI/ai/通用无敌对话AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+70021	scripts/ai/CommonFoolish.lua	0	768	0	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+70022	scripts/ai/CommonFoolish.lua	0	768	0	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+70023	scripts/ai/CommonFoolish.lua	0	768	0	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+70024	scripts/ai/CommonFoolish.lua	0	768	0	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320

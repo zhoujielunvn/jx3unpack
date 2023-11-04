@@ -1,0 +1,20 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+1178599425	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	20	0	1	0		1	0	0	
+1178599426	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	21	0	1	0		1	0	0	
+1178599427	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	320	256	80	0	0	0	0		0	0	0	
+1178599428	scripts/Map/»Û—Ô/ai/—≠ª∑ ¬º˛/PQ359_”„ƒøªÏ÷È/PQ359–°π÷_ºŸ∫Õ…–.lua	0	768	768	32	256	64	0	32	320	256	80	0	0	0	0		0	0	0	
+1178599429	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	23	0	0	0		0	0	0	
+1178599430	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	24	0	1	0		1	0	0	
+1178599431	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	25	0	1	0		0	0	0	
+1178599432	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	26	0	1	0		0	0	0	
+1178599433	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	27	0	1	0		0	0	0	
+1178599434	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	28	0	1	0		0	0	0	
+1178599435	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	29	0	1	0		0	0	0	
+1178599436	scripts/Map/»Û—Ô/ai/¡∏≤›¥Û”™æØΩ‰.lua	0	384	768	32	256	64	0	32	0	384	80	31	0	1	0		1	0	0	
+1178599437	scripts/Map/»Û—Ô/ai/¡∏≤›¥Û”™æØΩ‰.lua	0	384	768	32	256	64	0	32	0	384	80	32	0	1	0		1	0	0	
+1178599438	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	33	0	1	0		0	0	0	
+1178599439	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	34	0	1	0		0	0	0	
+1178599440	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	37	0	1	0		1	0	0	
+1178599441	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	37	0	2	0		1	0	0	
+1178599442	scripts/ai/StandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	35	0	0	0		1	0	1	
+1178599443	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	36	0	0	0		1	0	0	

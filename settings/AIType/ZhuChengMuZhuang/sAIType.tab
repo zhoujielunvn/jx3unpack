@@ -1,0 +1,11 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+24535	scripts\Map\长安\ai\城市木桩.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24536	scripts\Map\长安\ai\城市木桩.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24537	scripts\Map\长安\ai\城市木桩.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24538	scripts\Map\长安\ai\城市木桩.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24543	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+25594	scripts\Map\长安\ai\城市木桩.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+25595	scripts\Map\长安\ai\城市木桩.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+25596	scripts\Map\长安\ai\城市木桩.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+25597	scripts\Map\长安\ai\城市木桩.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+25602	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

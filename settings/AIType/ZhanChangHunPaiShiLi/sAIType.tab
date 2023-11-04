@@ -1,0 +1,27 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+120888	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	1024	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120889	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	768	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120890	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	1024	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120876	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	1024	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120891	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	1024	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120892	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	1024	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120877	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	1024	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120893	scripts\Map\世界通用\ai\演员可对话.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120878	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	768	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120894	scripts/ai/StandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120879	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	1024	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120895	scripts/ai/StandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120880	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+120881	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	768	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120896	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	1024	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120882	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	1024	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120897	scripts\Map\世界通用\ai\演员可对话.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120898	scripts/ai/StandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120883	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+120884	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	1024	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120899	scripts/ai/StandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120885	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	1024	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120900	scripts/ai/StandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120901	scripts/ai/StandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120886	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	1024	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+120887	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	768	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320

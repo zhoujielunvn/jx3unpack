@@ -1,0 +1,24 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+832	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+833	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+864	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	0	384	80	0	30	0	0		1	0	0	320
+2009	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	512	384	80	0	30	0	0		1	0	1	320
+2014	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	30	0	0		0	0	0	320
+2015	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+2016	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+2017	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+2018	scripts/ai/DungeonStandardAI.lua	1	1792	1792	32	256	64	0	32	0	384	80	0	30	0	0	1	1	1	1	320
+2019	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	30	0	0		0	0	0	320
+2020	scripts\Map\¡Èœˆœø\ai\¡Èœˆœø1∫≈BOSS.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+2021	scripts\Map\¡Èœˆœø\ai\–¬∞Ê…‰‘∆.lua	0	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+2022	scripts\Map\¡Èœˆœø\ai\¡Èœˆœø3∫≈BOSS.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	30	0	0		1	1	1	320
+2024	scripts/ai/DungeonStandardAI.lua	1	1792	1792	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+2025	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+2051	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	30	0	0		0	0	0	320
+2060	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+2404	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+2405	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	384	80	0	30	0	0		1	0	0	320
+3874	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+3886	scripts\Map\¡Èœˆœø\ai\¡Èœˆœø2∫≈¬‰ Ø.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+3887	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+6234	scripts/ai/StandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320

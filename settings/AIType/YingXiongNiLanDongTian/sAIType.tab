@@ -1,0 +1,21 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+63921	scripts/Map/泥兰洞天/ai/1号康成辩/猴子.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+63922	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+63923	scripts/Map/泥兰洞天/ai/2号源明信/蛇形北斗.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+63924	scripts/Map/泥兰洞天/ai/2号源明信/星崩陨裂.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+63925	scripts/Map/泥兰洞天/ai/2号源明信/小星崩陨裂.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+63926	scripts/Map/泥兰洞天/ai/2号源明信/灰烬流雨.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+63927	scripts/Map/泥兰洞天/ai/2号源明信/月之潮汐.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+63928	scripts/Map/泥兰洞天/ai/3号康杖石/落英曲.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+63929	scripts/Map/泥兰洞天/ai/小怪/释放技能.lua	1	768	768	32	99999999	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+63930	scripts/ai/DungeonStandardAI.lua	1	768	768	32	99999999	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+63931	scripts/Map/泥兰洞天/ai/小怪/月之潮汐.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+63932	scripts/ai/CommonFoolish.lua	0	768	0	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+63933	scripts/ai/CommonFoolish.lua	0	768	0	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+63934	scripts/Map/泥兰洞天/ai/小怪/蛇形北斗.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+63935	scripts/Map/泥兰洞天/ai/小怪/星崩陨裂.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+63936	scripts/Map/泥兰洞天/ai/小怪/小星崩陨裂.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+63937	scripts/Map/泥兰洞天/ai/1号康成辩/康成辩.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+63938	scripts/Map/泥兰洞天/ai/2号源明信/源明信.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+63939	scripts/Map/泥兰洞天/ai/3号康杖石/康杖石.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+63940	scripts/Map/泥兰洞天/ai/3号康杖石/螃蟹.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

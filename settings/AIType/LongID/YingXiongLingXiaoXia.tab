@@ -1,0 +1,14 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+754974721	scripts/ai/StandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	0	0	1	0		1	0	0	
+754974722	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	1	0	0	0		1	1	0	
+754974723	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	2	0	0	0		1	1	0	
+754974724	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	10	0	0	0		1	1	0	
+754974725	scripts/ai/StandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	0	0	0	0		1	0	0	
+754974726	scripts/ai/StandardAI.lua	1	1024	768	32	256	0	0	0	0	0	0	0	0	0	0		1	0	0	
+754974727	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	5	0	0	0		1	1	0	
+754974728	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	6	0	0	0		1	1	0	
+754974729	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	7	0	0	0		1	1	0	
+754974730	scripts/ai/StandardAI.lua	0	768	768	32	256	0	0	0	0	0	0	0	0	1	0		0	0	0	
+754974731	scripts/ai/StandardAI.lua	0	768	768	32	256	0	0	0	256	256	80	0	0	1	0		1	0	0	
+754974732	scripts/ai/DungeonStandardAI.lua	1	1792	768	32	256	64	0	32	0	384	80	20	30	0	0		1	1	1	
+754974733	scripts/ai/DungeonStandardAI.lua	1	1792	768	32	256	64	0	32	0	384	80	21	30	0	0		1	1	1	

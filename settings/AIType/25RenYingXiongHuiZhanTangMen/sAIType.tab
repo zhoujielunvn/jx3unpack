@@ -1,0 +1,63 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+18045	scripts\Map\25人英雄会战唐门\ai\BOSS战斗\毛毛战斗.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18046	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+18047	scripts\Map\25人英雄会战唐门\ai\BOSS战斗\汪莽战斗.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18048	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+18049	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	1	1280	1280	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+18050	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	1	1280	1280	0	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+18051	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+18052	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+18053	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+18054	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+18055	scripts\Map\25人英雄会战唐门\ai\BOSS战斗\小月月和烟影的剧情表现.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+18056	scripts\Map\25人英雄会战唐门\ai\BOSS战斗\毛毛大战汪莽技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+18057	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+18058	scripts\Map\25人英雄会战唐门\ai\BOSS战斗\二楼百夫长.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+18059	scripts\Map\25人英雄会战唐门\ai\BOSS战斗\三楼百夫长.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+18060	scripts/ai/DungeonStandardAI.lua	1	1280	1280	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18061	scripts\Map\25人英雄会战唐门\ai\BOSS战斗\弩兵.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18062	scripts\Map\25人英雄会战唐门\ai\BOSS战斗\狼牙重弩.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+18063	scripts\Map\25人英雄会战唐门\ai\BOSS战斗\三楼重弩操作.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18064	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+18065	scripts\Map\25人英雄会战唐门\ai\特殊小怪独立AI\守备官特殊AI.lua	1	1280	1280	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18066	scripts\Map\25人英雄会战唐门\ai\特殊小怪独立AI\军阵特殊小怪.lua	1	1280	1280	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18067	scripts\Map\25人英雄会战唐门\ai\特殊小怪独立AI\军阵特殊小怪.lua	1	1280	1280	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18068	scripts\Map\25人英雄会战唐门\ai\特殊小怪独立AI\军阵特殊小怪.lua	1	1280	1280	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18069	scripts\Map\25人英雄会战唐门\ai\特殊小怪独立AI\军阵用骑兵AI.lua	1	1280	1280	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18070	scripts/ai/DungeonStandardAI.lua	1	1280	1280	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18071	scripts/ai/DungeonStandardAI.lua	1	1280	1280	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18072	scripts\Map\25人英雄会战唐门\ai\特殊小怪独立AI\鹰眼小怪.lua	1	1280	1280	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18073	scripts/ai/DungeonStandardAI.lua	1	1280	1280	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18074	scripts/ai/DungeonStandardAI.lua	1	1280	1280	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18075	scripts/ai/DungeonStandardAI.lua	1	1280	1280	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18076	scripts/ai/DungeonStandardAI.lua	1	1280	1280	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18077	scripts/ai/DungeonStandardAI.lua	1	1280	1280	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18078	scripts\Map\25人英雄会战唐门\ai\特殊小怪独立AI\火器师炮台NPC.lua	1	1280	1280	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18079	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18080	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18081	scripts\Map\25人英雄会战唐门\ai\BOSS战斗\狼牙犀弩箭矢伤害.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18082	scripts\Map\25人英雄会战唐门\ai\特殊小怪独立AI\箭雨区域.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18083	scripts\Map\25人英雄会战唐门\ai\BOSS战斗\贪狼刀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18084	scripts\Map\25人英雄会战唐门\ai\特殊小怪独立AI\雷火弹.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18085	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+18086	scripts\Map\25人英雄会战唐门\ai\BOSS战斗\主楼战斗总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18087	scripts\Map\25人英雄会战唐门\ai\BOSS战斗\2楼总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18088	scripts\Map\25人英雄会战唐门\ai\BOSS战斗\三楼总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18089	scripts\Map\25人英雄会战唐门\ai\特殊小怪独立AI\军阵阵型总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18090	scripts\Map\25人英雄会战唐门\ai\特殊小怪独立AI\山阵子阵.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+18091	scripts\Map\25人英雄会战唐门\ai\特殊小怪独立AI\枪阵子阵.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18092	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18093	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+18094	scripts\Map\25人英雄会战唐门\ai\BOSS战斗\星殒实体.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18095	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+18096	scripts\Map\25人英雄会战唐门\ai\BOSS战斗\天罗焚焰.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+18097	scripts\Map\25人英雄会战唐门\ai\BOSS战斗\落石总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+18098	scripts\Map\25人英雄会战唐门\ai\BOSS战斗\落石.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+18099	scripts\Map\25人英雄会战唐门\ai\特殊小怪独立AI\箭岚子阵.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+18596	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+18597	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+18598	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+18599	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+18600	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+18601	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+18602	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

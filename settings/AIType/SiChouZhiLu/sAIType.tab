@@ -1,0 +1,22 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+6784	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	1024	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+6786	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	1024	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+6787	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	1024	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+6788	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	1024	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+6796	scripts\Map\世界通用\ai\演员可对话.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+6797	scripts/ai/StandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+6798	scripts/ai/StandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+6799	scripts\Map\世界通用\ai\演员可对话.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+6800	scripts/ai/StandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+6801	scripts/ai/StandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+6816	scripts/ai/StandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+6817	scripts/ai/StandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+6885	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+6886	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	768	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+6887	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	768	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+6891	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+6892	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+6962	scripts\Map\丝绸之路\ai\镖车.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+6963	scripts\Map\丝绸之路\ai\镖车.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14428	scripts\Map\丝绸之路\ai\丝绸之路总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+16373	scripts\Map\丝绸之路\ai\战场信息同步.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320

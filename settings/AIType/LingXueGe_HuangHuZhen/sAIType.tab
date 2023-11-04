@@ -1,0 +1,20 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+68081	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68082	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68083	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68084	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68085	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68087	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68088	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68092	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68110	scripts/Map/凌雪阁_江南府邸/ai/江潮.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+68111	scripts/Map/凌雪阁_江南府邸/ai/钱一刀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68112	scripts/Map/凌雪阁_江南府邸/ai/钱一锤.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68113	scripts/Map/凌雪阁_江南府邸/ai/剧情总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68114	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68115	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68119	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+68120	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+68121	scripts/Map/鲲鹏岛/ai/演员AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+68139	scripts/Map/凌雪阁_江南府邸/ai/飞镖.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+69171	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

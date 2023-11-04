@@ -1,0 +1,64 @@
+--服务器&客户端 需要加载
+Include("scripts/LuaEnvInit/EditorExportedStrings/EditorStringHeader.li")
+Include("scripts/LuaEnvInit/GlobalnToolsFunctions/String.li")
+Include("scripts/LuaEnvInit/GlobalnToolsFunctions/Math.li")
+Include("scripts/LuaEnvInit/GlobalnToolsFunctions/Player.li")
+Include("scripts/LuaEnvInit/GlobalnToolsFunctions/Npc.li")
+Include("scripts/LuaEnvInit/GlobalnToolsFunctions/Misc.li")
+Include("scripts/LuaEnvInit/GlobalnToolsFunctions/VersionControl.li")
+Include("scripts/Include/PlayerCustomValueName.lh")
+Include("scripts/Include/CustomFunction.lua")
+Include("scripts/Include/OnEnterSceneCommon/OnEnterSceneCommon_FuncList.lh")
+
+if not IsClient() then --仅服务器 需要加载
+	Include("scripts/LuaEnvInit/GlobalnToolsFunctions/SceneCustomValue.li")
+	Include("scripts/LuaEnvInit/GlobalnToolsFunctions/TongRaidQuest.li")
+	Include("scripts/player/OnPlayerLogin/OnPlayerLogin_FuncList.lh")
+	Include("scripts/ai/AIParamGlobal.lua")
+end
+
+function LuaEnvInit()
+	Log("Append [Editor Strings] to global script environment ...")
+	AppendEditorStringsToGlobal()		-- 把编辑器字符串添加到全局环境中
+	
+	Log("Append [String Functions] to global script environment ...")
+	AppendStringFunctionsToGlobal()		-- 把字符串接口添加到全局环境中
+
+	Log("Append [PlayerHelper Functions] to global script environment ...")
+	AppendPlayerHelperFunctionsToGlobal()	-- 把玩家接口添加到全局环境中
+
+	Log("Append [MathHelper Functions] to global script environment ...")
+	AppendMathHelperFunctionsToGlobal()	-- 把常用数学接口添加到全局环境中
+	
+	Log("Append [NpcHelper Functions] to global script environment ...")
+	AppendNpcHelperFunctionsToGlobal()	-- 把NPC接口添加到全局环境中
+	
+	Log("Append [Misc Functions] to global script environment ...")
+	AppendMiscFunctionsToGlobal()		-- 把其他杂项接口添加到全局环境中
+
+	Log("Append [KOREA_VERSION] to global script environment ...")
+	AppendVersionControlToGlobal()  -- 把韩文版版本控制加入全局环境中
+	
+	Log("Append [Custom Function] to global script environment ...")
+	AppendCustomFunctionToGlobal()  -- 把自定义脚本加入全局环境中
+
+	Log("Append [ENTERSCENE_COMMON FUNC INFO] to global script environment ...")
+	AppendEnterSceneCommonFuncInfoToGlobal()  -- 把切换场景common函数脚本信息加入全局环境中
+
+	if not IsClient() then --仅服务器 需要加载
+		Log("Append [SCENE_CUSTOM_VALUE_NAME] to global script environment ...")
+		AppendSceneCustomValueToGlobal()  -- 把场景变量添加到全局环境中
+		
+		Log("Append [TongQuest functiuons] to global script environment ...")
+		AppendSetTongQuestValueToGlobal()  -- 把帮会副本任务相关加入全局环境中
+		
+		Log("Append [LOGIN FUNC INFO] to global script environment ...")
+		AppendLoginFuncInfoToGlobal()  -- 把登陆脚本信息加入全局环境中
+	
+		Log("Append [PlayerValueName] to global script environment ...")
+		AppendPlayerValueNameToGlobal()	-- 把登陆脚本信息加入全局环境中
+		
+		Log("Append [g_AIParam] to global script environment ...")
+		_G.g_AIParam = g_AIParam --AIParam全局化，解决重载AI过卡的问题
+	end
+end

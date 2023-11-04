@@ -1,0 +1,9 @@
+tCustomStrings = {}
+
+tCustomStrings.HELLO_WORLD = "Hello World."
+
+tCustomStrings.ConversionNumber = {
+	tNum = {"零", "一", "二", "三", "四", "五", "六", "七", "八", "九"},
+	tDigitally = {"","十", "百", "千", "万", "十", "百", "千", "亿", "十", "百"},
+	tSwitch = {"零十", "零百", "零千", "零零", "零万", "零亿", "零个", "个", "一十"},
+}

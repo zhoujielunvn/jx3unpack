@@ -1,0 +1,21 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+19399	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19400	scripts\Map\ACT_流寇入侵\ai\炮车.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19401	scripts\Map\ACT_流寇入侵\ai\炮车.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19402	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19403	scripts\Map\ACT_流寇入侵\ai\炮车.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+19404	scripts\Map\ACT_流寇入侵\ai\炮车.lua	0	768	3072	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19405	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19406	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+19407	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	512	384	80	0	0	0	0	誓除倭寇，卫我同胞。	1	0	1	320
+19408	scripts/ai/StandardAI.lua	1	768	3072	32	256	64	0	32	512	384	80	0	0	0	0		1	0	1	320
+19409	scripts/ai/StandardAI.lua	1	768	3072	32	256	64	0	32	512	384	80	0	0	0	0		1	0	1	320
+19410	scripts/ai/StandardAI.lua	1	768	3072	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+19411	scripts\Map\ACT_流寇入侵\ai\炮弹2.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19412	scripts\Map\ACT_流寇入侵\ai\流寇轰炸总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19413	scripts/ai/StandardAI.lua	1	768	3072	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+19414	scripts\Map\ACT_流寇入侵\ai\NPC复活总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19415	scripts/ai/StandardAI.lua	1	768	3072	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+19416	scripts/ai/StandardAI.lua	1	768	3072	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+19417	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+19418	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

@@ -1,0 +1,24 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+11960	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+11962	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+11963	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+11972	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+12005	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+12006	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+12166	scripts\Map\龙渊泽\ai\剧情总控\剧情总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12169	scripts\Map\世界通用\ai\演员可对话.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12171	scripts\Map\龙渊泽\ai\1神策狗男女\男.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12173	scripts\Map\龙渊泽\ai\1神策狗男女\女.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12220	scripts\Map\龙渊泽\ai\1神策狗男女\狗男女战斗总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12241	scripts\Map\龙渊泽\ai\4南诏双雄\刺客.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12249	scripts\Map\龙渊泽\ai\4南诏双雄\壮汉.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12252	scripts\Map\龙渊泽\ai\4南诏双雄\炎爆弹.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12279	scripts\Map\龙渊泽\ai\4南诏双雄\炎爆弹.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12283	scripts\Map\龙渊泽\ai\4南诏双雄\双雄战斗总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13782	scripts\Map\龙渊泽\ai\剧情总控\接引人提示.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13804	scripts\Map\龙渊泽\ai\1神策狗男女\一号掉落.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13805	scripts\Map\龙渊泽\ai\4南诏双雄\四号掉落.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+14040	scripts\Map\世界通用\ai\演员可对话.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+14115	scripts\Map\世界通用\ai\演员.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+14116	scripts\Map\龙渊泽\ai\剧情总控\黑子表现.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+14262	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320

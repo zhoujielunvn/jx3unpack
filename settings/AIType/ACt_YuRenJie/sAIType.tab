@@ -1,0 +1,6 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+65053	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+104059	scripts/Map/ACT_愚人节/ai/声振寰宇.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+104077	scripts/Map/ACT_愚人节/ai/金蛋.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+104322	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+109146	scripts/Map/ACT_愚人节/ai/狼人杀总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

@@ -1,0 +1,10 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+14179	scripts\Map\成都\ai\PQ相关\演员AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14180	scripts\Map\成都\ai\PQ相关\演员AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14181	scripts\Map\成都\ai\PQ相关\演员AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14182	scripts\Map\成都\ai\PQ相关\演员AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14183	scripts\Map\成都\ai\PQ相关\演员AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14184	scripts\Map\成都\ai\PQ相关\演员AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14185	scripts\Map\成都\ai\PQ相关\演员AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14186	scripts\Map\成都\ai\PQ相关\演员AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14187	scripts\Map\成都\ai\动物表现\成都擂台.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

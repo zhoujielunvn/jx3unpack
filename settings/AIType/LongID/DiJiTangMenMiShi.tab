@@ -1,0 +1,5 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+2063597569	scripts\Map\µÍ¼¶ÌÆÃÅÃÜÊÒ\ai\Ò»ºÅBOSSÁø¾ªÌÎ\·ÉÂÖ.lua	0	768	768	32	256	64	0	32	512	384	80	1	0	1	0		1	0	0	
+2063597570	scripts\Map\µÍ¼¶ÌÆÃÅÃÜÊÒ\ai\Ò»ºÅBOSSÁø¾ªÌÎ\·ÉÂÖ.lua	0	768	768	32	256	64	0	32	512	384	80	2	0	1	0		1	0	0	
+2063597571	scripts\Map\µÍ¼¶ÌÆÃÅÃÜÊÒ\ai\Ò»ºÅBOSSÁø¾ªÌÎ\·ÉÂÖ.lua	0	768	768	32	256	64	0	32	512	384	80	3	0	1	0		1	0	0	
+2063597572	scripts\Map\µÍ¼¶ÌÆÃÅÃÜÊÒ\ai\Ò»ºÅBOSSÁø¾ªÌÎ\·ÉÂÖ.lua	0	768	768	32	256	64	0	32	512	384	80	4	0	1	0		1	0	0	

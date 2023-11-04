@@ -1,0 +1,20 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+13238	scripts\Map\低级仙踪林\ai\一号BOSS.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13239	scripts\Map\低级仙踪林\ai\二号BOSS.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13240	scripts\Map\低级仙踪林\ai\三号BOSS.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13241	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13242	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13243	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13244	scripts\Map\低级仙踪林\ai\二号相关\蟾蜍.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13245	scripts\Map\低级仙踪林\ai\一号相关\一号阶段总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13246	scripts\Map\低级仙踪林\ai\二号相关\二号阶段总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13247	scripts\Map\低级仙踪林\ai\三号相关\三号阶段总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13248	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13249	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13250	scripts\Map\低级仙踪林\ai\一号相关\红莲突刺.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13251	scripts\Map\低级仙踪林\ai\剧情控制\十八波总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13252	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13253	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13254	scripts\Map\低级仙踪林\ai\一号相关\一号掉落.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+13255	scripts\Map\低级仙踪林\ai\剧情控制\十八波辅助总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13256	scripts\Map\低级仙踪林\ai\一号相关\疾镰十字斩.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320

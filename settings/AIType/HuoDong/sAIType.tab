@@ -1,0 +1,25 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+6282	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	30	0	0		1	0	1	320
+6283	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	30	0	0		1	0	1	320
+6284	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	384	80	0	30	0	0		1	0	0	320
+6285	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	30	0	0		1	0	1	320
+6286	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	30	0	0	1	1	1	1	320
+6287	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	384	80	0	30	0	0		1	0	0	320
+8154	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+8155	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+8156	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+17322	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+17323	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+17324	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+17325	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+17326	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+17327	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+17329	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+36447	scripts\Map\活动\ai\雨有福.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36450	scripts\Map\活动\ai\雨有福总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36468	scripts\Map\活动\ai\雨有福烈火.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36471	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36475	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36476	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+113528	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+113529	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320

@@ -1,0 +1,23 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+12544	scripts\Map\白龙口\ai\白龙口PQ\PQ_白眉鼠王.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	1		1	0	1	320
+12545	scripts\Map\成都\ai\PQ相关\PQ_剑三少.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+12549	scripts\Map\黑龙沼\ai\黑龙沼PQ\PQ_月之祭司.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+12550	scripts\Map\融天岭\ai\融天岭PQ\PQ_血眼龙王.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+12551	scripts\Map\无量山\ai\无量山PQ\PQ_牡丹.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+12597	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+12663	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+12828	scripts\Map\白龙口\ai\白龙口PQ\PQBoss白眉鼠王总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+12939	scripts\Map\融天岭\ai\融天岭PQ\PQBoss血眼龙王总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+12941	scripts\Map\成都\ai\PQ相关\PQBoss剑三少总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+12942	scripts\Map\黑龙沼\ai\黑龙沼PQ\PQBoss月之祭司总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+12943	scripts\Map\无量山\ai\无量山PQ\PQBoss牡丹总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14133	scripts\Map\白龙口\ai\白龙口PQ\鼠王出现剧情总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14140	scripts\Map\无量山\ai\无量山PQ\牡丹出现剧情总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14141	scripts\Map\融天岭\ai\融天岭PQ\龙王出现剧情总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14142	scripts\Map\成都\ai\PQ相关\剑三少出现剧情总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14143	scripts\Map\黑龙沼\ai\黑龙沼PQ\月神祭祀出现剧情总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14239	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+14240	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+14241	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+14242	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+14243	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

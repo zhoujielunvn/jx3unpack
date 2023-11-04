@@ -1,0 +1,23 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+19113	scripts\Map\驯养系统\ai\驯养中宠物的AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19114	scripts\Map\驯养系统\ai\驯养中宠物的AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19115	scripts\Map\驯养系统\ai\驯养中宠物的AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19116	scripts\Map\驯养系统\ai\驯养中宠物的AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19117	scripts\Map\驯养系统\ai\驯养中宠物的AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19686	scripts\Map\驯养系统\ai\驯养中猫咪.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+19687	scripts\Map\驯养系统\ai\驯养中猫咪.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+19688	scripts\Map\驯养系统\ai\驯养中猫咪.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+19689	scripts\Map\驯养系统\ai\驯养中宠物的AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+21696	scripts\Map\驯养系统\ai\驯养中宠物的AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+25404	scripts\Map\驯养系统\ai\驯养中的雏鸟不移动.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+25497	scripts\Map\驯养系统\ai\驯养中宠物的AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+27009	scripts\Map\驯养系统\ai\驯养中宠物的AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+27010	scripts\Map\驯养系统\ai\驯养中宠物的AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+27587	scripts\Map\驯养系统\ai\驯养中宠物的AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36022	scripts\Map\驯养系统\ai\驯养中宠物的AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36923	scripts\Map\驯养系统\ai\驯养中宠物的AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+40829	scripts\Map\驯养系统\ai\驯养中宠物的AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+40830	scripts\Map\驯养系统\ai\驯养中宠物的AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+43648	scripts\Map\驯养系统\ai\驯养中宠物的AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+55252	scripts\Map\驯养系统\ai\驯养中宠物的AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+69661	scripts\Map\驯养系统\ai\驯养中宠物的AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

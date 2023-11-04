@@ -1,0 +1,10 @@
+m_Server_TongPublicity_TopTen_Last_List	= {};
+m_Server_TongPublicity_TONG_AD_List		= {};
+
+function UpdateTopTenTongList(tTopTenLastTongList)
+	m_Server_TongPublicity_TopTen_Last_List	= tTopTenLastTongList
+end
+
+function UpdateADTongList(tADTongList)
+	m_Server_TongPublicity_TONG_AD_List	= tADTongList
+end

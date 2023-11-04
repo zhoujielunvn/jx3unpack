@@ -1,0 +1,21 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+64829	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+66734	scripts/Map/特殊武器升级/ai/万花/踏雪破冰.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+66742	scripts/Map/特殊武器升级/ai/万花/凝雪孤寒.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+66960	scripts\Map\特殊武器\ai\唐门特殊武器\回旋镖2.0.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+67154	scripts/Map/特殊武器升级/ai/唐门/猫须定点.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+67821	scripts/Map/特殊武器升级/ai/天策/画地为牢.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68546	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68555	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68716	scripts/Map/特殊武器升级/ai/纯阳/谢云流.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68717	scripts/Map/特殊武器升级/ai/纯阳/真元阵.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68718	scripts/Map/特殊武器升级/ai/纯阳/地裂.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+68741	scripts/Map/特殊武器升级/ai/天策/绝地炎阵.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+69082	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+69123	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+69124	scripts/Map/特殊武器升级/ai/万花/极度冰寒.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+69334	scripts/Map/特殊武器升级/ai/纯阳/谢云流.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+69712	scripts\Map\特殊武器升级\ai\天策\战狼.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+69721	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+69722	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+69723	scripts\Map\特殊武器升级\ai\唐门\衿袖.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

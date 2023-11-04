@@ -1,0 +1,625 @@
+---------------------------------------------------------------------->
+-- 脚本名称:	scripts/Include/PrivateHomeData.lh
+-- 更新时间:	2021/12/24 14:43:16
+-- 更新用户:	DESKTOP-HN9STTF
+-- 脚本说明:	
+----------------------------------------------------------------------<
+Include("scripts/Include/BackToHome.lua")
+local HomeLandMgr = GetHomelandMgr()
+
+tPrivateHomeCondition = {
+	--个人家园购买条件表
+	[565] = {
+		[1] = {
+			--条件1：奖励标记
+			szConditionName = GetEditorString(22, 3627),
+			nConditionValue = 807,
+			nConditionType = 1,	--1指奖励标记
+		},
+	}
+}
+tPHomeSubLandCon = {
+	--个人家园子地解锁条件表
+	[565] = {	--地图
+		[1] = {	--大地ID
+			[1] = {	--子地ID
+				[1] = {	--条件1：任务完成
+					szConditionName = GetEditorString(22, 3305),
+					nConditionValue = 24281,
+					nConditionType = 1,	--1指任务完成
+				},
+			},
+			[2] = {
+				[1] = {	--条件1：任务完成
+					szConditionName = GetEditorString(22, 3306),
+					nConditionValue = 24289,
+					nConditionType = 1,	--1指任务完成
+				},
+			},
+		},
+	},
+}
+tPHomeSubLand5DCon = {	--需要同步修改ui的PrivateHomeAreas.tab
+	--个人家园子地解锁五维分条件表，期待有一天改成程序逻辑
+	[565] = {	--地图
+		[1] = {	--大地ID
+			[1] = {	--子地ID
+				nAttribute1 = 0,	--五维分要求
+				nAttribute2 = 0,
+				nAttribute3 = 0,
+				nAttribute4 = 0,
+				nAttribute5 = 0,
+			},
+			[2] = {	--子地ID
+				nAttribute1 = 0,	--五维分要求
+				nAttribute2 = 0,
+				nAttribute3 = 0,
+				nAttribute4 = 0,
+				nAttribute5 = 0,
+			},
+			[3] = {	--子地ID
+				nAttribute1 = 40000,	--五维分要求
+				nAttribute2 = 40000,
+				nAttribute3 = 40000,
+				nAttribute4 = 40000,
+				nAttribute5 = 40000,
+			},
+			[4] = {	--子地ID
+				nAttribute1 = 80000,	--五维分要求
+				nAttribute2 = 80000,
+				nAttribute3 = 80000,
+				nAttribute4 = 80000,
+				nAttribute5 = 80000,
+			},
+			[5] = {	--子地ID
+				nAttribute1 = 120000,	--五维分要求
+				nAttribute2 = 120000,
+				nAttribute3 = 120000,
+				nAttribute4 = 120000,
+				nAttribute5 = 120000,
+			},
+			[6] = {	--子地ID
+				nAttribute1 = 160000,	--五维分要求
+				nAttribute2 = 160000,
+				nAttribute3 = 160000,
+				nAttribute4 = 160000,
+				nAttribute5 = 160000,
+			},
+			[7] = {	--子地ID
+				nAttribute1 = 200000,	--五维分要求
+				nAttribute2 = 200000,
+				nAttribute3 = 200000,
+				nAttribute4 = 200000,
+				nAttribute5 = 200000,
+			},
+		},
+	},
+}
+
+local tPLandSetPos = { --{家园地图ID,nX, nY, nZ, nDir}
+	--个人家园传送的位置
+	[565] = {
+		[1] = {		--广陵邑，key = skinID + 1
+			[1] = {		--1号大地
+				{565, 2305, 600, 1056256},	--1区
+				{565, 1118, 5597, 1056512},
+				{565, 7249, 1100, 1056512},
+				{565, 11265, 1081, 1056512},
+				{565, 14980, 7486, 1056512},
+				{565, 14955, 12212, 1056512},
+				{565, 7098, 15220, 1056640},
+				{565, 831, 798, 1056512},
+			},
+		},
+		[2] = {		--雪山，key = skinID + 1
+			[1] = {		--1号大地
+				{565, 2305, 600, 1056256},	--1区
+				{565, 1118, 5597, 1056512},
+				{565, 7249, 1100, 1056512},
+				{565, 11265, 1081, 1056512},
+				{565, 14980, 7486, 1056512},
+				{565, 14955, 12212, 1056512},
+				{565, 7098, 15220, 1056640},
+				{565, 831, 798, 1056512},
+			},
+		},
+		[3] = {		--海底，key = skinID + 1
+			[1] = {		--1号大地
+				{565, 2305, 600, 1056256},	--1区
+				{565, 1118, 5597, 1056512},
+				{565, 7249, 1100, 1056512},
+				{565, 11265, 1081, 1056512},
+				{565, 14980, 7486, 1056512},
+				{565, 14955, 12212, 1056512},
+				{565, 7098, 15220, 1056640},
+				{565, 831, 798, 1056512},
+			},
+		},
+		[4] = {		--薰风渡，key = skinID + 1
+			[1] = {		--1号大地
+				{565, 2305, 600, 1056256},	--1区
+				{565, 1118, 5597, 1056512},
+				{565, 7249, 1100, 1056512},
+				{565, 11265, 1081, 1056512},
+				{565, 14980, 7486, 1056512},
+				{565, 14955, 12212, 1056512},
+				{565, 7098, 15220, 1056640},
+				{565, 831, 798, 1056512},
+			},
+		},
+		[5] = {		--云海，key = skinID + 1
+			[1] = {		--1号大地
+				{565, 2305, 600, 1056256},	--1区
+				{565, 1118, 5597, 1056512},
+				{565, 7249, 1100, 1056512},
+				{565, 11265, 1081, 1056512},
+				{565, 14980, 7486, 1056512},
+				{565, 14955, 12212, 1056512},
+				{565, 7098, 15220, 1056640},
+				{565, 831, 798, 1056512},
+			},
+		},
+		[6] = {		--大唐盛世，key = skinID + 1
+			[1] = {		--1号大地
+				{565, 2305, 600, 1056256},	--1区
+				{565, 1118, 5597, 1056512},
+				{565, 7249, 1100, 1056512},
+				{565, 11265, 1081, 1056512},
+				{565, 14980, 7486, 1056512},
+				{565, 14955, 12212, 1056512},
+				{565, 7098, 15220, 1056640},
+				{565, 831, 798, 1056512},
+			},
+		},
+		[7] = {		--红叶，key = skinID + 1
+			[1] = {		--1号大地
+				{565, 2305, 600, 1056256},	--1区
+				{565, 1118, 5597, 1056512},
+				{565, 7249, 1100, 1056512},
+				{565, 11265, 1081, 1056512},
+				{565, 14980, 7486, 1056512},
+				{565, 14955, 12212, 1056512},
+				{565, 7098, 15220, 1056640},
+				{565, 831, 798, 1056512},
+			},
+		},
+		[8] = {		--明宵灯暖，key = skinID + 1
+			[1] = {		--1号大地
+				{565, 1635, 1119, 1056512},	--1区
+				{565, 1118, 5597, 1056512},
+				{565, 7249, 1100, 1056512},
+				{565, 11265, 1081, 1056512},
+				{565, 14980, 7486, 1056512},
+				{565, 14955, 12212, 1056512},
+				{565, 7098, 15220, 1056640},
+				{565, 831, 798, 1056512},
+			},
+		},
+		[9] = {		--沙漠，key = skinID + 1
+			[1] = {		--1号大地
+				{565, 2305, 600, 1056256},	--1区
+				{565, 1118, 5597, 1056512},
+				{565, 7249, 1100, 1056512},
+				{565, 11265, 1081, 1056512},
+				{565, 14980, 7486, 1056512},
+				{565, 14955, 12212, 1056512},
+				{565, 7098, 15220, 1056640},
+				{565, 831, 798, 1056512},
+			},
+		},
+		[10] = {		--张家界，key = skinID + 1
+			[1] = {		--1号大地
+				{565, 2305, 600, 1056256},	--1区
+				{565, 1118, 5597, 1056512},
+				{565, 7249, 1100, 1056512},
+				{565, 11265, 1081, 1056512},
+				{565, 14980, 7486, 1056512},
+				{565, 14955, 12212, 1056512},
+				{565, 7098, 15220, 1056640},
+				{565, 831, 798, 1056512},
+			},
+		},
+		[11] = {		--天宫，key = skinID + 1
+			[1] = {		--1号大地
+				{565, 2305, 600, 1056256},	--1区
+				{565, 1118, 5597, 1056512},
+				{565, 7249, 1100, 1056512},
+				{565, 11265, 1081, 1056512},
+				{565, 14980, 7486, 1056512},
+				{565, 14955, 12212, 1056512},
+				{565, 7098, 15220, 1056640},
+				{565, 831, 798, 1056512},
+			},
+		},
+	},
+}
+--参观用野外地图传送位置
+local tVisitHomeSetPos = { --{野外地图ID,nX, nY, nZ, nDir}
+	[565] = { --key = skinID + 1
+		[1] = {572, 2305, 600, 1056256},  --广陵邑
+		[2] = {569, 868, 707, 1056640}, --天池
+		[3] = {570, 2914, 414, 1056640}, --海底
+		[4] = {577, 1351, 1597, 1056576}, --薰风渡
+		[5] = {585, 2250, 545, 1056512}, --云海
+		[6] = {600, 3489, 444, 1056576}, --大唐盛世
+		[7] = {628, 3105, 215, 1056512}, --红叶
+		[8] = {633, 831, 798, 1056512}, --明宵灯暖
+		[9] = {646, 3105, 215, 1056512}, --沙漠
+		[10] = {651, 3105, 215, 1056512}, --张家界
+		[11] = {655, 740, 7713, 1056576}, --天宫
+	},
+}
+local tPLandAganPos = {	--同步scripts/Include/LandCondition.lh的tLandInfoByMapIDNew
+	--个人家园阿甘的位置，一般来说这批NPC统一一个位置就行，如果有特殊造景情况再单独挪动
+	[565] = {
+		[1] = {565, 2837, 721, 1056768, 185},	--广陵邑，key = skinID + 1
+		[2] = {565, 2837, 721, 1056768, 185},	--天池
+		[3] = {565, 2837, 721, 1056768, 185},	--海底
+		[4] = {565, 2837, 721, 1056768, 110},	--薰风渡
+		[5] = {565, 2837, 721, 1056768, 185},	--云海
+		[6] = {565, 2837, 721, 1056768, 185},	--大唐盛世
+		[7] = {565, 2837, 721, 1056768, 185}, --红叶
+		[8] = {565, 2371, 762, 1056512, 59}, --明宵灯暖
+		[9] = {565, 2837, 721, 1056768, 185}, --沙漠
+		[10] = {565, 2837, 721, 1056768, 185}, --张家界
+		[11] = {565, 2837, 721, 1056768, 185}, --天宫
+	},
+}
+local tPLandSisiPos = {
+	--个人家园思思位置
+	[565] = {
+		[1] = {565, 2730, 1041, 1056512, 182},	--广陵邑，key = skinID + 1
+		[2] = {565, 2730, 1041, 1056512, 182},	--天池
+		[3] = {565, 2730, 1041, 1056512, 182},	--海底
+		[4] = {565, 2730, 1041, 1056512, 120},	--薰风渡
+		[5] = {565, 2730, 1041, 1056512, 182},	--云海
+		[6] = {565, 2730, 1041, 1056512, 182},	--大唐盛世
+		[7] = {565, 2730, 1041, 1056512, 182}, --红叶
+		[8] = {565, 3127, 591, 1056512, 73}, --明宵灯暖
+		[9] = {565, 2730, 1041, 1056512, 182}, --沙漠
+		[10] = {565, 2730, 1041, 1056512, 182}, --张家界
+		[11] = {565, 2730, 1041, 1056512, 182}, --天宫
+	},
+}
+local tPLandTransferPos = {
+	--个人家园车夫位置
+	[565] = {
+		[1] = {565, 1933, 1126, 1056576, 198},	--广陵邑，key = skinID + 1
+		[2] = {565, 1933, 1126, 1056576, 182},	--天池
+		[3] = {565, 1933, 1126, 1056576, 215},	--海底
+		[4] = {565, 1933, 1126, 1056576, 99},	--薰风渡
+		[5] = {565, 1933, 1126, 1056576, 198},	--云海
+		[6] = {565, 1933, 1126, 1056576, 198},	--大唐盛世
+		[7] = {565, 1933, 1126, 1056576, 198}, --红叶
+		[8] = {565, 2374, 773, 1056640, 61}, --明宵灯暖
+		[9] = {565, 1933, 1126, 1056576, 198}, --沙漠
+		[10] = {565, 1933, 1126, 1056576, 198}, --张家界
+		[11] = {565, 1933, 1126, 1056576, 198}, --天宫
+	},
+}
+--参观用地图列表
+local tPVisitMapList = {
+	[572] = true,
+	[569] = true,
+	[570] = true,
+	[577] = true,
+	[585] = true,
+	[600] = true,
+	[628] = true,
+	[633] = true,
+	[646] = true,
+	[651] = true,
+	[655] = true,
+}
+--个人家园四个角位置的坐标，家园日常用
+local tPLand4Posistion = {
+	[565] = {
+		{1284, 1284, 1056512, 14},
+		{14836, 1284, 1056512, 100},
+		{14836, 14836, 1056512, 34},
+		{1284, 14836, 1056512, 230},
+	},
+}
+
+local nForbidVisitTime = DateToTime(2022, 1, 9, 7, 0, 0)	--1.10后不再限制参观
+function GetForbidVisitTime()
+	return nForbidVisitTime
+end
+function GetPVisitMapList()
+	return tPVisitMapList
+end
+--获取传送到指定皮肤的个人家园的位置，返回位置表
+function GetPLandSetPos(dwMapID, nSkinID, nLandIndex, nSubLandIndex)	--没有皮肤ID的时候默认为0
+	if not tPLandSetPos[dwMapID] then
+		return false
+	end
+	if not nSkinID then
+		nSkinID = 0
+	end
+	local nKey = nSkinID + 1
+	if not tPLandSetPos[dwMapID][nKey] then
+		return false
+	end
+	if not nLandIndex or not nSubLandIndex then
+		return tPLandSetPos[dwMapID][nKey][1][1]
+	else
+		return tPLandSetPos[dwMapID][nKey][nLandIndex][nSubLandIndex]
+	end
+end
+--获取传送到指定皮肤的野外参观地图的位置，返回地图+位置表
+function GetPLandVisitPos(dwMapID, nSkinID)	--没有皮肤ID的时候默认为0
+	if not tVisitHomeSetPos[dwMapID] then
+		return false
+	end
+	if not nSkinID then
+		nSkinID = 0
+	end
+	local nKey = nSkinID + 1
+	if not tVisitHomeSetPos[dwMapID][nKey] then
+		return false
+	end
+	return tVisitHomeSetPos[dwMapID][nKey]
+end
+--获取个人家园阿甘创建的位置
+function GetPlandAganPos(dwMapID, nSkinID)
+	if not tPLandAganPos[dwMapID] then
+		return false
+	end
+	if not nSkinID then
+		nSkinID = 0
+	end
+	local nKey = nSkinID + 1
+	if not tPLandAganPos[dwMapID][nKey] then
+		return false
+	end
+	return tPLandAganPos[dwMapID][nKey]
+end
+--获取个人家园思思创建的位置
+function GetPlandSisiPos(dwMapID, nSkinID)
+	if not tPLandSisiPos[dwMapID] then
+		return false
+	end
+	if not nSkinID then
+		nSkinID = 0
+	end
+	local nKey = nSkinID + 1
+	if not tPLandSisiPos[dwMapID][nKey] then
+		return false
+	end
+	return tPLandSisiPos[dwMapID][nKey]
+end
+--获取个人家园车夫创建的位置
+function GetPlandTransferPos(dwMapID, nSkinID)
+	if not tPLandTransferPos[dwMapID] then
+		return false
+	end
+	if not nSkinID then
+		nSkinID = 0
+	end
+	local nKey = nSkinID + 1
+	if not tPLandTransferPos[dwMapID][nKey] then
+		return false
+	end
+	return tPLandTransferPos[dwMapID][nKey]
+end
+--回家/参观读条结束后调用
+function OnCustomEvent(player, target)
+	local buffMapId = player.GetBuff(17095, 1)
+	local buffCopyIndex = player.GetBuff(17096, 1)
+	local buffSkinIndex = player.GetBuff(17097, 1)
+	if not buffMapId or not buffCopyIndex or not buffSkinIndex then
+		RemoteCallToClient(player.dwID, "OnOutputWarningMessage", "MSG_NOTICE_RED", GetEditorString(16, 5722), 4)
+		return
+	end
+	if not CheckShenxing(player) then -- 需要再次检查能否神行
+		return
+	end
+	if player.IsHaveBuff(9219, 1) then
+		RemoteCallToClient(player.dwID, "OnOutputWarningMessage", "MSG_NOTICE_RED", GetEditorString(16, 8776), 4)
+		return
+	end
+	local scene = player.GetScene()
+	if not scene then
+		return
+	end
+
+	local dwMapID = buffMapId.nCustomValue
+	local nCopyIndex = buffCopyIndex.nCustomValue
+	local nSkinID = buffSkinIndex.nCustomValue
+	if dwMapID == scene.dwMapID and nCopyIndex == scene.nCopyIndex then
+		RemoteCallToClient(player.dwID, "OnOutputWarningMessage", "MSG_NOTICE_YELLOW", GetEditorString(22, 2895), 4)
+		return
+	end
+	--print("dwMapID:"..dwMapID)
+	--print("nCopyIndex:"..nCopyIndex)
+	--print("nSkinID:"..nSkinID)
+
+	local tSetPos = GetPLandSetPos(dwMapID, nSkinID)
+	if nCopyIndex == 0 then	--是参观
+		tSetPos = GetPLandVisitPos(dwMapID, nSkinID)
+		if scene.dwMapID == tSetPos[1] then
+			RemoteCallToClient(player.dwID, "OnOutputWarningMessage", "MSG_NOTICE_YELLOW", GetEditorString(22, 2895), 4)
+			return
+		end
+	end
+
+	if not tSetPos then
+		RemoteCallToClient(player.dwID, "OnOutputWarningMessage", "MSG_WARNING_YELLOW", GetEditorString(22, 2896), 5)
+		return
+	end
+
+	if not InSafeCity(scene) and not player.IsSkillRecipeExist(5199, 1) then
+		player.ResetCD(244)
+		if player.IsSkillRecipeExist(980, 1) then
+			player.ModifyCoolDown(244, - 15 * 60 * 16)
+		end
+	end
+
+	if nCopyIndex == 0 then	--是参观
+		nCopyIndex = 1
+		player.SwitchMap(tSetPos[1], nCopyIndex, tSetPos[2], tSetPos[3], tSetPos[4])
+	else	--回家或拜访别人家
+		HomeLandMgr.SwitchToHomeland(player.dwID, dwMapID, nCopyIndex, tSetPos[2], tSetPos[3], tSetPos[4])
+	end
+end
+
+--确认是否拥有个人家园购买条件
+function JustCheckPrivateLandCondition(player, nMapID)
+	if not IsPrivateHomeland(nMapID) then
+		return false
+	end
+	if not tPrivateHomeCondition[nMapID] then
+		return false
+	end
+
+	--检测是否具有条件--
+	local bCondition = false
+	local tPrivateMapCons = tPrivateHomeCondition[nMapID]
+	for k = 1, #tPrivateMapCons do
+		local tDetailCon = tPrivateMapCons[k]
+		if tDetailCon then
+			if tDetailCon.nConditionType == 1 then	--是奖励标记
+				if player.GetGiveRewardFlagByID(tDetailCon.nConditionValue) then
+					bCondition = true	--这种写法是【或】条件
+					break
+				end
+			end
+		end
+	end
+	return bCondition
+end
+
+--确认是否满足子地解锁条件
+function CheckPSubLandCon(player, nMapID, nCopyIndex, nLandID, nSubLandID)
+	print("CheckPSubLandCon")
+	if not IsPrivateHomeland(nMapID) then
+		return false
+	end
+	if not tPHomeSubLandCon[nMapID] then
+		return false
+	end
+
+	--检测是否具有条件--
+	local bCondition = false
+	local tPHomeSubLandConMap = tPHomeSubLandCon[nMapID]
+	for i = 1, #tPHomeSubLandConMap do	--大地循环
+		for j = 1, #tPHomeSubLandConMap[i] do	--小地循环
+			local tDetailCon = tPHomeSubLandConMap[i][j]
+			for m = 1, #tDetailCon do
+				if tDetailCon[m] then
+					print("have condition")
+					if tDetailCon[m].nConditionType == 1 and player.GetQuestPhase(tDetailCon[m].nConditionValue) == 3 then	--是任务完成
+						bCondition = true	--这种写法是【或】条件
+						break
+					end
+				end
+			end
+		end
+	end
+	return bCondition
+end
+
+--确认是否满足子地五维分条件
+function CheckPSubLand5DCon(player, nMapID, nCopyIndex, nLandID, nSubLandID, nAttri1, nAttri2, nAttri3, nAttri4, nAttri5)
+	print("CheckPSubLand5DCon")
+	if not IsPrivateHomeland(nMapID) then
+		return false
+	end
+	if not tPHomeSubLand5DCon[nMapID] or not tPHomeSubLand5DCon[nMapID][nLandID] or not tPHomeSubLand5DCon[nMapID][nLandID][nSubLandID] then
+		return false
+	end
+
+	--检测是否具有条件--
+	local bCondition = false
+	local t5DConDetail = tPHomeSubLand5DCon[nMapID][nLandID][nSubLandID]
+	if t5DConDetail.nAttribute1 <= nAttri1 and t5DConDetail.nAttribute2 <= nAttri2 and t5DConDetail.nAttribute3 <= nAttri3 and
+		t5DConDetail.nAttribute4 <= nAttri4 and t5DConDetail.nAttribute5 <= nAttri5 then
+		bCondition = true
+	end
+	return bCondition
+end
+
+--获取个人家园4个角位置的坐标
+function GetPLand4Posistion(dwMapID)
+	if tPLand4Posistion[dwMapID] then
+		return tPLand4Posistion[dwMapID]
+	else
+		return false
+	end
+end
+
+local nPhomeMarkID = 807
+local dwPhomeItemID = 43812	--道具ID
+--获取玩家是否已经可以购买个人家园
+function CheckPhomeQualified(player)
+	if player.GetGiveRewardFlagByID(nPhomeMarkID) then
+		RemoteCallToClient(player.dwID, "OnOutputWarningMessage", "MSG_NOTICE_YELLOW", GetEditorString(22, 3946), 4)
+		return false
+	end
+	if player.GetItemAmountInAllPackages(5, dwPhomeItemID) >= 1 then
+		RemoteCallToClient(player.dwID, "OnOutputWarningMessage", "MSG_NOTICE_YELLOW", GetEditorString(22, 3744), 4)
+		return false
+	end
+	return true
+end
+
+local tPhomeDailyQuest = {24351, 24352, 24353, 24355}
+--检查玩家是否接取任意个人家园日常,false是接取了，true是没接
+function PhomeDailyQuestAccept(player)
+	for k, v in pairs(tPhomeDailyQuest) do
+		if player.GetQuestPhase(v) ~= 0 then
+			return false
+		end
+	end
+	return true
+end
+
+local tPHomeUnlockAchie = {
+	[1] = 9766,
+	[2] = 9767,
+	[3] = 9768,
+	[4] = 9769,
+	[5] = 9770,
+	[6] = 9771,
+	[7] = 9772,
+}
+--完成解锁成就
+function PhomeUnlockAchie(player, nSubland, tUnlockInfo)	--tUnlockInfo直接传入，有的时候要判是否解锁，无的时候直接加成就
+	local nAchievementID = tPHomeUnlockAchie[nSubland]
+	if not nAchievementID then
+		return
+	end
+	if tUnlockInfo then	--需要判断
+		if (not tUnlockInfo[nSubland]) or (tUnlockInfo[nSubland] ~= 1) then	--未解锁
+			--万一有成就，回收成就
+			if player.IsAchievementAcquired(nAchievementID) then
+				player.RemoveAchievement(nAchievementID)
+			end
+			return
+		end
+	end
+
+	--判断业主才加成就,在调用前判断好
+	--if HomeLandMgr.IsCommunityMember(player.dwID) == 0 then
+		--return
+	--end
+	
+	if not player.IsAchievementAcquired(nAchievementID) then
+		player.AcquireAchievement(nAchievementID)
+	end
+end
+
+local nMaxPhomePlayer = 24	--maplist填的人数减1
+function CheckPhomePlayerKick(player, scene, nLandID)
+	if not scene then
+		return
+	end
+	--给房主预留一个位置
+	if not nLandID or nLandID == 0 then	--不是自己家
+		local tPlayerList = scene.GetAllPlayer()
+		if tPlayerList and #tPlayerList > nMaxPhomePlayer then
+			player.SendSystemMessage(GetEditorString(22, 4326))
+			player.SwitchToLastEntry()
+		end
+	end
+end

@@ -1,0 +1,23 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+57248	scripts/Map/pvp服务器/ai/门派战/地图监控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+57268	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+57329	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+57330	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+57331	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+57332	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+57343	scripts/Map/pvp服务器/ai/野外矿群和鱼群/矿群鱼群地图总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+57344	scripts/Map/pvp服务器/ai/野外矿群和鱼群/矿群总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+57345	scripts/Map/pvp服务器/ai/野外矿群和鱼群/鱼群总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+57346	scripts\Map\ACT_通用PQ\ai\被打加仇恨木桩.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+57347	scripts\Map\ACT_通用PQ\ai\被打加仇恨木桩.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+57348	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+57349	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+57409	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+57441	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+59836	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+59837	scripts\Map\pvp服务器\ai\野外矿群和鱼群\鳄鱼.lua	0	2400	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+59840	scripts\Map\pvp服务器\ai\野外矿群和鱼群\鳄鱼总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+59949	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+60150	scripts/ai/StandardAI.lua	0	10	10	32	10	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+60151	scripts/ai/StandardAI.lua	0	10	10	32	10	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+60152	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

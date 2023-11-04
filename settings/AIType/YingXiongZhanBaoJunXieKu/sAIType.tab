@@ -1,0 +1,65 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+24866	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+24867	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+24868	scripts\Map\英雄战宝军械库\ai\军阵BOSS相关\闻人彦范.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+24869	scripts\Map\英雄战宝军械库\ai\军阵BOSS相关\岳承志.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+24870	scripts\Map\英雄战宝军械库\ai\军阵BOSS相关\BOSS刷新总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24871	scripts\Map\英雄战宝军械库\ai\军阵BOSS相关\攻城锤.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24872	scripts\Map\英雄战宝军械库\ai\军阵BOSS相关\骨牢.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24873	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+24874	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+24875	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+24876	scripts\Map\英雄战宝军械库\ai\进攻敌军相关\近战兵种.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24877	scripts\Map\战宝军械库\ai\进攻敌军相关\近战兵种.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24878	scripts\Map\战宝军械库\ai\进攻敌军相关\近战兵种.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24879	scripts\Map\战宝军械库\ai\进攻敌军相关\近战兵种.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24880	scripts\Map\战宝军械库\ai\进攻敌军相关\远程兵种.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24881	scripts\Map\战宝军械库\ai\进攻敌军相关\近战兵种.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24882	scripts\Map\战宝军械库\ai\进攻敌军相关\近战兵种.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24883	scripts\Map\战宝军械库\ai\进攻敌军相关\近战兵种.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24884	scripts\Map\战宝军械库\ai\友军军阵相关\刀兵类通用AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24885	scripts\Map\战宝军械库\ai\友军军阵相关\枪兵类通用AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24886	scripts\Map\战宝军械库\ai\友军军阵相关\骑兵类通用AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24887	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24888	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24889	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24890	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24891	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24892	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24893	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24894	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24895	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24896	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+24897	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+24898	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+24899	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+24900	scripts\Map\英雄战宝军械库\ai\友军军阵相关\友方统领AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24901	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24902	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24903	scripts\Map\英雄战宝军械库\ai\进攻敌军相关\敌军刷兵总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24904	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24905	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24906	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24907	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24908	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24909	scripts\Map\英雄战宝军械库\ai\BOSS5\萧沙.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+24910	scripts\Map\英雄战宝军械库\ai\BOSS5\韦柔丝.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+24911	scripts\Map\战宝军械库\ai\进攻敌军相关\近战兵种.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24912	scripts\Map\英雄战宝军械库\ai\BOSS5\血眼龙王.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+24913	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+24914	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24915	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+24916	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+24917	scripts\Map\战宝军械库\ai\军阵BOSS相关\防守军监控NPC.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24918	scripts\Map\英雄战宝军械库\ai\军阵BOSS相关\范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24919	scripts\Map\英雄战宝军械库\ai\BOSS5\龙相气劲.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24920	scripts\Map\英雄战宝军械库\ai\BOSS5\沙啸风.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24921	scripts\Map\英雄战宝军械库\ai\BOSS5\龙血玉.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+24922	scripts\Map\英雄战宝军械库\ai\BOSS5\龙火.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24923	scripts\Map\英雄战宝军械库\ai\BOSS5\联合治疗.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24924	scripts\Map\英雄战宝军械库\ai\BOSS5\范围控制.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24925	scripts\Map\英雄战宝军械库\ai\BOSS5\刺.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24926	scripts\Map\英雄战宝军械库\ai\BOSS5\龙火弹（小）.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24927	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+24928	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+64703	scripts/ai/DungeonStandardAI.lua	1	6400	6400	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320

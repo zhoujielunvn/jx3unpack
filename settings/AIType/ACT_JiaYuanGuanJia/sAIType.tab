@@ -1,0 +1,27 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+69922	scripts/Map/ACT_家园管家/ai/管家.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+70101	scripts/Map/ACT_家园管家/ai/管家.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+70102	scripts/Map/ACT_浪客行/ai/吟唱不转向boss.lua	1	960	960	32	3200	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+70111	scripts/Map/ACT_家园管家/ai/管家周常总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+70386	scripts/Map/ACT_家园管家/ai/管家.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+70559	scripts/Map/ACT_家园管家/ai/管家.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+70560	scripts/Map/ACT_家园管家/ai/管家.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+70625	scripts/Map/ACT_家园管家/ai/管家.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+70680	scripts/Map/ACT_家园管家/ai/战斗助手.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+103538	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+103539	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+103540	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+103541	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+103542	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+106766	scripts\Map\ACT_家园管家\ai\管家_战斗辅助.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+106767	scripts\Map\ACT_家园管家\ai\管家_战斗辅助.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+106768	scripts\Map\ACT_家园管家\ai\管家_战斗辅助.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+106769	scripts\Map\ACT_家园管家\ai\管家_战斗辅助.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+106770	scripts\Map\ACT_家园管家\ai\管家_战斗辅助.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+107479	scripts/Map/ACT_家园管家/ai/管家.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+107480	scripts/Map/ACT_家园管家/ai/管家.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+107810	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+107811	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+107895	scripts\Map\ACT_家园管家\ai\管家_战斗辅助.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+107896	scripts\Map\ACT_家园管家\ai\管家_战斗辅助.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+107899	scripts/Map/永王行宫_花月别院/ai/2号/香妃的空AI.lua	0	1280	1280	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

@@ -1,0 +1,17 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+47032	scripts\Map\帮会押镖\ai\镖车.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+47408	scripts\Map\帮会押镖\ai\散落的镖银.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+47744	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+47749	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+47754	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+47755	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+47756	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+47795	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+47832	scripts\Map\帮会押镖\ai\劫镖者.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+47858	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+47859	scripts\Map\帮会押镖\ai\镖车.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+47860	scripts\Map\帮会押镖\ai\镖队马车.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+47861	scripts\Map\帮会押镖\ai\镖队马车.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+47887	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+47888	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+47946	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

@@ -1,0 +1,10 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+41690	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+41699	scripts\Map\小橙武\ai\90级小橙武剑气.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+41700	scripts\Map\小橙武\ai\90级小橙武毒圈.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+41710	scripts\Map\小橙武\ai\90级小橙武Boss总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+41711	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+41736	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+41749	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+41752	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+41771	scripts\Map\小橙武\ai\90小橙武范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

@@ -1,0 +1,318 @@
+---------------------------------------------------------------------->
+-- 脚本名称:	scripts/Include/ProtocolMovie.lh
+-- 更新时间:	2019/9/24 17:13:18
+-- 更新用户:	luoqige
+-- 脚本说明:
+----------------------------------------------------------------------<
+local tProtocolMovie = {
+	[GetEditorString(12, 1395)] = {
+		nTime = 40,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {306, 304, 307, 305},
+		nMovieID_M1 = 388,
+		nMovieID_M2 = 389,
+		nMovieID_F1 = 390,
+		nMovieID_F2 = 391,
+		tPos = {42857, 71159, 1084416, 189},
+	},
+------------------------------------------------------
+	[GetEditorString(12, 1413)] = {
+		nTime = 75,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {327, 325, 328, 326},
+		nMovieID_M1 = 403,
+		nMovieID_M2 = 404,
+		nMovieID_F1 = 405,
+		nMovieID_F2 = 406,
+	},
+----------------------------------------------------
+	[GetEditorString(12, 1414)] = {
+		nTime = 170,
+		--正太M1，萝莉F1，标男M2，标女F2
+		nMovieID_M1 = 384,
+		nMovieID_M2 = 385,
+		nMovieID_F1 = 386,
+		nMovieID_F2 = 387,
+		tPos = {53947, 7483, 1068352, 66},
+	},
+----------------------------------------------------
+	[GetEditorString(0, 8425)] = {
+		nTime = 15,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {309, 309, 309, 309},
+		nMovieID = 417,
+		tPos = {30883, 10751, 1107200, 255},
+	},
+----------------------------------------------------
+	[GetEditorString(12, 1415)] = {
+		nTime = 20,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {310, 310, 310, 310},
+		nMovieID = 416,
+		tPos = {9950, 49451, 1089280, 152},
+	},
+----------------------------------------------------
+	[GetEditorString(12, 1416)] = {
+		nTime = 30,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {330, 332, 329, 331},
+		nMovieID_M1 = 392,
+		nMovieID_M2 = 393,
+		nMovieID_F1 = 394,
+		nMovieID_F2 = 395,
+	},
+----------------------------------------------------
+	[GetEditorString(12, 1417)] = {
+		nTime = 37,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {313, 311, 314, 312},
+		nMovieID_M1 = 399,
+		nMovieID_M2 = 400,
+		nMovieID_F1 = 401,
+		nMovieID_F2 = 302,
+		tPos = {20922, 26272, 1054912, 222},
+	},
+----------------------------------------------------
+	[GetEditorString(12, 1418)] = {
+		nTime = 48,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {340, 338, 341, 339},
+		nMovieID_M1 = 407,
+		nMovieID_M2 = 408,
+		nMovieID_F1 = 409,
+		nMovieID_F2 = 410,
+		tPos = {4223, 85272, 1057856, 6},
+	},
+--==================================================
+	[GetEditorString(12, 2063)] = {
+		nTime = 30,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {397, 397, 397, 397},
+		nMovieID = 396,
+	},
+----------------------------------------------------
+	[GetEditorString(12, 2062)] = {
+		nTime = 60,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {429, 429, 429, 429},
+		nMovieID = 397,
+	},
+----------------------------------------------------
+	[GetEditorString(12, 2064)] = {
+		nTime = 30,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {418, 418, 418, 418},
+		nMovieID = 398,
+	},
+--------------------------------------------------
+	[GetEditorString(0, 7486)] = {
+		nTime = 70,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = "ui/Video/小邪子.mp4",
+		nMovieID = 470,
+	},
+----------------------------------------------------
+	[GetEditorString(12, 2065)] = {
+		nTime = 14,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {417, 417, 417, 417},
+		nMovieID = 411,
+	},
+----------------------------------------------------
+	[GetEditorString(12, 2066)] = {
+		nTime = 30,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {342, 342, 342, 342},
+		nMovieID = 412,
+	},
+----------------------------------------------------
+	[GetEditorString(12, 2067)] = {
+		nTime = 20,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {378, 378, 378, 378},
+		nMovieID = 413,
+		tPos = {36200, 64445, 1092480, 163},
+	},
+----------------------------------------------------
+	[GetEditorString(12, 2068)] = {
+		nTime = 59,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {428, 428, 428, 428},
+		nMovieID = 414,
+	},
+----------------------------------------------------
+	[GetEditorString(12, 2069)] = {
+		nTime = 55,
+		--正太M1，萝莉F1，标男M2，标女F2
+		nMovieID = 415,
+	},
+----------------------------------------------------
+	[GetEditorString(12, 2070)] = {
+		nTime = 170,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = "ui/Video/红豆项链.mp4",
+		nMovieID = 382,
+		--tPos = {68881, 11361, 1084800, 138},
+	},
+----------------------------------------------------
+	[GetEditorString(12, 2071)] = {
+		nTime = 120,
+		--正太M1，萝莉F1，标男M2，标女F2
+	--	nMovieID = {416, 416, 416, 416},
+		nMovieID = 418,
+	},
+----------------------------------------------------
+	[GetEditorString(0, 5728)] = {
+		nTime = 60,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {419, 419, 419, 419},
+		nMovieID = 420
+	},
+----------------------------------------------------
+	[GetEditorString(0, 2388)] = {
+		nTime = 60,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {395, 395, 395, 395},
+		nMovieID = 421,
+	},
+----------------------------------------------------
+	[GetEditorString(12, 2072)] = {
+		nTime = 25,
+		--正太M1，萝莉F1，标男M2，标女F2
+	--	nMovieID = {376, 376, 376, 376},
+		nMovieID = 422,
+		tPos = {100860, 96874, 1229248, 80},
+	},
+----------------------------------------------------
+	[GetEditorString(12, 2073)] = {
+		nTime = 85,
+		--正太M1，萝莉F1，标男M2，标女F2
+		nMovieID = {398, 398, 398, 398},
+		nMovieID = 423, 
+	},
+----------------------------------------------------
+	[GetEditorString(12, 2074)] = {
+		nTime = 125,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {377, 377, 377, 377},
+		nMovieID = 424,
+		tPos = {63237, 7485, 1053248, 30},
+	},
+----------------------------------------------------
+	[GetEditorString(12, 2075)] = {
+		nTime = 170,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {386, 386, 386, 386},
+		nMovieID = 425,
+	},
+----------------------------------------------------
+	[GetEditorString(12, 2076)] = {
+		nTime = 250,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = "ui/Video/于睿方轻崖.mp4",
+		nMovieID = 426,
+	},
+----------------------------------------------------
+	--["白帝城"] = {
+	--nTime = 14,
+	--正太M1，萝莉F1，标男M2，标女F2
+	--nMovieID = {354, 354, 354, 354},
+	--},
+----------------------------------------------------
+	[GetEditorString(5, 6241)] = {
+		nTime = 14,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = "ui/Video/安史之乱V3.mp4",
+		nMovieID = 427,
+	},
+----------------------------------------------------
+	[GetEditorString(12, 2077)] = {
+		nTime = 150,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = "ui/Video/毛毛祭拜.mp4",
+		nMovieID = 428,
+	},
+----------------------------------------------------
+	[GetEditorString(12, 2078)] = {
+		nTime = 30,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {430, 431, 430, 431},
+		nMovieID_M1 = 433,
+		nMovieID_M2 = 434,
+		nMovieID_F1 = 435,
+		nMovieID_F2 = 436,
+	},
+----------------------------------------------------
+	[GetEditorString(12, 2285)] = {
+		nTime = 30,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {422, 424, 421, 423},
+		nMovieID_M1 = 429,
+		nMovieID_M2 = 430,
+		nMovieID_F1 = 431,
+		nMovieID_F2 = 432,
+	},
+----------------------------------------------------
+	[GetEditorString(12, 2468)] = {
+		nTime = 30,
+		--正太M1，萝莉F1，标男M2，标女F2
+		--nMovieID = {43, 43, 43, 43},
+		nMovieID = 419,
+	},
+----------------------------------------------------
+}
+
+function PlayProtocolMovie(player, szIndex, bESC)
+	if not tProtocolMovie[szIndex] then
+		--print(string.format("[KLUA][ERROR]PlayProtocolMovie Failed. Param index does not exist, Index: " .. szIndex))
+		return
+	end
+
+	player.AddBuff(0, 99, 1899, 1, tProtocolMovie[szIndex].nTime)--保护BUFF
+	--player.AddBuff(0, 99, 10042, 1, tProtocolMovie[szIndex].nTime)
+	--print(type(tProtocolMovie[szIndex].nMovieID))
+	if type(tProtocolMovie[szIndex].nMovieID) == "table" then
+		--if tProtocolMovie[szIndex].nMovieID[1] == 354 then
+		----RemoteCallToClient(player.dwID, "OnPlayerUIMovie", "ui/Video/敬请期待.mp4", 6, false)
+		--else
+		if player.nRoleType == ROLE_TYPE.LITTLE_BOY then
+			RemoteCallToClient(player.dwID, "OnPlayProtocolMovie", tProtocolMovie[szIndex].nMovieID[1], bESC)--false可ESC true不可ESC
+		elseif player.nRoleType == ROLE_TYPE.LITTLE_GIRL then
+			RemoteCallToClient(player.dwID, "OnPlayProtocolMovie", tProtocolMovie[szIndex].nMovieID[2], bESC)--false可ESC true不可ESC
+		elseif player.nRoleType == ROLE_TYPE.STANDARD_MALE then
+			RemoteCallToClient(player.dwID, "OnPlayProtocolMovie", tProtocolMovie[szIndex].nMovieID[3], bESC)--false可ESC true不可ESC
+		elseif player.nRoleType == ROLE_TYPE.STANDARD_FEMALE then
+			RemoteCallToClient(player.dwID, "OnPlayProtocolMovie", tProtocolMovie[szIndex].nMovieID[4], bESC)--false可ESC true不可ESC
+		end
+		--end
+	elseif type(tProtocolMovie[szIndex].nMovieID) == "string" then
+		-- print(tProtocolMovie[szIndex].nMovieID)
+		RemoteCallToClient(player.dwID, "OnPlayerUIMovie", tProtocolMovie[szIndex].nMovieID, 6, false)
+	elseif type(tProtocolMovie[szIndex].nMovieID) == "number" then
+		RemoteCallToClient(player.dwID, "OnPlayUrlMovieOrProtocolMovie", tProtocolMovie[szIndex].nMovieID, false, 2)
+	elseif type(tProtocolMovie[szIndex].nMovieID_M1) == "number" then
+		RemoteCallToClient(player.dwID, "OnPlayUrlMovieOrProtocolMovie", tProtocolMovie[szIndex].nMovieID_M1, false, 2)
+	elseif type(tProtocolMovie[szIndex].nMovieID_M2) == "number" then
+		RemoteCallToClient(player.dwID, "OnPlayUrlMovieOrProtocolMovie", tProtocolMovie[szIndex].nMovieID_M2, false, 2)
+	elseif type(tProtocolMovie[szIndex].nMovieID_F1) == "number" then
+		RemoteCallToClient(player.dwID, "OnPlayUrlMovieOrProtocolMovie", tProtocolMovie[szIndex].nMovieID_F1, false, 2)
+	elseif type(tProtocolMovie[szIndex].nMovieID_F2) == "number" then
+		RemoteCallToClient(player.dwID, "OnPlayUrlMovieOrProtocolMovie", tProtocolMovie[szIndex].nMovieID_F2, false, 2)
+	end
+	if tProtocolMovie[szIndex].tPos then
+		player.Stop()
+		RemoteCallToClient(player.dwID, "CallUIGlobalFunction", "MoveAction_StopAll" )
+		player.AddBuff(0, 99, 12619, 1, 2)
+		player.Sprint(false)
+		player.SetPosition(tProtocolMovie[szIndex].tPos[1], tProtocolMovie[szIndex].tPos[2], tProtocolMovie[szIndex].tPos[3])
+		player.TurnTo(tProtocolMovie[szIndex].tPos[4])
+		player.SetTimer(0.5 * GLOBAL.GAME_FPS, "scripts/Include/ProtocolMovie.lh", 0, 0)
+	end
+end
+
+function OnTimer(player, nParam1, nParam2)
+	player.Stop()
+	RemoteCallToClient(player.dwID, "CallUIGlobalFunction", "MoveAction_StopAll" )
+	player.AddBuff(0, 99, 12619, 1, 2)
+	player.Sprint(false)
+end

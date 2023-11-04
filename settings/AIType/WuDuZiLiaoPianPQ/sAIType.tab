@@ -1,0 +1,2 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+10945	scripts\Map\融天岭\ai\公共PQ相关\测试1.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320

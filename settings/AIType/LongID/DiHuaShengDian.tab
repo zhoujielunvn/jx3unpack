@@ -1,0 +1,23 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+1140850689	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	0	80	12	30	0	0		1	0	0	
+1140850690	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	16	0	0	0		1	1	1	
+1140850691	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	0	80	14	30	0	0		1	0	0	
+1140850692	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	13	0	0	0		1	1	1	
+1140850693	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	0	80	13	30	0	0		1	0	0	
+1140850694	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	15	0	0	0		1	1	1	
+1140850695	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	17	0	0	0		1	1	1	
+1140850696	scripts/ai/StandardAI.lua	0	1536	768	32	1536	64	960	32	512	0	80	17	30	0	0		1	0	0	
+1140850697	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	19	0	0	0		1	1	1	
+1140850698	scripts/ai/StandardAI.lua	0	1536	768	32	1536	64	960	32	512	0	80	19	30	0	0		1	0	0	
+1140850699	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	0	80	17	30	0	0		1	0	0	
+1140850700	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	18	0	0	0		1	1	1	
+1140850701	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	0	80	22	30	0	0		1	0	0	
+1140850702	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	0	80	21	30	0	0		1	0	0	
+1140850703	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	0	80	24	30	0	0		1	0	0	
+1140850704	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	0	80	20	30	0	0		1	0	0	
+1140850705	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	20	0	0	0		1	1	1	
+1140850706	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	0	80	23	30	0	0		1	0	0	
+1140850707	scripts/ai/DungeonStandardAI.lua	1	768	1536	32	256	64	0	32	0	384	80	28	0	0	0		1	1	1	
+1140850708	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	26	0	0	0		1	1	1	
+1140850709	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	25	0	0	0		1	1	1	
+1140850710	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	27	0	0	0		1	1	1	

@@ -1,0 +1,38 @@
+---------------------------------------------------------------------->
+-- 脚本名称:	scripts/Tong/include/TongCustomValueName.lh
+-- 更新时间:	2017/7/19 13:00:44
+-- 更新用户:	zhengfeng5
+-- 脚本说明:
+----------------------------------------------------------------------<
+-- 以下记录帮会发展点和资金的消耗历史记录（帮会界面LOG）
+TONG_HISTORY_TYPE = {
+	SYS_OTHER = 0, -- 系统处理，不参与数据统计和显示
+	TONG_TECH_TREE = 1, -- 升级天工树
+	XIAN_REN_ZHI_LU = 2, -- 仙人指路
+	RAISE_FLAG = 3, -- 悬挂旗帜
+	SALARY_PAY = 4, -- 发放工资(已废弃)
+	FISH_ACTIVITY = 5, -- 开启钓鱼活动
+	DAILY_COST = 6, -- 每日维护费(已废弃)
+	BUY_MAP = 7, -- 购买帮会领地
+	MODIFY_SALARY = 8, -- 修改工资和修理资金配比
+	SALARY_RETURN = 9, -- 帮会工资未领取返还(已废弃)
+	BATTLE_TANK_COST = 10, -- 约战中建造坦克消耗
+	BATTLE_TOWER_COST = 11, -- 约战中升级箭塔消耗
+	CASTLE_RECOVER_COST = 12, -- 据点回收期维护费
+	TONG_TRADE = 13, -- 帮会押镖
+	TRADE_SUPPLY_CARGO = 14, -- 帮会押镖补货
+	TONG_WAR_Cast = 15, -- 帮会宣战
+
+	TONG_SHOP_BUYFUND = 16, -- 帮众从商店购买道具
+	TONG_PUBLICITY = 17, -- 帮会推荐竞标
+	PLAYER_SAVEMONEY = 18, -- 帮会捐献
+	QUEST_COMPLETED = 19, -- 完成任务
+	TURN_INPLANT = 20, -- 帮会菜地上缴果实
+	PIG_RUN = 21, -- 小猪快跑
+	KILL_PIG = 22, -- 杀猪
+	DECLARE_WAR = 23, -- 帮会约战
+}
+
+
+-- OnAddTongFundAndPointResquest  OnCheckTongWeeklyPoint   Tong.AddFund   
+-- On_Tong_BattleFieldCostCheck    Tong.ConsumeFund

@@ -1,0 +1,144 @@
+---------------------------------------------------------------------->
+-- 脚本名称:	scripts/Include/Time.lh
+-- 更新时间:	2020/5/21 12:39:49
+-- 更新用户:	wangsongtao-pc
+-- 脚本说明:	
+----------------------------------------------------------------------<
+-- 判断 nOldTime 和 nCurrentTime 之间是否经过【周一】七点
+-- 经过周一07:00 则返回true，否则返回false
+function OnCheckPassTimeRequest(nOldTime, nCurrentTime)
+	local tTime = TimeToDate(nCurrentTime)
+	local nSevenTime = DateToTime(tTime.year, tTime.month, tTime.day, 7, 0, 0)			-- 获得当天七点时间
+	local nResetCycleTime = (tTime.weekday - 1) * 24 * 60 * 60					-- 当天七点到本周一七点的时间
+	if tTime.weekday == 0 then
+		nResetCycleTime = 6 * 24 * 60 * 60
+	elseif tTime.weekday == 1 and tTime.hour < 7 then
+		nResetCycleTime = 7 * 24 * 60 * 60
+	end
+	if nSevenTime - nOldTime > nResetCycleTime then
+		return true
+	end
+	return false
+end
+
+-- 判断 nOldTime 和 nCurrentTime 之间是否经过【每天】七点
+-- 经过一个07:00 则返回true，否则返回false
+function OnCheckPassSevenTimeRequest(nOldTime, nCurrentTime)
+	local tTime = TimeToDate(nCurrentTime)
+	local nSevenTime = DateToTime(tTime.year, tTime.month, tTime.day, 7, 0, 0)			-- 获得当天七点时间
+	if tTime.hour >= 7 then
+		if nOldTime < nSevenTime then
+			return true
+		end
+	elseif nOldTime < nSevenTime - 24 * 3600 then
+		return true
+	end
+	return false
+end
+
+-- 获取当前到下【周一】七点的时间
+function OnGetNextMondaySevenPassTime()
+	local nTime = GetCurrentTime()
+	local tTime = TimeToDate(nTime)
+	local nPassTime = 0
+	local nSevenTime = DateToTime(tTime.year, tTime.month, tTime.day, 7, 0, 0)
+	if tTime.weekday == 0 then
+		nPassTime = 24 * 3600 + nSevenTime - nTime
+	elseif tTime.weekday == 1 and tTime.hour < 7 then
+		nPassTime = nSevenTime - nTime
+	else
+		nPassTime = (8 - tTime.weekday) * 24 * 3600 + nSevenTime - nTime
+	end
+
+	return nPassTime
+end
+
+-- 获取当前到下一个【早晨】七点的时间
+function OnGetNextSevenPassTime()
+	local nTime = GetCurrentTime()
+	local nPassTime = 0
+	local tTime = TimeToDate(nTime)
+	local nResetTime = DateToTime(tTime.year, tTime.month, tTime.day, 7, 0, 0)
+	if tTime.hour >= 7 then
+		nPassTime = 24 * 3600 - (nTime - nResetTime)
+	else
+		nPassTime = nResetTime - nTime
+	end
+
+	return nPassTime
+end
+
+-- 给定一个时间点，取到下一个指定整点的时间，没过N点取今天N点；过了取明天N点
+-- 举例：现在是中午12点，下一个13点是今天13点，下一个11点是明天11点
+function OnGetNextHourPassTime(nStartTime, nNextHour)	
+	local nPassTime = 0
+	local tTime = TimeToDate(nStartTime)	
+	local nResetTime = DateToTime(tTime.year, tTime.month, tTime.day, nNextHour, 0, 0)
+	if tTime.hour >= nNextHour then
+		nPassTime = 24 * 3600 + nResetTime - nStartTime		
+	else
+		nPassTime = nResetTime - nStartTime
+	end
+	return nPassTime
+end
+
+-- 获取当前时间所在的活动日是星期几
+function OnGetCurrentActivityWeekday()
+	local nTime = GetCurrentTime()
+	local date = TimeToDate(nTime)
+	if date.hour < 7 then
+		date = TimeToDate(nTime - 24 * 3600)
+	end
+	return date.weekday
+end
+
+-- 获取时间点所在周的周一早7点的时间戳
+function OnGetCurrentWeekMonday7(time)
+	local date = TimeToDate(time)
+	local weekday = date.weekday ~= 0 and date.weekday or 7
+	local lostTime = (weekday - 1) * 24 * 3600
+	if weekday == 1 and date.hour < 7 then
+		lostTime = 7 * 24 * 3600
+	end
+	local mondayTime = DateToTime(date.year, date.month, date.day, 7, 0, 0) - lostTime
+	return mondayTime
+end
+
+--取【指定时间】到【该时间x天后】的下【周一】七点的时间
+function OnGetSomeDayNextWeekMonday7(nTime, nDay)
+	local tTime = TimeToDate(nTime + nDay * 24 * 3600)
+	local nPassTime = 0
+	local nSevenTime = DateToTime(tTime.year, tTime.month, tTime.day, 7, 0, 0)
+	if tTime.weekday == 0 then
+		nPassTime = 24 * 3600 + nSevenTime - nTime
+	elseif tTime.weekday == 1 and tTime.hour < 7 then
+		nPassTime = nSevenTime - nTime
+	else
+		nPassTime = (8 - tTime.weekday) * 24 * 3600 + nSevenTime - nTime
+	end
+	return nPassTime
+end
+
+--取当前时间是不是新赛季的第一周
+function IsNewSeasonFirstWeek()
+	local nTime = GetCurrentTime()
+	local nTimeSeason = GetSeasonStartTime()	--获取赛季开始的时间
+	local nPassTime = 0	--定义新赛季到下周一7点的时间
+
+	local tTime = TimeToDate(nTimeSeason)
+	local nSevenTime = DateToTime(tTime.year, tTime.month, tTime.day, 7, 0, 0)
+	if tTime.weekday == 0 then
+		nPassTime = 24 * 3600 + nSevenTime - nTimeSeason
+	elseif tTime.weekday == 1 and tTime.hour < 7 then
+		nPassTime = nSevenTime - nTimeSeason
+	else
+		nPassTime = (8 - tTime.weekday) * 24 * 3600 + nSevenTime - nTimeSeason
+	end
+	
+	if (nTime - nTimeSeason) >= 0 and nPassTime ~= 0 and (nTime - nTimeSeason) < nPassTime then
+		return true
+	else
+		return false
+	end
+	return false
+end

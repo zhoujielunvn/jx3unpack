@@ -1,0 +1,25 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+-1308622847	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	1	0	1	0		1	1	0	
+-1308622846	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	1	0	2	0		1	1	0	
+-1308622845	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	1	0	3	0		1	1	0	
+-1308622844	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	6	0	1	0		1	1	0	
+-1308622843	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	6	0	2	0		1	1	0	
+-1308622842	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	6	0	3	0		1	1	0	
+-1308622841	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	7	0	1	0		1	1	0	
+-1308622840	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	7	0	3	0		1	1	0	
+-1308622839	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	7	0	2	0		1	1	0	
+-1308622838	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	4	0	1	0		1	1	0	
+-1308622837	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	4	0	3	0		1	1	0	
+-1308622836	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	4	0	2	0		1	1	0	
+-1308622835	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	5	0	1	0		1	1	0	
+-1308622834	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	5	0	2	0		1	1	0	
+-1308622833	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	5	0	3	0		1	1	0	
+-1308622832	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	3	0	1	0		1	1	0	
+-1308622831	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	3	0	2	0		1	1	0	
+-1308622830	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	3	0	3	0		1	1	0	
+-1308622829	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	2	0	1	0		1	1	0	
+-1308622828	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	2	0	2	0		1	1	0	
+-1308622827	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	2	0	3	0		1	1	0	
+-1308622826	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	8	0	1	0		1	1	0	
+-1308622825	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	8	0	3	0		1	1	0	
+-1308622824	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	8	0	2	0		1	1	0	

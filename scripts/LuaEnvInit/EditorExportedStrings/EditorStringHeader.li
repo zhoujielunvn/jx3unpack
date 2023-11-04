@@ -1,0 +1,89 @@
+---------------------------------------------------------------------->
+-- 脚本名称:	D:/head/client/scripts/LuaEnvInit/EditorExportedStrings/EditorStringHeader.li
+-- 更新时间:	2017/3/10 16:14:17
+-- 更新用户:	zhengfeng6
+-- 脚本说明:
+----------------------------------------------------------------------<
+Include("scripts/LuaEnvInit/EditorExportedStrings/EditorExportParm.li")
+if not IsClient() then  --仅服务器需要加载
+	for i = 0, (nEditorStringsMaxPage - 1) do
+		Include("scripts/LuaEnvInit/EditorExportedStrings/EditorStrings_" .. i .. ".li")
+	end
+
+	for i = 0, (nRPGEditorStringsMaxPage - 1) do
+		Include("scripts/LuaEnvInit/EditorExportedStrings/RPGEditorStrings/RPGEditorStrings_" .. i .. ".li")
+	end
+end
+Include("scripts/LuaEnvInit/EditorExportedStrings/CustomStrings.li")
+
+nMaxPage = nEditorStringsMaxPage
+nMaxPageSize = nEditorStringsMaxPageSize
+
+function AppendEditorStringsToGlobal()
+	local tCurrentEnv = getfenv() or {}
+	
+	if not IsClient() then  --仅服务器需要加载
+		for i = 0, (nEditorStringsMaxPage - 1) do
+			_G["tEditorStrings_" .. i] = tCurrentEnv["tEditorStrings_" .. i]		-- 编辑器字符串添加进全局环境
+		end
+
+		for i = 0, (nRPGEditorStringsMaxPage - 1) do
+			_G["tRPGEditorStrings_" .. i] = tCurrentEnv["tRPGEditorStrings_" .. i]		-- RPG编辑器字符串添加进全局环境
+		end
+	end
+
+	_G["tCustomStrings"]  = tCurrentEnv["tCustomStrings"]						-- 自定义字符串添加进全局环境
+	_G.GetEditorString    = GetEditorString										-- 统一的编辑器字符串访问接口添加进全局环境
+	_G.GetRPGEditorString = GetRPGEditorString
+end
+
+function GetEditorStringTable(nPage)
+	local tCurrentEnv = getfenv() or {}
+	return tCurrentEnv["tEditorStrings_" .. nPage]
+end
+
+function GetRPGEditorStringTable(nPage)
+	local tCurrentEnv = getfenv() or {}
+	return tCurrentEnv["tRPGEditorStrings_" .. nPage]
+end
+
+-- 2017-3-10优化效率
+if IsClient() then
+	function GetEditorString(nPage, nIndex)
+		return ""
+	end
+
+	function GetRPGEditorString(nPage, nIndex)
+		return ""
+	end
+else
+	function GetEditorString(nPage, nIndex)
+		local tStringTable = GetEditorStringTable(nPage)
+		if not tStringTable then
+			Log(("[Editor Strings] \"GetEditorString\", Invalid tStringTable (%s, %s)."):format(nPage, nIndex))
+			return ""
+		end
+
+		local szString = tStringTable[nIndex]
+		if not szString then
+			Log(("[Editor Strings] \"GetEditorString\", Invalid szString (%s, %s)."):format(nPage, nIndex))
+			return ""
+		end
+		return szString
+	end
+
+	function GetRPGEditorString(nPage, nIndex)
+		local tStringTable = GetRPGEditorStringTable(nPage)
+		if not tStringTable then
+			Log(("[RPGEditor Strings] \"GetRPGEditorStringTable\", Invalid tStringTable (%s, %s)."):format(nPage, nIndex))
+			return ""
+		end
+
+		local szString = tStringTable[nIndex]
+		if not szString then
+			Log(("[RPGEditor Strings] \"GetRPGEditorStringTable\", Invalid szString (%s, %s)."):format(nPage, nIndex))
+			return ""
+		end
+		return szString
+	end
+end

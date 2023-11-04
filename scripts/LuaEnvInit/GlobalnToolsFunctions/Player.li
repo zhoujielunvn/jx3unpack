@@ -1,0 +1,205 @@
+Include("scripts/Include/ClearCoolID.lh")
+
+function AppendPlayerHelperFunctionsToGlobal()
+	_G.PlayerHelper = PlayerHelper
+end
+
+-- --------------------------------------------------------------------------------------
+PlayerHelper = PlayerHelper or {}
+
+-- 判断目标身上是否有某等级技能，如果没有，则加到相应等级。
+function PlayerHelper.LearnSkillByLevel(target, dwSkillID, nSkillLevel)
+	if not target then
+		return
+	end
+	local nCurrentLevel = target.GetSkillLevel(dwSkillID)
+	if not nCurrentLevel then
+		return
+	end
+
+	local nLeveldDispersion = nSkillLevel - nCurrentLevel
+
+	for i = 1, nLeveldDispersion do
+		target.LearnSkill(dwSkillID)
+	end
+end
+
+-- 修改队伍的任务变量。
+-- nQuestID：任务ID；
+-- nSlot：变量号码，这个号码从 0 开始，0-7 一共8个，对应 Quests.Tab 中的 QuestValue# 。
+-- nMode：参数可以省略，省略或者赋值为 0 都表示设置为 nValue，如果为 1 则表示增加 nValue。
+function PlayerHelper.ModifyPartyQuestValue(player, nQuestID, nSlot, nValue, nMode)
+	if not nMode then
+		nMode = 0
+	end
+	local tPartyMember = player.GetPartyMemberList()
+	if not tPartyMember then
+		if player.GetQuestPhase(nQuestID) == 1 then
+			local nQuestIndex = player.GetQuestIndex(nQuestID)
+			local nOldValue = player.GetQuestValue(nQuestIndex, nSlot)
+			if nMode == 0 then
+				player.SetQuestValue(nQuestIndex, nSlot, nValue)
+			elseif nMode == 1 then
+				player.SetQuestValue(nQuestIndex, nSlot, nOldValue + nValue)
+			end
+		end
+		return
+	end
+
+	local nPartyMemberCount = #tPartyMember
+	local scene = player.GetScene()
+	local dwMapID = scene.dwMapID
+	local nShareDistance = 4096
+
+	for i = 1, nPartyMemberCount do
+		local member = GetPlayer(tPartyMember[i])
+		if member then
+			local memberScene = member.GetScene()
+			local dwMemberMapID = memberScene.dwMapID
+			local nQuestPhase = member.GetQuestPhase(nQuestID)
+			if nQuestPhase == 1 or nQuestPhase == 2 then
+				if dwMapID == dwMemberMapID then
+					local nDistance = ((player.nX - member.nX) ^ 2 + (player.nY - member.nY) ^ 2) ^ 0.5
+					if nDistance <= nShareDistance then
+						local nQuestIndex = member.GetQuestIndex(nQuestID)
+						local nOldValue = member.GetQuestValue(nQuestIndex, nSlot)
+						if nMode == 0 then
+							member.SetQuestValue(nQuestIndex, nSlot, nValue)
+						elseif nMode == 1 then
+							member.SetQuestValue(nQuestIndex, nSlot, nOldValue + nValue)
+						end
+					end
+				end
+			end
+		end
+	end
+end
+
+--在玩家周围一定角度，一定距离，创建一个DOODAD
+--nAngel 需要创建DOODAD相对于玩家的角度，nDir创建出来的doodad的朝向,nR创建的doodad离玩家的距离
+function PlayerHelper.CreateDoodadByDirection(scene, dwDoodadTemplateID, player, nAngel, nR, nDir)
+	if player then
+		local nX, nY, nZ = player.GetAbsoluteCoordinate()
+		if scene then
+			local dwAngel = (player.nFaceDirection * 1.4 - 90) / 180 * 3.14159265 + nAngel
+			local createddoodad = scene.CreateDoodad(dwDoodadTemplateID, nX + nR * math.cos(dwAngel), nY + nR * math.sin(dwAngel), nZ, nDir)
+			return createddoodad
+		end
+	end
+end
+
+--在玩家周围一定角度，一定距离，创建一个NPC
+--nAngel 需要创建NPC相对于玩家的角度，nDir创建出来的NPC的朝向,nR创建的NPC离玩家的距离
+--szNickName  创建出来的NPC别名，没有就不填，不要填0
+function PlayerHelper.CreateNpcByDirection(scene, dwNpcTemplateID, player, nAngel, nR, nDir, nDisappearFrame, szNickName, dwOwner)
+	nDisappearFrame = nDisappearFrame or 9600
+	if player then
+		local nX, nY, nZ = player.GetAbsoluteCoordinate()
+		if scene then
+			local dwAngel = (player.nFaceDirection * 1.4 - 90) / 180 * 3.14159265 + nAngel
+			if szNickName and (not dwOwner) then
+				local creatednpc = scene.CreateNpc(dwNpcTemplateID, nX + nR * math.cos(dwAngel), nY + nR * math.sin(dwAngel), nZ, nDir, nDisappearFrame, szNickName)
+				return creatednpc
+			elseif dwOwner and szNickName then
+				local creatednpc = scene.CreateNpc(dwNpcTemplateID, nX + nR * math.cos(dwAngel), nY + nR * math.sin(dwAngel), nZ, nDir, nDisappearFrame, szNickName, dwOwner)
+				return creatednpc
+			else
+				local creatednpc = scene.CreateNpc(dwNpcTemplateID, nX + nR * math.cos(dwAngel), nY + nR * math.sin(dwAngel), nZ, nDir, nDisappearFrame)
+				return creatednpc
+			end
+		end
+	end
+end
+
+--玩家杀气值对应其处罚等级。
+local tKillPointLevelValue = {
+	level0 = 0,
+	level1 = 50,
+	level2 = 200,
+	level3 = 300,
+	level4 = 500,
+}
+-- 取得玩家对象的杀气等级
+function PlayerHelper.GetKillPointLevel(player)
+	local nKillPointLevel = player.nCurrentKillPoint
+	if player then
+		if nKillPointLevel == tKillPointLevelValue.level0 then
+			nKillPointLevel = 0
+		elseif nKillPointLevel <= tKillPointLevelValue.level1 then
+			nKillPointLevel = 1
+		elseif nKillPointLevel <= tKillPointLevelValue.level2 then
+			nKillPointLevel = 2
+		elseif nKillPointLevel <= tKillPointLevelValue.level3 then
+			nKillPointLevel = 3
+		else
+			nKillPointLevel = 4
+		end
+	else
+		nKillPointLevel = 0
+	end
+
+	return nKillPointLevel
+end
+
+function PlayerHelper.OnKillPointUpdate(player)
+	if not player then
+		return
+	end
+
+	local bCannotDialogWithNPC = false -- 能与npc对话
+	local bAttackByGuard = false -- 不被卫兵攻击
+
+	local nKillPointLevel = PlayerHelper.GetKillPointLevel(player) -- 取得杀气值对应杀气等级
+--[[	if nKillPointLevel < 3 then   -- 杀气值小于3级时删除全属性降低BUFF
+		if player.GetBuff(2127, 1) then
+			player.DelBuff(2127, 1)
+		end
+	end
+
+	if nKillPointLevel >= 3 then -- 大于3级杀气值不能要被卫兵攻击
+		if not player.GetBuff(2127, 1) then --添加全属性降低20%的惩罚BUFF
+			player.AddBuff(0, 99, 2127, 1, 1)
+		end
+	end
+--]]	
+	if nKillPointLevel < 3 then
+		player.SetRedName(false)
+	else
+		player.SetRedName(true)
+	end
+--[[
+	if nKillPointLevel >= 4 then -- 大于4级杀气值不能和NPC对话
+		player.SetRedName(true)
+		bCannotDialogWithNPC = false
+	end--]]
+	player.bAttackByGuard = bAttackByGuard
+	player.SetCannotDialogWithNPC(bCannotDialogWithNPC)
+end
+
+function PlayerHelper.AddKillPoint(player, nAddKillPoint)
+	local nKillPoint = player.nCurrentKillPoint;
+
+	nKillPoint = nKillPoint + nAddKillPoint;
+
+	if nKillPoint < 0 then
+		nKillPoint = 0;
+	end
+
+	if nKillPoint > 500 then --逻辑上限处理
+		nKillPoint = 500;
+	end
+
+	player.SetCurrentKillPoint(nKillPoint)
+
+	PlayerHelper.OnKillPointUpdate(player)
+end
+
+function PlayerHelper.ClearSkillCD(player)
+	if not player then
+		return
+	end
+	--for i = 1, #tCoolID do
+		--player.ClearCDTime(tCoolID[i])
+	--end
+	ClearCoolIDFromTable(player)
+end

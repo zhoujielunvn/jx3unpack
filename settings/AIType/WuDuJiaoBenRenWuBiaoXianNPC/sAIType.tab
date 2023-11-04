@@ -1,0 +1,27 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+11018	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+11019	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+11020	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+11021	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+11022	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+11023	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+11371	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+11550	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+11605	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+11752	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+11753	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+11754	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+11924	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+11925	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+11926	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+11927	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+11928	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+12187	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+12385	scripts\Map\黑龙沼\ai\BB跟随AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+12481	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+12482	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+12501	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+12542	scripts\Map\黑龙沼\ai\五毒捕捉禽兽.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+12565	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+12567	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+12937	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

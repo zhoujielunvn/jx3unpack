@@ -1,0 +1,17 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+21878	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+21879	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+21926	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+21927	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+21984	scripts\Map\ACT_押镖活动\ai\镖车AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+22585	scripts\Map\ACT_押镖活动\ai\押镖活动总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+22586	scripts\Map\ACT_押镖活动\ai\npc镖车.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+22587	scripts\Map\ACT_押镖活动\ai\npc镖车.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+22588	scripts/ai/StandardAI.lua	1	400	400	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+22589	scripts/ai/StandardAI.lua	1	400	400	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+23183	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+23184	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+23214	scripts\Map\ACT_押镖活动\ai\无双战意.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+23215	scripts\Map\ACT_押镖活动\ai\无双战意.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+23216	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+23217	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

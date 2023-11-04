@@ -1,0 +1,66 @@
+function AppendStringFunctionsToGlobal()
+	_G.string.gformat = string.gformat	
+end
+
+-- --------------------------------------------------------------------------------------
+-- 格式化字符串
+--[[
+szCText = "{1}杀掉了{2}。"
+szEText = "{2} killed by {1}."
+tCArgs = {"汤姆", "猴子"}
+tEArgs = {"tom", "MONKEY"}
+print(szCText:gformat(tCArgs))		-- 汤姆杀掉了猴子。	2
+print(szEText:gformat(tCArgs))		-- 猴子 killed by 汤姆.	2
+print(szEText:gformat(tEArgs))		-- MONKEY killed by tom.	2
+
+szCKText = "{tom}杀掉了{monkey}。"
+szEKText = "{monkey} killed by {tom}"
+tCKArgs = {tom = "汤姆", monkey = "猴子"}
+tEKArgs = {tom = "tom", monkey = "MONKEY"}
+print(szCKText:gformat(tCKArgs))	-- 汤姆杀掉了猴子。	2
+print(szEKText:gformat(tCKArgs))	-- 猴子 killed by 汤姆	2
+print(szEKText:gformat(tEKArgs))	-- MONKEY killed by tom	2
+
+szText = "{1:%s}, {2:%.2f}, {3}"
+szArgs = {"9527", 3.1415926, "三"}
+print(szText:gformat(szArgs))		-- 9527, 3.14, 三	3
+--]]
+-- --------------------------------------------------------------------------------------
+string.gformat = function(szString, tTabArgs)
+	if type(tTabArgs) ~= "table" then
+		return szString
+	end
+	local ReplaceStringArgs = function(szMatchValue)
+		if szMatchValue:sub(2, 2) == "%" then							-- 这里是处理文本内容本身跟转义符相同的情况, 如想要输出 "{lalala}" 的时候可以写为 {%lalala}
+			return "{" .. szMatchValue:sub(3)
+		end
+
+		local szNeedsKey = szMatchValue:match("%b{:")
+		local szEscape = nil
+		if szNeedsKey then
+			local szEscapeTemp = szMatchValue:match("%b:}")
+			if szEscapeTemp and #szEscapeTemp > 2 then
+				szEscape = szEscapeTemp:sub(2, -2)
+			end
+		else
+			szNeedsKey = szMatchValue
+		end
+		if #szNeedsKey < 3 then
+			return szMatchValue
+		end
+		szNeedsKey = szNeedsKey:sub(2, -2)
+		local nNeedsIndex = tonumber(szNeedsKey)
+
+		local szFString = szMatchValue
+		if tTabArgs[nNeedsIndex] then									-- 优先处理数字 key, 如果 1111 和 "1111" 都存在, 则以 1111 为 key 优先
+			szFString = tTabArgs[nNeedsIndex]
+		elseif tTabArgs[szNeedsKey] then
+			szFString = tTabArgs[szNeedsKey]
+		end
+		if szEscape then
+			szFString = szEscape:format(szFString)
+		end
+		return szFString
+	end
+	return (szString:gsub("%b{}", ReplaceStringArgs))
+end

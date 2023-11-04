@@ -1,0 +1,21 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+553648129	scripts/ai/DungeonStandardAI.lua	1	1536	768	32	256	64	0	32	0	384	80	1	0	1	0		1	1	1	
+553648130	scripts/ai/DungeonStandardAI.lua	1	1536	768	32	256	64	0	32	0	384	80	1	0	2	0		1	1	1	
+553648131	scripts/ai/DungeonStandardAI.lua	1	1536	768	32	256	64	0	32	0	384	80	1	0	3	0		1	1	1	
+553648132	scripts/ai/DungeonStandardAI.lua	1	1536	768	32	256	64	0	32	0	384	80	31	0	1	0		1	1	1	
+553648133	scripts/ai/DungeonStandardAI.lua	1	1536	768	32	256	64	0	32	0	384	80	31	0	2	0		1	1	1	
+553648134	scripts/ai/DungeonStandardAI.lua	1	1536	768	32	256	64	0	32	0	384	80	28	0	1	0		1	1	1	
+553648135	scripts/ai/DungeonStandardAI.lua	1	1536	768	32	256	64	0	32	0	384	80	8	0	1	0		1	1	1	
+553648136	scripts/ai/DungeonStandardAI.lua	1	1536	768	32	256	64	0	32	0	384	80	27	0	1	0		1	1	1	
+553648137	scripts/ai/DungeonStandardAI.lua	1	1536	768	32	256	64	0	32	0	384	80	10	0	1	0		1	1	1	
+553648138	scripts/ai/DungeonStandardAI.lua	1	1536	768	32	256	64	0	32	0	384	80	10	0	2	0		1	1	1	
+553648139	scripts/ai/DungeonStandardAI.lua	1	1536	768	32	256	64	0	32	0	384	80	9	0	1	0		1	1	1	
+553648140	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	11	0	1	0		0	0	0	
+553648141	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	11	0	2	0		0	0	0	
+553648142	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	37	0	1	0		1	0	0	
+553648143	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	36	0	1	0		1	0	0	
+553648144	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	35	0	1	0		1	0	0	
+553648145	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	34	0	1	0		1	0	0	
+553648146	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	38	0	1	0		1	0	0	
+553648147	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	39	0	0	0		1	0	0	
+553648148	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	46	0	1	0		1	0	0	

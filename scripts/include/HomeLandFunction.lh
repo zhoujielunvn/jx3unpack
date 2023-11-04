@@ -1,0 +1,42 @@
+---------------------------------------------------------------------->
+-- 脚本名称:	scripts/Include/HomeLandFunction.lh
+-- 更新时间:	2020/5/21 19:22:53
+-- 更新用户:	wangsongtao-pc
+-- 脚本说明:	
+----------------------------------------------------------------------<
+Include("scripts/Include/LandCondition.lh")
+--小地图显示自己家的位置
+function ShowIconInMidMap(player, tLandTab, nLandID, nLandPos)
+	local scene = player.GetScene()
+	if not scene then
+		return
+	end
+	if not tLandTab  then		
+		return
+	end
+	if not nLandID then
+		nLandID = GetHomelandMgr().IsCommunityMember(player.dwID)--不是自己的家园地图返回0		
+	end
+	if nLandID == 0 then
+		player.AddMapMark(-10000, -10000, -10000, 1, "")		--关掉中地图标记
+		return
+	end
+	if player.GetQuestPhase(21751) == 1 then	--送信任务的时候我的家园图标改成送信位置
+		local nQuestIndex = player.GetQuestIndex(21751)
+		local nGoodNum = player.GetQuestValue(nQuestIndex, 2)
+		if nGoodNum ~= 0 then
+			player.AddMapMark(tLandTab[nLandID][nLandPos][1], tLandTab[nLandID][nLandPos][2], 0, 1, GetEditorString(18, 5411))
+			return
+		end		
+	end
+	player.AddMapMark(tLandTab[nLandID][nLandPos][1], tLandTab[nLandID][nLandPos][2], 0, 1, GetEditorString(16, 5446))
+end
+
+function ShowMyLandSize(player, szHouseName)
+	RemoteCallToClient(player.dwID, "Homeland_PlayLandSfx", szHouseName)
+end
+
+--function TestHomeLand()
+--SystemNotify("TestGM", player.GetGlobalID(), player.dwID, 1, 1, 1, 1, "test:szBuffer")
+--SystemNotify("哦吼", "0", player.dwID, 10,0,0, 61, {{ type = "text", text = "123" .. "\n"}})
+--end

@@ -1,0 +1,116 @@
+---------------------------------------------------------------------->
+-- 脚本名称:	scripts/Include/PlayerQuest.lh
+-- 更新时间:	2017/10/17 10:44:48
+-- 更新用户:	mayujiang
+-- 脚本说明:
+----------------------------------------------------------------------<
+local tPrivateEscortQuestResource = {}
+
+--使用do - end的目的是为了保证InitPrivateSingleEscortQuestResource的私密性，仅对do - end匿名块可见
+do
+	--初始化--特指其中一个player--的单个护送任务资源，成功返回true，失败返回false
+	local InitPrivateSingleEscortQuestResource = function (playerID, nQuestID)
+		--如果该任务资源为空，创建一个空table作为该任务资源容器
+		local tPlayerEscortQuestResource = tPrivateEscortQuestResource[nQuestID .. playerID]
+		if not tPrivateEscortQuestResource[nQuestID .. playerID] then
+			tPrivateEscortQuestResource[nQuestID .. playerID] = {}
+			tPlayerEscortQuestResource = tPrivateEscortQuestResource[nQuestID .. playerID]
+		end
+		if tPlayerEscortQuestResource then
+			return true
+		else
+			return false
+		end
+	end
+
+	--创建护送任务npc资源
+	function PrivateEscortCreateNpc(player, nQuestID, dwNpcTemplateID, nX, nY, nZ, nDir, szNickName, bOnly)
+		local bInitRes = InitPrivateSingleEscortQuestResource(player.dwID, nQuestID)
+		if not bInitRes then
+			return nil
+		end
+
+		--如果任务资源中的Npc资源为空，在tEscortQuestResource[nQuestID]中创建一个空table作为Npc资源容器
+		local tNpc = tPrivateEscortQuestResource[nQuestID .. player.dwID].tNpc
+		if not tNpc then
+			tPrivateEscortQuestResource[nQuestID .. player.dwID].tNpc = {}
+			tNpc = tPrivateEscortQuestResource[nQuestID .. player.dwID].tNpc
+		end
+
+		--创建npc并注册
+		local scene = player.GetScene()
+		if not scene then
+			return nil
+		end
+
+		local npc = scene.CreateNpc(dwNpcTemplateID, nX, nY, nZ, nDir, - 1, szNickName .. player.dwID, player.dwID, bOnly)
+		if npc then
+			tNpc[#tNpc + 1] = npc.dwID
+			return npc
+		end
+		return nil
+	end
+
+	--添加player计时器
+	function PrivateEscortSetTimer(player, nQuestID, nTime, szScriptName, nParam1, nParam2)
+		local bInitRes = InitPrivateSingleEscortQuestResource(player.dwID, nQuestID)
+		if not bInitRes then
+			return
+		end
+
+		--如果任务资源中的Timer资源为空，在tEscortQuestResource[nQuestID]中创建一个空table作为Player.deID专属的Timer资源容器
+		local tTimer = tPrivateEscortQuestResource[nQuestID .. player.dwID].tTimer
+		if not tTimer then
+			tPrivateEscortQuestResource[nQuestID .. player.dwID].tTimer = {}
+			tTimer = tPrivateEscortQuestResource[nQuestID .. player.dwID].tTimer
+		end
+
+		local dwFinishTimerID = player.SetTimer(nTime, szScriptName, nParam1, nParam2)
+		tTimer[#tTimer + 1] = dwFinishTimerID
+		return dwFinishTimerID
+	end
+end
+
+--重置护送任务，使用闭包保证ClearNpc(), ClearDoodad(),
+--ClearPlayerBuff(), ClearTimer(), ClearCustomInteger4()的私密性
+	function PrivateEscortResetQuest(scene, playerID, nQuestID)
+		local tSingleEscortQuestResource = tPrivateEscortQuestResource[nQuestID .. playerID]
+		if not tSingleEscortQuestResource then
+			return
+		end
+		local ClearNpc = function ()
+			local tNpc = tPrivateEscortQuestResource[nQuestID .. playerID].tNpc
+			if not tNpc then
+				return
+			end
+
+			if not scene then
+				return
+			end
+
+			for _, v in pairs(tNpc) do
+				if IsNpcExist(v) then
+					--scene.DestroyNpc(v)
+					GetNpc(v).SetDisappearFrames(1)
+				end
+			end
+		end
+
+		local ClearTimer = function ()
+			local tPlayerTimer = tPrivateEscortQuestResource[nQuestID .. playerID].tTimer
+			if not tPlayerTimer then
+				return
+			end
+			local player = GetPlayer(playerID)
+			if not player then
+				return
+			end
+			for _, v in pairs(tPlayerTimer) do
+				player.RemoveTimer(v)
+			end
+		end
+
+		ClearNpc()
+		ClearTimer()
+		tPrivateEscortQuestResource[nQuestID .. playerID] = nil
+	end

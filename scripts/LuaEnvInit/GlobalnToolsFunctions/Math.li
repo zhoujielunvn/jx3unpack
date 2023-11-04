@@ -1,0 +1,78 @@
+function AppendMathHelperFunctionsToGlobal()
+	_G.MathHelper = MathHelper
+end
+
+-- --------------------------------------------------------------------------------------
+MathHelper = MathHelper or {}
+function MathHelper.Clamp(fValue, fMin, fMax)
+	if not fValue or type(fValue) ~= "number" or not fMin or type(fMin) ~= "number" or not fMax or type(fMax) ~= "number" or fMin > fMax then
+		return fValue
+	end
+	return math.max(math.min(fValue, fMax), fMin)
+end
+
+function MathHelper.GetDistanceByPoint(nX1, nY1, nX2, nY2)
+	return ((nX1 - nX2) ^ 2 + (nY1 - nY2) ^ 2) ^ 0.5
+end;
+
+function MathHelper.GetDigitNum(dwNumber, nIndex)
+	if nIndex > 10 or nIndex < 1 then
+		return false
+	end
+
+	local dwDigit = 10 ^ nIndex
+	local dwRemainder = math.fmod(dwNumber, dwDigit)
+	local dwLowDigit = dwDigit / 10
+	local nDigitNum, dwFractional = math.modf(dwRemainder/dwLowDigit)
+	return nDigitNum
+end;
+
+function MathHelper.SetDigitNum(dwNumber, nIndex, nValue)
+	if nIndex > 10 or nIndex < 1 or nValue > 9 or nValue < 0 then
+		return false
+	end
+
+	local dwDigit = 10 ^ nIndex
+	local dwRemainder = math.fmod(dwNumber, dwDigit)
+	local dwLowDigit = dwDigit / 10
+	local nDigitNum, dwFractional = math.modf(dwRemainder/dwLowDigit)
+	local nMargin = nValue - nDigitNum
+	local dwFinalNum = dwNumber + nMargin * dwLowDigit
+	return dwFinalNum
+end;
+
+--这个函数用来把阿拉伯数字转换成为中文字符串，但不能作用于小数、负整数数。
+function MathHelper.ConversionNumber(number)
+	--if math.floor(number) ~= number or number < 0 or number > 2 ^ 32 then
+	--2^32次方在打开浮点数检测的机器的环境下会宕机
+	local tST = tCustomStrings.ConversionNumber
+	
+	if math.floor(number) ~= number or number < 0 or number > 2 ^ 31 then
+		return false
+	end
+	local nTime = 0
+	local szString = ""
+	if number == 0 then
+		szString = tST.tNum[1]
+		return szString
+	end
+	while number > 0 do
+		nTime = nTime + 1
+		local nDigitally = number % 10
+		szString = tST.tNum[nDigitally + 1] .. tST.tDigitally[nTime] .. szString
+		number = math.floor(number / 10)
+	end
+	szString = string.gsub(szString, tST.tSwitch[1], tST.tNum[1])
+	szString = string.gsub(szString, tST.tSwitch[2], tST.tNum[1])
+	szString = string.gsub(szString, tST.tSwitch[3], tST.tNum[1])
+	for i = 1, 2 do
+		szString = string.gsub(szString, tST.tSwitch[4], tST.tNum[1])
+	end
+	szString = string.gsub(szString, tST.tSwitch[5], tST.tDigitally[5])
+	szString = string.gsub(szString, tST.tSwitch[6], tST.tDigitally[9])
+	szString = szString .. tST.tSwitch[8]
+	szString = string.gsub(szString, tST.tSwitch[7], "")
+	szString = string.gsub(szString, tST.tSwitch[8], "")
+	szString = string.gsub(szString, tST.tSwitch[9], tST.tDigitally[2])
+	return szString
+end

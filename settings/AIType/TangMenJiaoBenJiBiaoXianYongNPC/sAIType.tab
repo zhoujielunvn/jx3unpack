@@ -1,0 +1,25 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+15549	scripts\Map\唐门\ai\机关小猪.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+15550	scripts\Map\唐门\ai\机关小猪.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+15551	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+15552	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+15553	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+15554	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+15555	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+15556	scripts\Map\唐门\ai\神机山-引石入洞.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+15557	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+15558	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+15559	scripts\Map\唐门\ai\机关小猪.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+15560	scripts\Map\唐门\ai\机关小猪.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+15561	scripts\Map\唐门\ai\机关小猪.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+15563	scripts\Map\唐门\ai\喷火机关.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+15564	scripts\Map\唐门\ai\喷火机关直线.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+15565	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+15566	scripts\Map\唐门\ai\神机山水域.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+15567	scripts\Map\唐门\ai\神机山漩涡.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+15568	scripts\Map\唐门\ai\地雷.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+15569	scripts\Map\唐门\ai\神机山滚石.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+16178	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	0	384	80	0	30	0	0		1	0	0	320
+16324	scripts\Map\唐门\ai\七煞毒陷阱.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+16358	scripts/ai/StandardAI.lua	1	768	768	32	256	64	960	32	0	384	80	0	30	0	0		1	0	1	320
+16359	scripts/ai/StandardAI.lua	1	768	768	32	256	64	960	32	0	384	80	0	30	0	0		1	0	1	320

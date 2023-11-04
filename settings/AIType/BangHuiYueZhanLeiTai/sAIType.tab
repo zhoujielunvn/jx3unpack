@@ -1,0 +1,17 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+10212	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+10216	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+10218	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+10219	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+10416	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+10423	scripts\Map\帮会活动\ai\个人赛报名官.lua	0	768	768	32	256	64	960	32	512	0	80	0	30	0	0		1	0	0	320
+10424	scripts\Map\帮会活动\ai\赌票擂台报名官.lua	0	768	768	32	256	64	960	32	512	0	80	0	30	0	0		1	0	0	320
+10425	scripts\Map\帮会活动\ai\决赛报名官.lua	0	768	768	32	256	64	960	32	512	0	80	0	30	0	0		1	0	0	320
+10436	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+10697	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+10700	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+10701	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+10702	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+10703	scripts\Map\帮会活动\ai\长安赌票擂台报名.lua	0	768	768	32	256	64	960	32	512	0	80	0	30	0	0		1	0	0	320
+10705	scripts\Map\帮会活动\ai\长安决赛报名.lua	0	768	768	32	256	64	960	32	512	0	80	0	30	0	0		1	0	0	320
+10706	scripts\Map\帮会活动\ai\长安个人赛报名.lua	0	768	768	32	256	64	960	32	512	0	80	0	30	0	0		1	0	0	320

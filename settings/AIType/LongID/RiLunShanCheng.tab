@@ -1,0 +1,20 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+469762049	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	1	0	0	0		1	1	0	
+469762050	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	3	0	0	0		1	1	0	
+469762051	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	2	0	0	0		1	1	0	
+469762052	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	4	0	0	0		1	1	0	
+469762053	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	6	0	0	0		1	1	0	
+469762054	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	9	0	0	0		1	1	0	
+469762055	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	5	0	0	0		1	0	0	
+469762056	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	7	0	0	0		1	0	0	
+469762057	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	8	0	0	0		1	0	0	
+469762058	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	37	0	0	0		1	1	0	
+469762059	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	37	0	0	0		1	1	0	
+469762060	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	12	0	0	0		1	1	0	
+469762061	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	18	0	0	0		1	1	0	
+469762062	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	18	0	0	0		1	1	0	
+469762063	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	17	0	0	0		1	1	0	
+469762064	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	35	0	0	0		1	1	0	
+469762065	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	512	384	80	36	0	0	0		1	1	0	
+469762066	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	512	384	80	38	0	0	0		1	1	0	
+469762067	scripts/ai/DungeonStandardAI.lua	1	1536	768	32	256	64	0	32	0	384	80	17	0	0	0		1	1	1	

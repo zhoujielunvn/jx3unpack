@@ -1,0 +1,25 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+99319	scripts/Map/衍天宗_梦入集真岛/ai/1号秽鬼/秽鬼.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+99377	scripts/Map/衍天宗_梦入集真岛/ai/1号秽鬼/秽鬼总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+99378	scripts/Map/衍天宗_梦入集真岛/ai/1号秽鬼/秽鬼技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+99380	scripts/Map/衍天宗_梦入集真岛/ai/1号秽鬼/秽气.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+99397	scripts/Map/衍天宗_梦入集真岛/ai/2号_观勒和尚/观勒和尚.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+99398	scripts/Map/衍天宗_梦入集真岛/ai/2号_观勒和尚/观勒和尚总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+99399	scripts/Map/衍天宗_梦入集真岛/ai/2号_观勒和尚/观勒和尚技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+99400	scripts/Map/衍天宗_梦入集真岛/ai/2号_观勒和尚/放技能Npc.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+99401	scripts/Map/衍天宗_梦入集真岛/ai/2号_观勒和尚/放技能Npc.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+99402	scripts/Map/衍天宗_梦入集真岛/ai/2号_观勒和尚/五行点.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+99440	scripts/Map/衍天宗_梦入集真岛/ai/3号天空/天空.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+99441	scripts/Map/衍天宗_梦入集真岛/ai/3号天空/天空总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+99442	scripts/Map/衍天宗_梦入集真岛/ai/3号天空/天空技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+99664	scripts/Map/衍天宗_梦入集真岛/ai/周边/源氏族长.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+99665	scripts/Map/衍天宗_梦入集真岛/ai/周边/剧情通用Npc.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+99666	scripts/Map/衍天宗_梦入集真岛/ai/周边/剧情通用Npc.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+99667	scripts/Map/衍天宗_梦入集真岛/ai/周边/剧情总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100240	scripts/Map/衍天宗_梦入集真岛/ai/周边/通用对话AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100624	scripts/ai/CommonFoolish.lua	0	768	0	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100625	scripts/ai/CommonFoolish.lua	0	768	0	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100627	scripts/ai/CommonFoolish.lua	0	768	0	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+102318	scripts/Map/衍天宗_梦入集真岛/ai/周边/通用对话AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+102450	scripts/Map/衍天宗_梦入集真岛/ai/周边/神秘人.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+102489	scripts/Map/衍天宗_梦入集真岛/ai/周边/通用对话AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320

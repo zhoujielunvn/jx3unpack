@@ -1,0 +1,25 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+27536	scripts\Map\ACT_元宵节\ai\普通花灯-多次跳跃.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+27537	scripts\Map\ACT_元宵节\ai\花灯总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+27538	scripts\Map\ACT_元宵节\ai\普通花灯-多次跳跃.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+27539	scripts\Map\ACT_元宵节\ai\普通花灯-多次跳跃.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+27540	scripts\Map\ACT_元宵节\ai\普通花灯-多次跳跃.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+27541	scripts\Map\ACT_元宵节\ai\莲花灯.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+27542	scripts\Map\ACT_元宵节\ai\风筝.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+27543	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+27544	scripts\Map\ACT_元宵节\ai\汤小尛.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+27545	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+27546	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+27547	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+27548	scripts\Map\ACT_元宵节\ai\莲花灯.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+27549	scripts\Map\ACT_元宵节\ai\莲花灯.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+27550	scripts\Map\ACT_元宵节\ai\烟花.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+27551	scripts\Map\ACT_元宵节\ai\龙凤呈祥.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+27552	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+27553	scripts/Map/ACT_元宵节/ai/2017副本内木桩花灯.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+27554	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+27555	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+27556	scripts/Map/ACT_元宵节/ai/2017副本内木桩花灯.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+64812	scripts/Map/ACT_元宵节/ai/兔子灯AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+69505	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+108346	scripts/Map/ACT_元宵节/ai/兔子灯AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320

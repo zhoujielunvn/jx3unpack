@@ -1,0 +1,23 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+436207617	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	960	32	0	384	80	5	30	0	0		1	1	0	
+436207618	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	1	0	0	0		1	1	0	
+436207619	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	0	384	80	1	30	0	0		1	0	0	
+436207620	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	3	0	0	0		1	1	0	
+436207621	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	960	32	0	384	80	4	30	0	0		1	1	0	
+436207622	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	960	32	0	384	80	6	30	0	0		1	1	0	
+436207623	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	960	32	0	384	80	7	30	0	0		1	1	0	
+436207624	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	2	0	0	0		1	1	0	
+436207625	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	960	32	0	384	80	15	30	0	0		1	1	0	
+436207626	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	960	32	0	384	80	14	30	0	0		1	1	0	
+436207627	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	8	0	0	0		1	1	0	
+436207628	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	9	0	0	0		1	1	0	
+436207629	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	10	0	0	0		1	1	0	
+436207630	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	11	0	0	0		1	1	0	
+436207631	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	13	0	0	0		1	1	0	
+436207632	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	17	0	0	0		1	1	0	
+436207633	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	18	0	0	0		1	1	0	
+436207634	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	20	0	0	0		1	1	0	
+436207635	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	19	0	0	0		1	1	0	
+436207636	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	16	0	0	0		1	1	0	
+436207637	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	24	0	0	0		1	1	0	
+436207638	scripts/ai/DungeonStandardAI.lua	1	922	922	32	256	64	0	32	0	384	80	23	0	1	0		1	1	1	

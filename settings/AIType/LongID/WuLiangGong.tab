@@ -1,0 +1,26 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+1795162113	scripts/ai/StandardAI.lua	1	1024	768	1	256	64	0	32	0	384	80	12	0	3	0		1	0	1	
+1795162114	scripts/ai/StandardAI.lua	1	1024	768	1	256	64	0	32	0	384	80	12	0	2	0		1	0	1	
+1795162115	scripts/ai/StandardAI.lua	1	1024	768	1	256	64	0	32	0	384	80	12	0	1	0		1	0	1	
+1795162116	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	1	0	1	0		1	0	0	
+1795162117	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	2	0	1	0		1	0	0	
+1795162118	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	8	0	1	0		1	0	0	
+1795162119	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	11	0	0	0		1	0	0	
+1795162120	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	10	0	0	0		1	0	0	
+1795162121	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	9	0	0	0		1	0	0	
+1795162122	scripts/ai/StandardAI.lua	1	1024	768	1	256	64	0	32	0	384	80	3	0	1	0		1	0	1	
+1795162123	scripts/ai/StandardAI.lua	1	1024	768	1	256	64	0	32	0	384	80	3	0	2	0		1	0	1	
+1795162124	scripts/ai/StandardAI.lua	1	1024	768	1	256	64	0	32	0	384	80	3	0	3	0		1	0	1	
+1795162125	scripts/ai/StandardAI.lua	1	1024	768	1	256	64	0	32	0	384	80	4	0	3	0		1	0	1	
+1795162126	scripts/ai/StandardAI.lua	1	1024	768	1	256	64	0	32	0	384	80	4	0	1	0		1	0	1	
+1795162127	scripts/ai/StandardAI.lua	1	1024	768	1	256	64	0	32	0	384	80	4	0	2	0		1	0	1	
+1795162128	scripts/ai/StandardAI.lua	1	1024	768	1	256	64	0	32	0	384	80	5	0	3	0		1	0	1	
+1795162129	scripts/ai/StandardAI.lua	1	1024	768	1	256	64	0	32	0	384	80	5	0	1	0		1	0	1	
+1795162130	scripts/ai/StandardAI.lua	1	1024	768	1	256	64	0	32	0	384	80	5	0	2	0		1	0	1	
+1795162131	scripts/ai/StandardAI.lua	1	1024	768	1	256	64	0	32	0	384	80	6	0	3	0		1	0	1	
+1795162132	scripts/ai/StandardAI.lua	1	1024	768	1	256	64	0	32	0	384	80	6	0	1	0		1	0	1	
+1795162133	scripts/ai/StandardAI.lua	1	1024	768	1	256	64	0	32	0	384	80	6	0	2	0		1	0	1	
+1795162134	scripts/ai/StandardAI.lua	1	1024	768	1	256	64	0	32	0	384	80	7	0	3	0		1	0	1	
+1795162135	scripts/ai/StandardAI.lua	1	1024	768	1	256	64	0	32	0	384	80	7	0	1	0		1	0	1	
+1795162136	scripts/ai/StandardAI.lua	1	1024	768	1	256	64	0	32	0	384	80	7	0	2	0		1	0	1	
+1795162137	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	13	0	0	0		1	0	0	

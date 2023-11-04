@@ -1,0 +1,24 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+2856	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+2857	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+2858	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+2859	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+2860	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+2861	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+2862	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+2863	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+2864	scripts/ai/StandardAI.lua	1	768	768	30	256	0	0	0	512	384	64	0	0	1	0		0	0	1	320
+2865	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+2866	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+2867	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+3376	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+3377	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+3378	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+3379	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+3380	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+3381	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+3382	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+3383	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+3384	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+3385	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320
+3386	scripts/ai/StandardAI.lua	0	0	0	0	256	320	2048	16	0	0	16	0	0	1	0		0	0	0	320

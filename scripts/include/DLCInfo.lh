@@ -1,0 +1,548 @@
+---------------------------------------------------------------------->
+-- 脚本名称:	scripts/Include/DLCInfo.lh
+-- 更新时间:	2019/5/14 21:46:02
+-- 更新用户:	GUOGE
+-- 脚本说明:	此脚本包含各资料片玩家各场景所有事项对应成就，对应ui\Scheme\Case\DLCMainPanelMapInfo.txt，需要同步修改！！！
+----------------------------------------------------------------------<
+
+--风起稻香
+tDLCInfo_1 = {
+	[1] = {
+		nQuestAchiID = 375,
+		szDungeonAchiID = {},
+		szReputationAchiID = {},
+		szOtherAchiID = {382, 575, 677, 678, 679, 3008, 6205, },
+	},
+	[2] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {523, 537},
+		szReputationAchiID = {6451},
+		szOtherAchiID = {76, 437, 458, },
+	},
+	[5] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {521, 535, 1407, 1444, 1448},
+		szReputationAchiID = {6449},
+		szOtherAchiID = {79, 456, 577, },
+	},
+	[6] = {
+		nQuestAchiID = 384,
+		szDungeonAchiID = {647},
+		szReputationAchiID = {6445},
+		szOtherAchiID = {11, 12, 13, 21, 26, 27, 33, 74, 83, 91, 102, 129, 152, 190, 207, 373, 409, 443, 463, 540, 545, 551, 554, 568, 667, 668, 672, 765, 766, 767, 793, 796, 803, 1225, 1297, 1299, 1300, 1305, 1317, 1483, 1508, 2478, 3009, },
+	},
+	[7] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {522, 536},
+		szReputationAchiID = {6450},
+		szOtherAchiID = {78, 457, 578, },
+	},
+	[8] = {
+		nQuestAchiID = 786,
+		szDungeonAchiID = {529, 1272, 1452, 1453},
+		szReputationAchiID = {6443},
+		szOtherAchiID = {82, 169, 181, 441, 461, 761, 772, 787, 788, 1269, 3023, 5988, },
+	},
+	[9] = {
+		nQuestAchiID = 386,
+		szDungeonAchiID = {},
+		szReputationAchiID = {6477},
+		szOtherAchiID = {80, 423, 445, 464, 475, 769, 770, 3012, },
+	},
+	[10] = {
+		nQuestAchiID = 387,
+		szDungeonAchiID = {527, 533, 1406, 1436, 1440},
+		szReputationAchiID = {6478},
+		szOtherAchiID = {424, 446, 472, 541, 693, 694, 695, 828, 3014, },
+	},
+	[11] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {525, 539},
+		szReputationAchiID = {6453},
+		szOtherAchiID = {75, 439, 460, },
+	},
+	[12] = {
+		nQuestAchiID = 388,
+		szDungeonAchiID = {526, 532, 1540, 1550},
+		szReputationAchiID = {},
+		szOtherAchiID = {427, 447, 690, 691, 692, 827, 3013, },
+	},
+	[13] = {
+		nQuestAchiID = 389,
+		szDungeonAchiID = {},
+		szReputationAchiID = {6476},
+		szOtherAchiID = {425, 426, 448, 688, 689, 3011, },
+	},
+	[15] = {
+		nQuestAchiID = 383,
+		szDungeonAchiID = {},
+		szReputationAchiID = {6444, 6475},
+		szOtherAchiID = {84, 408, 442, 462, 762, 764, 3010, },
+	},
+	[16] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {524, 538},
+		szReputationAchiID = {6452},
+		szOtherAchiID = {77, 438, 459, },
+	},
+	[21] = {
+		nQuestAchiID = 393,
+		szDungeonAchiID = {},
+		szReputationAchiID = {},
+		szOtherAchiID = {81, 452, 468, 785, 863, 922, 3032, },
+	},
+	[22] = {
+		nQuestAchiID = 392,
+		szDungeonAchiID = {528, 534},
+		szReputationAchiID = {},
+		szOtherAchiID = {86, 432, 433, 451, 467, 683, 3041, },
+	},
+	[23] = {
+		nQuestAchiID = 390,
+		szDungeonAchiID = {824},
+		szReputationAchiID = {},
+		szOtherAchiID = {85, 428, 429, 430, 449, 465, 3033, },
+	},
+	[25] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {},
+		szReputationAchiID = {},
+		szOtherAchiID = {89, },
+	},
+	[27] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {},
+		szReputationAchiID = {},
+		szOtherAchiID = {88, },
+	},
+	[30] = {
+		nQuestAchiID = 391,
+		szDungeonAchiID = {},
+		szReputationAchiID = {},
+		szOtherAchiID = {87, 431, 450, 466, 685, 3042, },
+	},
+	[35] = {
+		nQuestAchiID = 789,
+		szDungeonAchiID = {},
+		szReputationAchiID = {6479},
+		szOtherAchiID = {435, 453, 3017, },
+	},
+	[49] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {1347, 1425},
+		szReputationAchiID = {6446},
+		szOtherAchiID = {1338, 1345, 1356, },
+	},
+	[74] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {},
+		szReputationAchiID = {},
+		szOtherAchiID = {1642, 1646, 1681, 1682, 1693, 1699, },
+	},
+}
+
+--巴蜀风云
+tDLCInfo_2 = {
+	[5] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {2856, 3077},
+		szReputationAchiID = {},
+		szOtherAchiID = {},
+	},
+	[12] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {531, 2012, 2382, 2389, 2485, 2493, 2526, 2533, 2680, 2681},
+		szReputationAchiID = {6468},
+		szOtherAchiID = {},
+	},
+	[35] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {},
+		szReputationAchiID = {},
+		szOtherAchiID = {161, 2659, 2782, 2783, },
+	},
+	[100] = {
+		nQuestAchiID = 1854,
+		szDungeonAchiID = {1789, 1952},
+		szReputationAchiID = {6472},
+		szOtherAchiID = {1827, 1855, 1856, 1857, 1858, 1859, 1860, 1917, },
+	},
+	[101] = {
+		nQuestAchiID = 1861,
+		szDungeonAchiID = {1778, 1966},
+		szReputationAchiID = {6474, 6469},
+		szOtherAchiID = {1862, 1863, 1864, 1865, 1866, 1867, 1868, 1874, 1875, 2005, 2294, },
+	},
+	[102] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {1741, 1922, 1988},
+		szReputationAchiID = {6448, 6464},
+		szOtherAchiID = {1893, 1894, 1896, },
+	},
+	[103] = {
+		nQuestAchiID = 1817,
+		szDungeonAchiID = {1802, 1977},
+		szReputationAchiID = {6460},
+		szOtherAchiID = {1818, 1819, 1820, 1821, 1822, 1825, 1828, 1831, 1918, },
+	},
+	[104] = {
+		nQuestAchiID = 1832,
+		szDungeonAchiID = {1766, 1940, 2951, 2974, 3068, 3071},
+		szReputationAchiID = {6461, 6482},
+		szOtherAchiID = {1833, 1834, 1835, 1836, 1837, 1838, 1852, 1853, 2295, },
+	},
+	[105] = {
+		nQuestAchiID = 6442,
+		szDungeonAchiID = {3199, 3205},
+		szReputationAchiID = {6481, 6491},
+		szOtherAchiID = {3116, 3117, 3119, 3123, },
+	},
+	[108] = {
+		nQuestAchiID = 1807,
+		szDungeonAchiID = {293, 530, 2049, 2052, 2289, 2290, 2298, 2299, 2300, 2304, 2306, 2310, },
+		szReputationAchiID = {6465, 6480},
+		szOtherAchiID = {136, 138, 140, 147, 493, 1808, 1809, 1810, 1811, 1812, 1813, 1814, 1815, 1816, 1826, 2071, 2080, 2089, 2098, 2107, 2116, 2125, 2133, 2141, 2148, 2154, 2161, 2166, 2172, 2181, 2190, 2199, 2206, 2211, 2216, 2221, 2226, 2232, 2237, 2242, 2247, 2252, 2257, 2262, 2267, 2354, 2762, 2804, 2818, 2834, 3198, 3262, 3428, 4188, 4285, },
+	},
+	[122] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {2718, 2736, 3050, 3098},
+		szReputationAchiID = {6454},
+		szOtherAchiID = {2655, 2707, 2760, },
+	},
+	[150] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {3219, 3229},
+		szReputationAchiID = {6455},
+		szOtherAchiID = {3301, 3302, 3303, },
+	},
+}
+
+--安史之乱
+tDLCInfo_3 = {
+	[9] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {4061, 4072},
+		szReputationAchiID = {6489},
+		szOtherAchiID = {},
+	},
+	[35] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {4632},
+		szReputationAchiID = {6501},
+		szOtherAchiID = {4640},
+	},
+	[139] = {
+		nQuestAchiID = 3478,
+		szDungeonAchiID = {},
+		szReputationAchiID = {6470},
+		szOtherAchiID = {3440, 3479, 3480, 3481, 3482, 3483, 3494, 3500, 3730, },
+	},
+	[151] = {
+		nQuestAchiID = 3460,
+		szDungeonAchiID = {3570, 3576},
+		szReputationAchiID = {6466, 6471},
+		szOtherAchiID = {3437, 3461, 3462, 3463, 3464, 3465, 3491, 3497, 3507, 3728, },
+	},
+	[153] = {
+		nQuestAchiID = 3484,
+		szDungeonAchiID = {3394, 3399},
+		szReputationAchiID = {6459},
+		szOtherAchiID = {3441, 3485, 3486, 3488, 3489, 3495, 3501, 3729, },
+	},
+	[156] = {
+		nQuestAchiID = 3466,
+		szDungeonAchiID = {3554, 3562, 3566, 3582, 3589, 3929, },
+		szReputationAchiID = {6462, 6463, 6467, 6487, },
+		szOtherAchiID = {3438, 3467, 3468, 3469, 3470, 3471, 3492, 3498, 3731, 3763, 3780, 3782, 3783, 3824, 3839, },
+	},
+	[158] = {
+		nQuestAchiID = 3472,
+		szDungeonAchiID = {3935, 3945},
+		szReputationAchiID = {6473, 6536},
+		szOtherAchiID = {3439, 3473, 3474, 3475, 3476, 3477, 3493, 3499, 3727, },
+	},
+	[159] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {3550, 3558},
+		szReputationAchiID = {6447},
+		szOtherAchiID = {3436, 3490, 3496, },
+	},
+	[172] = {
+		nQuestAchiID = 3847,
+		szDungeonAchiID = {4056, 4066, 4077, 4200, },
+		szReputationAchiID = {6483, 6484, 6485, 6486, 6488, 6490, 6492, },
+		szOtherAchiID = {3848, 3849, 3850, 3851, 3852, 3904, 4184, 4214, 4583, },
+	},
+	[193] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {4343, 4348},
+		szReputationAchiID = {6456},
+		szOtherAchiID = {4301, 4323, 4325, },
+	},
+	[194] = {
+		nQuestAchiID = 4317,
+		szDungeonAchiID = {4353, 4357, 4362, 4366, },
+		szReputationAchiID = {6493, 6494, 6495, 6496, 6497, 6498, 6499, 6500, },
+		szOtherAchiID = {4318, 4319, 4320, 4324, },
+	},
+}
+
+--剑胆琴心
+tDLCInfo_4 = {
+	[9] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {5851, 5852, 5961, 5962, },
+		szReputationAchiID = {6527, 6530},
+		szOtherAchiID = {},
+	},
+	[35] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {5362, 5363},
+		szReputationAchiID = {6517},
+		szOtherAchiID = {},
+	},
+	[151] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {},
+		szReputationAchiID = {6516},
+		szOtherAchiID = {},
+	},
+	[194] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {4660, 4664, 5878, 5879, 5896, 5897, 6135, 6146, 6229, 6233, },
+		szReputationAchiID = {6513, 6528, 6529, 6531, 6532, },
+		szOtherAchiID = {5651, 5652, 5673, 5674, 5675, 5676, 5677, 6000, 6207, 6222, },
+	},
+	[213] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {4676, 4680},
+		szReputationAchiID = {6457},
+		szOtherAchiID = {4957, 4962, 5015, },
+	},
+	[214] = {
+		nQuestAchiID = 4991,
+		szDungeonAchiID = {4692, 4696},
+		szReputationAchiID = {6505, 6512},
+		szOtherAchiID = {4958, 4963, 4992, 4993, 4994, 4995, 4996, 5016, 5048, },
+	},
+	[215] = {
+		nQuestAchiID = 4997,
+		szDungeonAchiID = {4684, 4688, 4741, 4745, 4749, 4753, 4758, 4763, 4768, 4773, },
+		szReputationAchiID = {6504, 6510, 6514, 6515},
+		szOtherAchiID = {4888, 4961, 4966, 4998, 4999, 5000, 5001, 5002, 5017, 5051, 5340, },
+	},
+	[216] = {
+		nQuestAchiID = 5009,
+		szDungeonAchiID = {4668, 4672},
+		szReputationAchiID = {6502, 6511, },
+		szOtherAchiID = {4959, 4964, 5010, 5011, 5012, 5013, 5014, 5019, 5049, 5157, },
+	},
+	[217] = {
+		nQuestAchiID = 5003,
+		szDungeonAchiID = {},
+		szReputationAchiID = {6503, },
+		szOtherAchiID = {4960, 4965, 5004, 5005, 5006, 5007, 5008, 5018, 5050, },
+	},
+	[239] = {
+		nQuestAchiID = 5629,
+		szDungeonAchiID = {5510, 5511, 5512, 5513},
+		szReputationAchiID = {6518, 6519, 6520, 6521, },
+		szOtherAchiID = {5630, 5631, 5632, 5633, 5634, 5636, 5637},
+	},
+	[243] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {5603, 5607, 5611, 5727, 5728, 5729, 5730, 5731},
+		szReputationAchiID = {6458, 6522, 6523, 6524},
+		szOtherAchiID = {5487, 5488, 5593},
+	},
+}
+
+--世外蓬莱
+tDLCInfo_5 = {
+	[214] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {7508,7519,7530,},
+		szReputationAchiID = {7876},
+		szOtherAchiID = {},
+	},
+	[325] = {
+		nQuestAchiID = 6391,
+		szDungeonAchiID = {6359, 6367},
+		szReputationAchiID = {6776, 6784},
+		szOtherAchiID = {6386, 6701, 6702, 6703, 6704, 6705, 6706, 6707, 6715},
+	},
+	[330] = {
+		nQuestAchiID = 6392,
+		szDungeonAchiID = {6342, 6350},
+		szReputationAchiID = {6778, 6788},
+		szOtherAchiID = {6387, 6714, 6719, 6720, 6721, 6722, 6723, 6724},
+	},
+	[332] = {
+		nQuestAchiID = 6388,
+		szDungeonAchiID = {6315, 6328, 6402, 6569, 6726, 6735},
+		szReputationAchiID = {6772, 6780, 6786},
+		szOtherAchiID = {6676, 7821, 6678, 6679, 6680, 6681, 6682, 6383, 6677, 7088, 7120, 7480, 7481, 7153, 6834, 6716, 7635, 7634, 7637, 7669, 7692, 7693, 7698, 7701, 7704, 7657, 7658, 7854, 8462, 7893, 7896},
+	},
+	[333] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {6298, 6306, 7315, 7398, 7405},
+		szReputationAchiID = {6684, 7478},
+		szOtherAchiID = {6384, 6542, 6543, },
+	},
+	[334] = {
+		nQuestAchiID = 6390,
+		szDungeonAchiID = {6282, 6286},
+		szReputationAchiID = {6774, 6790},
+		szOtherAchiID = {6385, 6549, 6550, 6551, 6552, 6553, 6554, 6555, 6713},
+	},
+	[411] = {
+		nQuestAchiID = 7068,
+		szDungeonAchiID = {7037, 7046, 6872, 6885, 6900, 6943},
+		szReputationAchiID = {7071, 7094, 7096},
+		szOtherAchiID = {7066, 7067, 7069, 7086, 7072},
+	},
+	[419] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {7415, 7419},
+		szReputationAchiID = {7231},
+		szOtherAchiID = {7235, 7242, 7236, },
+	},
+	[444] = {
+		nQuestAchiID = 7244,
+		szDungeonAchiID = {},
+		szReputationAchiID = {7245},
+		szOtherAchiID = {7250, 7251, 7252, 7253, 7254, 7255, 7257},
+	},
+}
+
+--奉天证道
+tDLCInfo_6 = {
+	[35] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {9157,9173},
+		szReputationAchiID = {9376},
+		szOtherAchiID = {},
+	},
+	[158] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {10045, 10089},
+		szReputationAchiID = {10155},
+		szOtherAchiID = {},
+	},
+	[194] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {9286},
+		szReputationAchiID = {9378},
+		szOtherAchiID = {712, 1291, 1903, 8483, 8487, 8715, 8988, 8996, 9020, 9078, 9084, 9095, 9096, 9097, 9115, 9304, 9308, 9354, 9379, 9409, 9416, 9421, 9426, 9435, 9692, 9726, 9745, 9746, 9747, 9749, 9750, 9751, 9752, 9753, 9754, 9756, 9764, 9765, 9772, 9778, 10001, 10130, 10134, 10189, 10191, 10224, 10231, 10235, 10261, 10283, 10284, 10288, 10289},
+	},
+	[464] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {8501, 8771},
+		szReputationAchiID = {8653},
+		szOtherAchiID = {8654, 8655, 8658},
+	},
+	[473] = {
+		nQuestAchiID = 8665,
+		szDungeonAchiID = {8517, 8775},
+		szReputationAchiID = {8673},
+		szOtherAchiID = {8663, 8664, 8666, 8667, 8668, 8669, 8670, 8671, 8698},
+	},
+	[474] = {
+		nQuestAchiID = 8675,
+		szDungeonAchiID = {8513, 8779},
+		szReputationAchiID = {8685},
+		szOtherAchiID = {8674, 8676, 8677, 8678, 8679, 8680, 8681, 8682, 8683, 8697},
+	},
+	[475] = {
+		nQuestAchiID = 8689,
+		szDungeonAchiID = {8509, 8528, 8554, 8763},
+		szReputationAchiID = {8695, 8840},
+		szOtherAchiID = {8686, 8687, 8690, 8691, 8692, 8693, 8696, 8699, 8800, 9007},
+	},
+	[488] = {
+		nQuestAchiID = 8702,
+		szDungeonAchiID = {8505, 8767},
+		szReputationAchiID = {8704},
+		szOtherAchiID = {8700, 8701, 8705, 8706, 8707, 8708, 8709, 8710, 8711, 8712, 8713, 8714},
+	},
+	[525] = {
+		nQuestAchiID = 9500,
+		szDungeonAchiID = {9545, 9571},
+		szReputationAchiID = {9499;9715},
+		szOtherAchiID = {9495, 9496, 9497, 9501, 9502, 9504, 9505, 9506, 9507, 9508, 9509, 9514, 9515, 9516, 9527, 9716, },
+	},
+	[526] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {9653, 9657},
+		szReputationAchiID = {9476},
+		szOtherAchiID = {9460, 9461, 9474},
+	},
+
+}
+
+--横刀断浪（记得改）
+tDLCInfo_7 = {
+	[578] = {
+		nQuestAchiID = 6391,
+		szDungeonAchiID = {6359, 6367},
+		szReputationAchiID = {6776, 6784},
+		szOtherAchiID = {6386, 6701, 6702, 6703, 6704, 6705, 6706, 6707, 6715},
+	},
+	[579] = {
+		nQuestAchiID = 6392,
+		szDungeonAchiID = {6342, 6350},
+		szReputationAchiID = {6778, 6788},
+		szOtherAchiID = {6387, 6714, 6719, 6720, 6721, 6722, 6723, 6724},
+	},
+	[580] = {
+		nQuestAchiID = 6388,
+		szDungeonAchiID = {6315, 6328, 6402, 6569, 6625},
+		szReputationAchiID = {6772, 6780, 6786},
+		szOtherAchiID = {6383, 6676, 6677, 6678, 6679, 6680, 6681, 6682, 6716, 7123},
+	},
+	[581] = {
+		nQuestAchiID = 0,
+		szDungeonAchiID = {6298, 6306},
+		szReputationAchiID = {6684},
+		szOtherAchiID = {6384, 6542, 6543, },
+	},
+	[582] = {
+		nQuestAchiID = 6390,
+		szDungeonAchiID = {6282, 6286},
+		szReputationAchiID = {6774, 6790},
+		szOtherAchiID = {6385, 6549, 6550, 6551, 6552, 6553, 6554, 6555, 6713},
+	},
+
+}
+
+--DLC表={DLC信息表，DLC奖励道具ID，标记任务ID，所需分值}
+tDLCInfoList = {
+	[1] = {tDLCInfo_1, 20025, 20028, 540},
+	[2] = {tDLCInfo_1, 20024, 20029, 1080},
+	[3] = {tDLCInfo_1, 3924, 20030, 1268},
+	[4] = {tDLCInfo_1, 24877, 20031, 1281},
+	[5] = {tDLCInfo_2, 20027, 20032, 242},
+	[6] = {tDLCInfo_2, 20026, 20033, 485},
+	[7] = {tDLCInfo_2, 3925,  20034, 641},
+	[8] = {tDLCInfo_2, 24879, 20035, 656},
+	[9] = {tDLCInfo_3, 20029, 20036, 355},
+	[10] = {tDLCInfo_3, 20028, 20037, 710},
+	[11] = {tDLCInfo_3, 3926,  20038, 808},
+	[12] = {tDLCInfo_3, 24878, 20039, 827},
+	[13] = {tDLCInfo_4, 20031, 20040, 240},
+	[14] = {tDLCInfo_4, 20030, 20041, 480},
+	[15] = {tDLCInfo_4, 3927,  20042, 586},
+	[16] = {tDLCInfo_4, 24876, 20043, 613},
+	[17] = {tDLCInfo_5, 25559, 20044, 260},
+	[18] = {tDLCInfo_5, 25537, 20045, 520},
+	[19] = {tDLCInfo_5, 3982, 20046, 623},
+	[20] = {tDLCInfo_5, 24945, 20047, 640},
+	[21] = {tDLCInfo_6, 26065, 22532, 230},
+	[22] = {tDLCInfo_6, 26064, 22533, 460},
+	[23] = {tDLCInfo_6, 9235, 22534, 598},
+	[24] = {tDLCInfo_6, 31599, 22535, 609},
+	[25] = {tDLCInfo_7, 32092, 25229, 9999},--DLC7下版本再写
+	[26] = {tDLCInfo_7, 32092, 25230, 9999},
+	[27] = {tDLCInfo_7, 32092, 25231, 9999},
+	[28] = {tDLCInfo_7, 32092, 25232, 9999},
+}

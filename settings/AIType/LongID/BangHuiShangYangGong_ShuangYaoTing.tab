@@ -1,0 +1,20 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+-83886079	scripts/ai/DungeonStandardAI.lua	1	1500	1500	32	256	64	0	32	0	384	80	1	0	1	0		1	1	1	
+-83886078	scripts/ai/DungeonStandardAI.lua	1	1500	1500	32	256	64	0	32	0	384	80	1	0	2	0		1	1	1	
+-83886077	scripts/ai/DungeonStandardAI.lua	1	1500	1500	32	256	64	0	32	0	384	80	2	0	1	0		1	1	1	
+-83886076	scripts/ai/DungeonStandardAI.lua	1	1500	1500	32	256	64	0	32	0	384	80	2	0	2	0		1	1	1	
+-83886075	scripts/ai/DungeonStandardAI.lua	1	1500	1500	32	256	64	0	32	0	384	80	3	0	1	0		1	1	1	
+-83886074	scripts/ai/DungeonStandardAI.lua	1	1500	1500	32	256	64	0	32	0	384	80	3	0	2	0		1	1	1	
+-83886073	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	4	0	1	0		1	1	0	
+-83886072	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	4	0	3	0		1	1	0	
+-83886071	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	4	0	2	0		1	1	0	
+-83886070	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	5	0	1	0		1	1	0	
+-83886069	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	5	0	2	0		1	1	0	
+-83886068	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	6	0	1	0		1	1	0	
+-83886067	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	6	0	2	0		1	1	0	
+-83886066	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	7	0	1	0		1	1	0	
+-83886065	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	7	0	2	0		1	1	0	
+-83886064	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	7	0	3	0		1	1	0	
+-83886063	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	8	0	1	0		1	1	0	
+-83886062	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	8	0	2	0		1	1	0	
+-83886061	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	8	0	3	0		1	1	0	

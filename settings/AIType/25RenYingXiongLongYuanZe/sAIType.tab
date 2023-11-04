@@ -1,0 +1,13 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+13960	scripts\Map\25人英雄龙渊泽\ai\剧情总控\剧情总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13961	scripts\Map\世界通用\ai\演员可对话.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13962	scripts\Map\25人英雄龙渊泽\ai\1神策狗男女\男.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13963	scripts\Map\25人英雄龙渊泽\ai\1神策狗男女\女.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13964	scripts\Map\25人英雄龙渊泽\ai\1神策狗男女\狗男女战斗总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13965	scripts\Map\25人英雄龙渊泽\ai\4南诏双雄\刺客.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13966	scripts\Map\25人英雄龙渊泽\ai\4南诏双雄\壮汉.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13967	scripts\Map\25人英雄龙渊泽\ai\4南诏双雄\炎爆弹.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13968	scripts\Map\25人英雄龙渊泽\ai\4南诏双雄\炎爆弹.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13969	scripts\Map\25人英雄龙渊泽\ai\4南诏双雄\双雄战斗总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13970	scripts\Map\龙渊泽\ai\1神策狗男女\一号掉落.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+13971	scripts\Map\龙渊泽\ai\4南诏双雄\四号掉落.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320

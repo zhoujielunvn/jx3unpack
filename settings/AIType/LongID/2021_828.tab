@@ -1,0 +1,22 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+356515841	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	2	0	1	0		1	0	0	
+356515842	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	9	0	2	0		1	0	0	
+356515843	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	9	0	1	0		1	0	0	
+356515844	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	2	0	2	0		1	0	0	
+356515845	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	3	0	1	0		1	0	0	
+356515846	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	5	0	1	0		1	0	0	
+356515847	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	10	0	1	0		1	0	0	
+356515848	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	11	0	1	0		1	0	0	
+356515849	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	8	0	1	0		1	0	0	
+356515850	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	7	0	1	0		1	0	0	
+356515851	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	6	0	1	0		1	0	0	
+356515852	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	12	0	1	0		1	0	0	
+356515853	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	13	0	1	0		1	0	0	
+356515854	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	14	0	1	0		1	0	0	
+356515855	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	15	0	1	0		1	0	0	
+356515856	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	16	0	1	0		1	0	0	
+356515857	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	17	0	1	0		1	0	0	
+356515858	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	18	0	1	0		1	0	0	
+356515859	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	19	0	1	0		1	0	0	
+356515860	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	20	0	1	0		1	0	0	
+356515861	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	21	0	1	0		1	0	0	

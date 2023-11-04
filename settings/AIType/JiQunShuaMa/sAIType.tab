@@ -1,0 +1,24 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+19061	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+19062	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+19063	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	384	80	0	30	0	0		1	0	0	320
+19064	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	384	80	0	30	0	0		1	0	0	320
+19065	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	384	80	0	30	0	0		1	0	0	320
+19066	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+19067	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+19068	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+19069	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19070	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+19071	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+19072	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+19073	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+19074	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+19075	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+19076	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+19077	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+19078	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	0	0	320
+19079	scripts/Map/集群刷马/ai/集群刷马总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19080	scripts\Map\集群刷马\ai\集群刷马2阶段喽罗总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19081	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19082	scripts\Map\集群刷马\ai\第二阶段阵营总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+19138	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320

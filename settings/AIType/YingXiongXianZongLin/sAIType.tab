@@ -1,0 +1,23 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+12779	scripts\Map\英雄仙踪林\ai\一号BOSS.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12780	scripts\Map\英雄仙踪林\ai\二号BOSS.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12781	scripts\Map\英雄仙踪林\ai\三号BOSS.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12782	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12783	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12784	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12785	scripts\Map\英雄仙踪林\ai\二号相关\蟾蜍.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12786	scripts\Map\英雄仙踪林\ai\一号相关\一号阶段总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12787	scripts\Map\英雄仙踪林\ai\二号相关\二号阶段总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12788	scripts\Map\英雄仙踪林\ai\三号相关\三号阶段总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12789	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12790	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12804	scripts\Map\英雄仙踪林\ai\一号相关\红莲突刺.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12805	scripts\Map\英雄仙踪林\ai\剧情控制\十八波总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12806	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12807	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12810	scripts\Map\英雄仙踪林\ai\一号相关\一号掉落.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+12811	scripts\Map\英雄仙踪林\ai\剧情控制\十八波辅助总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+12812	scripts\Map\英雄仙踪林\ai\一号相关\疾镰十字斩.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+64836	scripts/Map/副本通用AI/ai/通用无敌对话AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+70549	scripts/ai/CommonFoolish.lua	0	768	0	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+70550	scripts/ai/CommonFoolish.lua	0	768	0	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320

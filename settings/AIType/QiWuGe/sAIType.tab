@@ -1,0 +1,24 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+26051	scripts\Map\齐物阁\ai\房间管理员.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+26527	scripts\Map\世界通用\ai\演员可对话.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+26573	scripts\Map\齐物阁\ai\交通总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+26584	scripts\Map\世界通用\ai\演员可对话.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+27589	scripts\Map\狼影殿\ai\交通总控.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+27590	scripts\Map\狼影殿\ai\房间管理员.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+27612	scripts\Map\狼影殿\ai\房间管理员Last.lua	1	1024	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+45056	scripts\Map\狼影殿\ai\狼影币.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+45074	scripts\Map\狼影殿\ai\批量创建狼影币.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+45077	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+45096	scripts\Map\狼影殿\ai\同步狼影殿排行.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+45097	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+45764	scripts\Map\齐物阁\ai\地刺.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+45769	scripts\Map\齐物阁\ai\落石.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+45770	scripts\Map\齐物阁\ai\龙卷风.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+45784	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+45792	scripts\Map\齐物阁\ai\超级buff搜索玩家.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+45796	scripts\Map\齐物阁\ai\拉人龙卷风.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+45835	scripts\Map\齐物阁\ai\超级buff监控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+45882	scripts\Map\齐物阁\ai\火墙.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+46750	scripts\Map\狼影殿\ai\势力无敌.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+46752	scripts\Map\狼影殿\ai\势力无敌.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+46753	scripts\Map\狼影殿\ai\势力无敌.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

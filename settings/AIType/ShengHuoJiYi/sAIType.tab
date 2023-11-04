@@ -1,0 +1,16 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+16357	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+23621	scripts\Map\世界通用\ai\生活技艺\采集技艺大师.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+23783	scripts\Map\世界通用\ai\生活技艺\采集技艺大师.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+23784	scripts\Map\世界通用\ai\生活技艺\采集技艺大师.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+23785	scripts\Map\世界通用\ai\生活技艺\采集技艺大师.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+23787	scripts\Map\世界通用\ai\生活技艺\制造技艺大师.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+23788	scripts\Map\世界通用\ai\生活技艺\制造技艺大师.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+23789	scripts\Map\世界通用\ai\生活技艺\制造技艺大师.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+23790	scripts\Map\世界通用\ai\生活技艺\制造技艺大师.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+23795	scripts\Map\世界通用\ai\生活技艺\制造技艺大师.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36787	scripts\Map\世界通用\ai\生活技艺\制造技艺大师.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36788	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36954	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+69528	scripts\Map\世界通用\ai\生活技艺\制造技艺大师.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+104351	scripts\Map\世界通用\ai\生活技艺\制造技艺大师.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

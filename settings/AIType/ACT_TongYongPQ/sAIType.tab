@@ -1,0 +1,6 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+44827	scripts\Map\ACT_通用PQ\ai\标记NPC.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+44828	scripts\Map\ACT_通用PQ\ai\通用PQ模板AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+44853	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+45003	scripts\Map\ACT_通用PQ\ai\移动doodad机器人.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+45872	scripts\Map\ACT_通用PQ\ai\标记NPC.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

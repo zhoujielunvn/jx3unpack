@@ -1,0 +1,27 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+100506	scripts\Map\奉天证道世界BOSS\ai\宗朗\朗宗.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+100507	scripts\Map\奉天证道世界BOSS\ai\宗朗\范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+100508	scripts\Map\奉天证道世界BOSS\ai\宗朗\技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+100509	scripts\Map\奉天证道世界BOSS\ai\唐阙\唐阙.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+100510	scripts\Map\奉天证道世界BOSS\ai\唐阙\范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+100573	scripts\Map\奉天证道世界BOSS\ai\唐阙\技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+100574	scripts\Map\奉天证道世界BOSS\ai\桑乔\桑乔.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+100575	scripts\Map\奉天证道世界BOSS\ai\桑乔\范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+100576	scripts\Map\奉天证道世界BOSS\ai\桑乔\技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+100781	scripts\Map\奉天证道世界BOSS\ai\宗朗\回龙二式.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+100791	scripts\Map\奉天证道世界BOSS\ai\土行孙\毒雾.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+100817	scripts\Map\奉天证道世界BOSS\ai\土行孙\土行孙.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+100818	scripts\Map\奉天证道世界BOSS\ai\土行孙\白眉鼠.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+100819	scripts\Map\奉天证道世界BOSS\ai\土行孙\范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+100820	scripts\Map\奉天证道世界BOSS\ai\土行孙\技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+101963	scripts\Map\奉天证道世界BOSS\ai\唐阙\火球.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+102022	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+102445	scripts\Map\奉天证道世界BOSS\ai\桑乔\大环.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+102446	scripts\Map\奉天证道世界BOSS\ai\桑乔\小环.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+102447	scripts/Map/奉天证道世界BOSS/ai/桑乔/机关炸弹.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+105868	scripts\Map\奉天证道世界BOSS\ai\大毒尸\大毒尸.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+105869	scripts/Map/奉天证道世界BOSS/ai/大毒尸/毒虫.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+105870	scripts/Map/奉天证道世界BOSS/ai/大毒尸/毒藤.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+105926	scripts\Map\奉天证道世界BOSS\ai\大毒尸\范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+105927	scripts\Map\奉天证道世界BOSS\ai\大毒尸\技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+105936	scripts\Map\奉天证道世界BOSS\ai\大毒尸\毒虫精华.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

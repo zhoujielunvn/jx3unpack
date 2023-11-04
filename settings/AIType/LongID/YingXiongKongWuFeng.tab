@@ -1,0 +1,27 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+721420289	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	1	0	1	0		1	1	1	
+721420290	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	1	0	2	0		1	1	1	
+721420291	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	1	0	3	0		1	1	1	
+721420292	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	2	0	2	0		1	1	1	
+721420293	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	2	0	1	0		1	1	1	
+721420294	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	5	0	1	0		1	1	1	
+721420295	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	3	0	5	0		1	1	1	
+721420296	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	3	0	3	0		1	1	1	
+721420297	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	3	0	1	0		1	1	1	
+721420298	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	4	0	1	0		1	1	1	
+721420299	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	4	0	3	0		1	1	1	
+721420300	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	4	0	5	0		1	1	1	
+721420301	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	8	0	6	0		1	1	1	
+721420302	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	8	0	5	0		1	1	1	
+721420303	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	8	0	4	0		1	1	1	
+721420304	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	8	0	3	0		1	1	1	
+721420305	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	8	0	2	0		1	1	1	
+721420306	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	8	0	1	0		1	1	1	
+721420307	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	6	0	1	0		1	1	1	
+721420308	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	13	0	1	0		1	1	1	
+721420309	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	13	0	2	0		1	1	1	
+721420310	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	13	0	3	0		1	1	1	
+721420311	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	9	0	1	0		1	1	1	
+721420312	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	10	0	1	0		1	1	1	
+721420313	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	11	0	1	0		1	1	1	
+721420314	scripts/ai/DungeonStandardAI.lua	1	1024	768	32	256	64	0	32	0	384	80	12	0	1	0		1	1	1	

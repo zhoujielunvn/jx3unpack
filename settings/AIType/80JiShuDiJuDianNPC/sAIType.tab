@@ -1,0 +1,15 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+15574	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	768	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+15575	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	768	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+15576	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	768	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+15577	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	768	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+15631	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+15632	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+15638	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+15639	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+15697	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+15698	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+16491	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+16492	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+16806	scripts\Map\可人和莫雨的突袭活动\ai\胜利后的烟花.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+16807	scripts\Map\可人和莫雨的突袭活动\ai\胜利后的烟花.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320

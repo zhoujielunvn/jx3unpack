@@ -1,0 +1,18 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+-1979711487	scripts/ai/DungeonStandardAI.lua	1	1280	768	0	256	64	0	32	0	384	80	19	0	3	0		1	1	1	
+-1979711486	scripts/ai/DungeonStandardAI.lua	1	1280	768	0	256	64	0	32	0	384	80	19	0	2	0		1	1	1	
+-1979711485	scripts/ai/DungeonStandardAI.lua	1	1280	768	0	256	64	0	32	0	384	80	17	0	2	0		1	1	1	
+-1979711484	scripts/ai/DungeonStandardAI.lua	1	1280	768	0	256	64	0	32	0	384	80	17	0	3	0		1	1	1	
+-1979711483	scripts/ai/DungeonStandardAI.lua	1	1280	768	0	256	64	0	32	0	384	80	18	0	3	0		1	1	1	
+-1979711482	scripts/ai/DungeonStandardAI.lua	1	1280	768	0	256	64	0	32	0	384	80	18	0	2	0		1	1	1	
+-1979711481	scripts/ai/DungeonStandardAI.lua	0	768	768	0	256	64	0	32	0	384	80	17	0	1	0		1	1	0	
+-1979711480	scripts/ai/DungeonStandardAI.lua	0	768	768	0	256	64	0	32	0	384	80	18	0	1	0		1	1	0	
+-1979711479	scripts/ai/DungeonStandardAI.lua	0	768	768	0	256	64	0	32	0	384	80	19	0	1	0		1	1	0	
+-1979711478	scripts\Map\25人英雄会战唐门\ai\特殊小怪独立AI\鹰眼小怪.lua	0	768	768	0	256	64	0	32	0	384	80	22	0	0	0		1	1	0	
+-1979711477	scripts\Map\25人英雄会战唐门\ai\特殊小怪独立AI\鹰眼小怪.lua	0	768	768	0	256	64	0	32	0	384	80	21	0	0	0		1	1	0	
+-1979711476	scripts\Map\25人英雄会战唐门\ai\特殊小怪独立AI\鹰眼小怪.lua	0	768	768	0	256	64	0	32	0	384	80	25	0	1	0		1	1	0	
+-1979711475	scripts/ai/DungeonStandardAI.lua	0	768	768	0	256	64	0	32	0	384	80	25	0	2	0		1	1	0	
+-1979711474	scripts/ai/DungeonStandardAI.lua	0	768	768	0	256	64	0	32	0	384	80	25	0	3	0		1	1	0	
+-1979711473	scripts/ai/DungeonStandardAI.lua	1	768	768	0	256	64	0	32	0	384	80	20	0	1	0		1	1	0	
+-1979711472	scripts/ai/DungeonStandardAI.lua	1	768	768	0	256	64	0	32	0	384	80	20	0	3	0		1	1	0	
+-1979711471	scripts/ai/DungeonStandardAI.lua	1	768	768	0	256	64	0	32	0	384	80	20	0	2	0		1	1	0	

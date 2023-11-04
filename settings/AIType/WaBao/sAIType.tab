@@ -1,0 +1,17 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+36680	scripts\Map\挖宝系统\ai\野人.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+36682	scripts\Map\挖宝系统\ai\野人总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36683	scripts\Map\挖宝系统\ai\王史涯.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+36685	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36686	scripts\Map\挖宝系统\ai\王史涯总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36687	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+36688	scripts\Map\挖宝系统\ai\老虎.lua	1	1920	1920	32	1920	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+36689	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+36719	scripts\Map\唐门密室\ai\三号BOSS机关.汉唐\火圈.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36774	scripts\Map\挖宝系统\ai\地刺.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36775	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36778	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36780	scripts\Map\挖宝系统\ai\小火圈.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36793	scripts\Map\挖宝系统\ai\野人范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36794	scripts\Map\挖宝系统\ai\王史涯范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+36921	scripts\Map\驯养系统宠物系统\ai\无敌.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320

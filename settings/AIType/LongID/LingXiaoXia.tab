@@ -1,0 +1,23 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+234881025	scripts/ai/StandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	0	0	1	0		1	0	0	
+234881026	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	1	0	0	0		1	1	0	
+234881027	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	2	0	0	0		1	1	0	
+234881028	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	10	0	0	0		1	1	0	
+234881029	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	3	0	0	0		1	1	0	
+234881030	scripts/ai/StandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	0	0	0	0		1	0	0	
+234881031	scripts/ai/StandardAI.lua	1	1024	768	32	256	0	0	0	0	0	0	0	0	0	0		1	0	0	
+234881032	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	5	0	0	0		1	1	0	
+234881033	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	6	0	0	0		1	1	0	
+234881034	scripts\Map\ÁéÏöÏ¿\ai\ÁéÏöÏ¿3ºÅBOSS.lua	1	1024	1024	32	256	64	0	32	0	384	80	11	30	1	0		1	1	1	
+234881035	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	7	0	0	0		1	1	0	
+234881036	scripts/ai/StandardAI.lua	0	768	768	0	256	0	0	0	0	0	0	0	0	0	0		0	0	0	
+234881037	scripts/ai/StandardAI.lua	0	768	768	32	256	0	0	0	0	0	0	0	0	1	0		0	0	0	
+234881038	scripts/ai/StandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	8	0	0	0		1	0	0	
+234881039	scripts/ai/StandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	9	0	0	0		1	0	0	
+234881040	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	13	0	0	0		1	1	0	
+234881041	scripts/ai/StandardAI.lua	1	768	768	32	256	0	0	0	0	0	0	12	0	0	0		1	0	0	
+234881042	scripts/ai/StandardAI.lua	0	768	768	32	256	0	0	0	256	256	80	0	0	1	0		1	0	0	
+234881043	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	4	0	0	0		1	1	0	
+234881044	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	4	0	0	0		1	1	0	
+234881045	scripts/ai/DungeonStandardAI.lua	1	1792	768	32	256	64	0	32	0	384	80	20	30	0	0		1	1	1	
+234881046	scripts/ai/DungeonStandardAI.lua	1	1792	768	32	256	64	0	32	0	384	80	21	30	0	0		1	1	1	

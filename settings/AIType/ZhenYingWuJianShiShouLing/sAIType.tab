@@ -1,0 +1,19 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+9079	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	1	320
+9082	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+9083	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+9084	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+9086	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+9088	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+9089	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+9090	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	1	320
+9091	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	1	320
+9092	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	448	768	32	512	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+9093	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+9096	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+9097	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	1	320
+9098	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+9099	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+9100	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+9101	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	1	320
+23831	scripts/Map/世界通用/ai/标准改阵营Boss通用.lua	1	1024	768	32	1280	64	0	32	0	384	80	0	0	0	0		1	0	1	320

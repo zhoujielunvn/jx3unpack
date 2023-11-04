@@ -1,0 +1,24 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+111534	scripts/Map/幽藤馆/ai/3号_藤原广嗣/3号_藤原广嗣.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111535	scripts/Map/幽藤馆/ai/2号_秘三花\阵中封印.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111536	scripts\Map\幽藤馆\ai\2号_秘三花\阵眼.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111537	scripts/Map/幽藤馆/ai/3号_藤原广嗣/3号_藤原广嗣_范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111538	scripts\Map\幽藤馆\ai\2号_秘三花\阵心.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111539	scripts/Map/幽藤馆/ai/3号_藤原广嗣/3号_藤原广嗣_技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111540	scripts\Map\幽藤馆\ai\2号_秘三花\2号_秘三花_范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111541	scripts/Map/幽藤馆/ai/3号_藤原广嗣/3号_藤原广嗣_滋养之泉.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111542	scripts\Map\幽藤馆\ai\2号_秘三花\2号_秘三花_技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111543	scripts/Map/幽藤馆/ai/3号_藤原广嗣/3号_藤原广嗣_不息之风.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111544	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+111545	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111546	scripts/Map/幽藤馆/ai/1号_吴添明/1号_吴添明.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111547	scripts/Map/幽藤馆/ai/1号_吴添明/1号_吴添明_范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111548	scripts/Map/幽藤馆/ai/1号_吴添明/1号_吴添明_技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111549	scripts/Map/幽藤馆/ai/2号_秘三花/鬼影夜叉丸.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+111550	scripts/Map/幽藤馆/ai/2号_秘三花/红叶.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+111551	scripts/Map/幽藤馆/ai/2号_秘三花/桑原绘衣.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+111552	scripts/Map/幽藤馆/ai/2号_秘三花/藤原佑野.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+111553	scripts/Map/幽藤馆/ai/2号_秘三花/甘青阳.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+113076	scripts/ai/CommonFoolish.lua	0	768	0	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+113398	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+113399	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320

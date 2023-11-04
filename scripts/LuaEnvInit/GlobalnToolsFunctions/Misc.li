@@ -1,0 +1,17 @@
+function AppendMiscFunctionsToGlobal()
+	_G.Misc = Misc
+end
+
+-- --------------------------------------------------------------------------------------
+Misc = Misc or {}
+
+function Misc.SendSystemAnnounce(player, szAnnounce, bYellow)
+	if not player or not szAnnounce or szAnnounce == "" or #szAnnounce > 64 then
+		return
+	end
+	if bYellow then
+		RemoteCallToClient(player.dwID, "OnSendSystemAnnounce", szAnnounce, "yellow")
+	else
+		RemoteCallToClient(player.dwID, "OnSendSystemAnnounce", szAnnounce, "red")
+	end
+end

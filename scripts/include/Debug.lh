@@ -1,0 +1,6 @@
+function IsNil(object)
+	if object == nil then
+		error("object is nil", 2)
+	end	
+	return 1
+end

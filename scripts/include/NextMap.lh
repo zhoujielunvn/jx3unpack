@@ -1,0 +1,158 @@
+---------------------------------------------------------------------->
+-- 脚本名称:	scripts/Include/NextMap.lh
+-- 更新时间:	2017/12/6 16:56:41
+-- 更新用户:	yule-pc
+-- 脚本说明:
+----------------------------------------------------------------------<
+local nextMap = {
+	--[NpcTemplateID] = {待机对话， 选项内容， 起始飞行ID， 结束飞行ID, 任务ID}
+	--[1234] = {
+	--		[1] = {"待机对话", "选项", 1, 2, 3},
+	--},
+	[2524] = {--长安
+		[1] = {GetEditorString(12, 2539), GetEditorString(12, 2540), 2424, 2167, 17253},
+		[2] = {GetEditorString(12, 2541), GetEditorString(12, 2542), 2424, 2169, 17254},
+	},
+	[57292] = {--洛阳
+		[1] = {GetEditorString(12, 2539), GetEditorString(12, 2540), 2165, 2167, 17267},
+		[2] = {GetEditorString(12, 2541), GetEditorString(12, 2542), 2165, 2169, 17268},
+	},
+	[57314] = {--扬州
+		[1] = {GetEditorString(12, 2539), GetEditorString(12, 2540), 2377, 2167, 17280},
+		[2] = {GetEditorString(12, 2541), GetEditorString(12, 2542), 2377, 2169, 17282},
+	},
+	[1806] = {--枫华谷
+		[1] = {GetEditorString(12, 2543), GetEditorString(12, 2544), 2171, 2201, 1617},
+	},
+	[58166] = {--金水
+		[1] = {GetEditorString(12, 2545), GetEditorString(12, 2546), 2161, 2163, 16627},
+	},
+	[56098] = {--洛道
+		[1] = {GetEditorString(12, 2547), GetEditorString(12, 2548), 2234, 2236, 16706},
+	},
+	[56180] = {--巴陵县
+		[1] = {GetEditorString(12, 2549), GetEditorString(12, 2550), 2240, 2243, 16801},
+	},
+	[56788] = {--龙门
+		[1] = {GetEditorString(12, 2551), GetEditorString(12, 2552), 2244, 2252, 12036},
+	},
+	[57047] = {--南屏
+		[1] = {GetEditorString(12, 2556), GetEditorString(12, 2557), 2266, 2254, 17134},
+	},
+	[56703] = {--昆仑
+		[1] = {GetEditorString(12, 2558), GetEditorString(12, 2559), 2268, 2256, 4484},
+	},
+	[5308] = {--浩气
+		[1] = {GetEditorString(12, 2553), GetEditorString(12, 2554), 2260, 2264, 539},
+	},
+	[4997] = {--恶人
+		[1] = {GetEditorString(12, 2553), GetEditorString(12, 2555), 2258, 2262, 4300},
+	},
+	[4650] = {--瞿塘峡
+		[1] = {GetEditorString(12, 2842), GetEditorString(12, 2843), 2272, 2406, 17346},
+		[2] = {GetEditorString(12, 2844), GetEditorString(12, 2845), 2272, 2392, 17347},
+	},
+}
+
+function CheckSwitchMapFly(npc, player, nQuestID, nIndex)
+	if player.IsHaveBuff(13096, 0) then	--祭天大旗手
+		player.SendSystemMessage(GetEditorString(23, 368))
+		return false
+	end
+	local tQuestInfo = nextMap[npc.dwTemplateID]
+	if not tQuestInfo then
+		return false
+	end
+	local tDialogueInfo = tQuestInfo[nIndex]
+	if not tDialogueInfo then
+		return false
+	end
+	if tDialogueInfo[5] ~= nQuestID then
+		return false
+	end
+	local szFunction = "error"
+	if nIndex == 1 then
+		szFunction = "flyNextMap1"
+	elseif nIndex == 2 then
+		szFunction = "flyNextMap2"
+	end
+	local nQuestIndex = player.GetQuestIndex(nQuestID)
+	local nQuestPhase = player.GetQuestPhase(nQuestID)
+	if nQuestIndex and nQuestPhase == 1 then
+
+		player.OpenWindow(TARGET.NPC, npc.dwID,
+			"<G>" .. tDialogueInfo[1] ..
+			"<$C " .. tDialogueInfo[2] .. ">\n" ..
+			GetEditorString(7, 4591),
+			szFunction,
+			"error"
+		)
+		return true
+	end
+
+	return false
+end
+
+function flyNextMap1(player, nTargetType, nTargetID, nIndex)
+	local npc = GetNpc(nTargetID)
+	if not npc then
+		return
+	end
+	if player.IsHaveBuff(13096, 0) then	--祭天大旗手
+		player.SendSystemMessage(GetEditorString(23, 368))
+		return false
+	end
+	local tQuestInfo = nextMap[npc.dwTemplateID]
+	if not tQuestInfo then
+		return false
+	end
+	local tDialogueInfo = tQuestInfo[1]
+	if not tDialogueInfo then
+		return
+	end
+	player.AutoFly(tDialogueInfo[3], tDialogueInfo[4])
+	local nQuestIndex = player.GetQuestIndex(tDialogueInfo[5])
+	if nQuestIndex then
+		player.SetQuestValue(nQuestIndex, 0, 1)
+		player.SetNpcEffectInvisible(57292)
+		player.SetNpcEffectInvisible(1806)
+		player.SetNpcEffectInvisible(58166)
+		player.SetNpcEffectInvisible(56180)
+		player.SetNpcEffectInvisible(56788)
+		player.SetNpcEffectInvisible(57047)
+		player.SetNpcEffectInvisible(56703)
+		player.SetNpcEffectInvisible(5308)
+		player.SetNpcEffectInvisible(4997)
+		player.SetNpcEffectInvisible(56098)
+		player.SetNpcEffectInvisible(57314)
+	end
+end
+
+function flyNextMap2(player, nTargetType, nTargetID, nIndex)
+	if player.IsHaveBuff(13096, 0) then	--祭天大旗手
+		player.SendSystemMessage(GetEditorString(23, 368))
+		return false
+	end
+	local npc = GetNpc(nTargetID)
+	if not npc then
+		return
+	end
+	local tQuestInfo = nextMap[npc.dwTemplateID]
+	if not tQuestInfo then
+		return false
+	end
+	local tDialogueInfo = tQuestInfo[2]
+	if not tDialogueInfo then
+		return
+	end
+	player.AutoFly(tDialogueInfo[3], tDialogueInfo[4])
+	local nQuestIndex = player.GetQuestIndex(tDialogueInfo[5])
+	if nQuestIndex then
+		player.SetQuestValue(nQuestIndex, 0, 1)
+		player.SetNpcEffectInvisible(57292)
+		player.SetNpcEffectInvisible(57314)
+	end
+end
+
+function error(player, nTargetType, nTargetID, nIndex)
+end

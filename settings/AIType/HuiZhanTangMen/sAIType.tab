@@ -1,0 +1,57 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+16657	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	1	320
+16658	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+16659	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	1	512	512	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+16660	scripts\Map\会战唐门\ai\BOSS战斗\汪莽战斗.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+16661	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+16662	scripts/ai/DungeonStandardAI.lua	1	1024	768	0	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+16663	scripts/ai/DungeonStandardAI.lua	1	1240	1240	0	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+16664	scripts/ai/DungeonStandardAI.lua	1	1280	768	0	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+16665	scripts\Map\会战唐门\ai\特殊小怪独立AI\火器师炮台NPC.lua	0	1280	1280	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+16666	scripts\Map\会战唐门\ai\特殊小怪独立AI\军阵特殊小怪.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+16667	scripts\Map\会战唐门\ai\特殊小怪独立AI\军阵特殊小怪.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+16668	scripts\Map\会战唐门\ai\特殊小怪独立AI\守备官特殊AI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+16669	scripts\Map\会战唐门\ai\特殊小怪独立AI\鹰眼小怪.lua	0	768	768	0	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+16670	scripts\Map\会战唐门\ai\BOSS战斗\弩兵.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+16671	scripts\Map\会战唐门\ai\特殊小怪独立AI\军阵特殊小怪.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+16672	scripts\Map\会战唐门\ai\BOSS战斗\三楼百夫长.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+16673	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+16674	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+16675	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+16676	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+16677	scripts\Map\会战唐门\ai\BOSS战斗\狼牙重弩.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+16678	scripts\Map\会战唐门\ai\BOSS战斗\毛毛战斗.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+16679	scripts\Map\世界通用\ai\演员可对话.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+16680	scripts\Map\会战唐门\ai\BOSS战斗\毛毛大战汪莽技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+16681	scripts\Map\会战唐门\ai\BOSS战斗\二楼百夫长.lua	0	768	768	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+16682	scripts\Map\会战唐门\ai\BOSS战斗\三楼重弩操作.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+16683	scripts\Map\会战唐门\ai\BOSS战斗\2楼总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+16684	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+16685	scripts\Map\会战唐门\ai\BOSS战斗\贪狼刀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+16686	scripts\Map\会战唐门\ai\BOSS战斗\狼牙犀弩箭矢伤害.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17105	scripts\Map\会战唐门\ai\BOSS战斗\三楼总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17106	scripts\Map\成都\ai\表现专用标准AI变型 1.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+17107	scripts\Map\会战唐门\ai\特殊小怪独立AI\军阵用骑兵AI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17108	scripts\Map\会战唐门\ai\特殊小怪独立AI\枪阵子阵.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17109	scripts\Map\会战唐门\ai\特殊小怪独立AI\山阵子阵.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17110	scripts\Map\会战唐门\ai\特殊小怪独立AI\箭雨区域.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17242	scripts\Map\会战唐门\ai\特殊小怪独立AI\军阵阵型总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17243	scripts\Map\会战唐门\ai\特殊小怪独立AI\雷火弹.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17244	scripts/ai/DungeonStandardAI.lua	1	768	768	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17245	scripts/ai/DungeonStandardAI.lua	1	768	768	0	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+17246	scripts/ai/DungeonStandardAI.lua	1	768	768	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17247	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17248	scripts\Map\会战唐门\ai\BOSS战斗\小月月和烟影的剧情表现.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+17249	scripts/ai/DungeonStandardAI.lua	0	768	768	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17250	scripts/ai/DungeonStandardAI.lua	0	768	768	0	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17251	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17490	scripts\Map\会战唐门\ai\BOSS战斗\主楼战斗总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17491	scripts\Map\会战唐门\ai\BOSS战斗\星殒实体.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17492	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+17493	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+17494	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17495	scripts/Map/世界通用/ai/标准无敌免屠杀.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+17496	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17497	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17498	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+17499	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320

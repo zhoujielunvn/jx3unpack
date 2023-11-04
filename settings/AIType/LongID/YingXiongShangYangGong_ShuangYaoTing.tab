@@ -1,0 +1,20 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+-117440511	scripts/ai/DungeonStandardAI.lua	1	1500	1500	32	256	64	0	32	0	384	80	1	0	1	0		1	1	1	
+-117440510	scripts/ai/DungeonStandardAI.lua	1	1500	1500	32	256	64	0	32	0	384	80	1	0	2	0		1	1	1	
+-117440509	scripts/ai/DungeonStandardAI.lua	1	1500	1500	32	256	64	0	32	0	384	80	2	0	1	0		1	1	1	
+-117440508	scripts/ai/DungeonStandardAI.lua	1	1500	1500	32	256	64	0	32	0	384	80	2	0	2	0		1	1	1	
+-117440507	scripts/ai/DungeonStandardAI.lua	1	1500	1500	32	256	64	0	32	0	384	80	3	0	1	0		1	1	1	
+-117440506	scripts/ai/DungeonStandardAI.lua	1	1500	1500	32	256	64	0	32	0	384	80	3	0	2	0		1	1	1	
+-117440505	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	4	0	1	0		1	1	0	
+-117440504	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	4	0	3	0		1	1	0	
+-117440503	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	4	0	2	0		1	1	0	
+-117440502	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	5	0	1	0		1	1	0	
+-117440501	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	5	0	2	0		1	1	0	
+-117440500	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	6	0	1	0		1	1	0	
+-117440499	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	6	0	2	0		1	1	0	
+-117440498	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	7	0	1	0		1	1	0	
+-117440497	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	7	0	2	0		1	1	0	
+-117440496	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	7	0	3	0		1	1	0	
+-117440495	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	8	0	1	0		1	1	0	
+-117440494	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	8	0	2	0		1	1	0	
+-117440493	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	8	0	3	0		1	1	0	

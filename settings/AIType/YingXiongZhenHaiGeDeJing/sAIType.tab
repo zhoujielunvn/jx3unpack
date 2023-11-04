@@ -1,0 +1,25 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+111514	scripts\Map\镇海阁地井\ai\1号_关八天\1号_关八天.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111519	scripts/Map/镇海阁地井/ai/2号_苍森/2号_苍森_守卫.lua	0	1600	100	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111520	scripts\Map\镇海阁地井\ai\1号_关八天\1号_关八天_范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111521	scripts\Map\镇海阁地井\ai\1号_关八天\1号_关八天_技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111522	scripts\Map\镇海阁地井\ai\1号_关八天\破浪刃释放npc.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111523	scripts\Map\镇海阁地井\ai\2号_苍森\2号_苍森.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111524	scripts\Map\镇海阁地井\ai\2号_苍森\2号_苍森_拉人.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+111525	scripts\Map\镇海阁地井\ai\2号_苍森\2号_苍森_范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111526	scripts\Map\镇海阁地井\ai\3号_大海兽\光虫.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+111527	scripts\Map\镇海阁地井\ai\3号_大海兽\叶镜池.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+111528	scripts\Map\镇海阁地井\ai\2号_苍森\2号_苍森_技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111529	scripts\Map\镇海阁地井\ai\3号_大海兽\方子游.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+111530	scripts\Map\镇海阁地井\ai\3号_大海兽\3号_大海兽_本体.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111531	scripts\Map\镇海阁地井\ai\3号_大海兽\3号_大海兽_触须.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111532	scripts\Map\镇海阁地井\ai\3号_大海兽\3号_大海兽_范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+111533	scripts\Map\镇海阁地井\ai\3号_大海兽\3号_大海兽_技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+112212	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+112213	scripts\Map\镇海阁地井\ai\3号_大海兽\吞噬释放.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+113075	scripts/ai/CommonFoolish.lua	0	768	0	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+113173	scripts\Map\镇海阁地井\ai\2号_苍森\2号_苍森表现.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+113405	scripts/Map/镇海阁地井/ai/剧情/关前.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+113406	scripts/Map/镇海阁地井/ai/剧情/内应.lua	0	1600	100	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+113407	scripts/ai/DungeonStandardAI.lua	1	1600	100	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+113409	scripts/ai/DungeonStandardAI.lua	1	1600	100	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320

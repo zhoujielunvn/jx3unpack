@@ -1,0 +1,13 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+18259	scripts\Map\赛马活动\ai\绿色豆子.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+18279	scripts\Map\赛马活动\ai\蓝色豆子.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+18430	scripts\Map\赛马活动\ai\黄色豆子.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+18431	scripts\Map\赛马活动\ai\红色豆子.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+18447	scripts\Map\赛马活动\ai\避免非参赛玩家入场.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+18622	scripts\Map\赛马活动\ai\小兔子放落石.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+18676	scripts\Map\赛马活动\ai\蜂群减速.lua	1	768	768	32	256	64	0	32	512	384	80	0	30	0	0		0	0	1	320
+18689	scripts\Map\赛马活动\ai\机关铁夹.lua	1	768	768	32	256	64	0	32	0	384	80	0	30	0	0		1	0	1	320
+18697	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+18698	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+18699	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+18700	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320

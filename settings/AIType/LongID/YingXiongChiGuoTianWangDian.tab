@@ -1,0 +1,2 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+1107296257	scripts/ai/DungeonStandardAI.lua	1	1768	1768	32	256	64	0	32	0	384	80	2	0	0	0		1	1	1	

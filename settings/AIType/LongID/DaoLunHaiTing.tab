@@ -1,0 +1,11 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+109051905	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	2	0	1	0		1	1	0	
+109051906	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	2	0	2	0		1	1	0	
+109051907	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	1	0	1	0		1	1	0	
+109051908	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	1	0	2	0		1	1	0	
+109051909	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	1	0	3	0		1	1	0	
+109051910	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	3	0	0	0		1	1	0	
+109051911	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	3	0	2	0		1	1	0	
+109051912	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	4	0	1	0		1	1	0	
+109051913	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	4	0	2	0		1	1	0	
+109051914	scripts/ai/DungeonStandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	4	0	3	0		1	1	0	

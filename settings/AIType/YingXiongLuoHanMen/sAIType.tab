@@ -1,0 +1,26 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+100597	scripts/Map/罗汉门/ai/1号/宓果.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100598	scripts/Map/罗汉门/ai/1号/宓果范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100599	scripts/Map/罗汉门/ai/1号/宓果技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100600	scripts/Map/罗汉门/ai/1号/天祭阳光.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100601	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+100602	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	1	1	320
+100603	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	1	1	320
+100604	scripts/Map/副本通用AI/ai/通用无敌对话AI不转向.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100605	scripts/Map/罗汉门/ai/2号/刘细.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100606	scripts/Map/罗汉门/ai/2号/刘细范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100607	scripts/Map/罗汉门/ai/2号/刘细技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+100608	scripts/Map/罗汉门/ai/3号/郝大雪.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+100609	scripts/ai/CommonFoolish.lua	0	768	0	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100610	scripts/ai/CommonFoolish.lua	0	768	0	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100611	scripts/ai/CommonFoolish.lua	0	768	0	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100612	scripts/Map/副本通用AI/ai/通用无敌呆滞.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100613	scripts/Map/罗汉门/ai/周边/迷香.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100614	scripts/Map/副本通用AI/ai/通用无敌对话AI不转向.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100615	scripts/Map/罗汉门/ai/周边/迷晕的弟子.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100616	scripts/Map/罗汉门/ai/3号/郝大雪范围总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+100617	scripts/Map/罗汉门/ai/3号/郝大雪技能总控.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100618	scripts/Map/罗汉门/ai/3号/压成肉饼.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	0	320
+100619	scripts/Map/副本通用AI/ai/通用无敌对话AI不转向.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	1	0	320
+100620	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	1	1	320
+100621	scripts/ai/DungeonStandardAI.lua	1	768	768	32	256	64	0	32	512	384	80	0	0	0	0		1	1	1	320

@@ -1,0 +1,31 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+263	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+2140	scripts/ai/DungeonStandardAI.lua	1	1792	1792	32	256	64	0	32	512	384	80	0	30	0	0		1	1	1	320
+2177	scripts\Map\ÎÞÑÎµº\ai\ÎÞÑÎµº1ºÅBOSS.lua	1	1280	1280	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+2184	scripts\Map\ÎÞÑÎµº\ai\ÎÞÑÎµº1ºÅ³èÎï.lua	1	1280	1280	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+2185	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+2186	scripts/ai/DungeonStandardAI.lua	0	1536	1536	32	256	64	960	32	0	384	80	0	30	0	0	1	1	1	0	320
+2187	scripts/ai/DungeonStandardAI.lua	1	1280	1280	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+2188	scripts\Map\ÎÞÑÎµº\ai\ÎÞÑÎµº4ºÅBOSS.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+2193	scripts/ai/StandardAI.lua	0	768	768	160	256	48	512	16	0	0	16	0	0	1	0		0	0	0	320
+2195	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+2196	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	960	32	512	384	80	0	30	0	0		1	0	0	320
+2197	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	0	384	80	0	30	0	0		1	0	0	320
+2198	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	0	384	80	0	30	0	0		1	0	0	320
+2199	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	0	384	80	0	30	0	0		1	0	0	320
+2200	scripts/ai/CommonFoolish.lua	0	768	768	32	256	64	960	32	512	384	80	0	30	0	0		1	0	0	320
+2201	scripts/ai/DungeonStandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+2202	scripts/ai/DungeonStandardAI.lua	1	1024	1024	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+2203	scripts/ai/DungeonStandardAI.lua	1	1792	1792	32	256	64	0	32	0	384	80	0	0	0	0	1	1	1	1	320
+2204	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+2205	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	30	0	0	1	1	0	1	320
+2206	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	512	384	80	0	30	0	0		1	0	0	320
+2237	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+2809	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	30	0	0	1	1	1	1	320
+2811	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	0	384	80	0	30	0	0		1	0	0	320
+2824	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	0	384	80	0	30	0	0		1	0	0	320
+3116	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	0	0	320
+3821	scripts/ai/StandardAI.lua	0	768	768	32	256	64	960	32	0	384	80	0	30	0	0		1	0	0	320
+5391	scripts/ai/DungeonStandardAI.lua	1	1792	1792	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+5392	scripts/ai/DungeonStandardAI.lua	1	1536	1536	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+6239	scripts/ai/StandardAI.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320

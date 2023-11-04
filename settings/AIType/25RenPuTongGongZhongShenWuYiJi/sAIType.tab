@@ -1,0 +1,15 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+7638	scripts\Map\宫中神武遗迹\ai\副本掉落.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+7639	scripts\Map\25人普通宫中神武遗迹\ai\气场总控.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+7640	scripts\Map\25人普通宫中神武遗迹\ai\气场模版.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+7641	scripts\Map\25人普通宫中神武遗迹\ai\气场模版.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+7642	scripts\Map\25人普通宫中神武遗迹\ai\气场模版.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+7643	scripts\Map\25人普通宫中神武遗迹\ai\气场模版.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+7644	scripts\Map\25人普通宫中神武遗迹\ai\气场模版.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+7645	scripts\Map\25人普通宫中神武遗迹\ai\气场模版.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+7646	scripts\Map\25人普通宫中神武遗迹\ai\谢云流.lua	1	1280	1280	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+7647	scripts\Map\25人普通宫中神武遗迹\ai\忍者现身.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+7648	scripts/ai/DungeonStandardAI.lua	1	1600	1600	32	256	64	0	32	0	384	80	0	0	0	0		1	1	1	320
+7649	scripts\Map\25人普通宫中神武遗迹\ai\BOSS控制.lua	1	768	768	32	256	64	0	32	0	384	80	0	0	0	0		1	0	1	320
+7650	scripts\Map\25人普通宫中神武遗迹\ai\分身.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320
+7671	scripts\Map\25人普通宫中神武遗迹\ai\分身.lua	0	768	768	32	256	64	0	32	0	384	80	0	0	0	0		0	1	0	320

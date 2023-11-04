@@ -1,0 +1,24 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+1778384897	scripts/ai/StandardAI.lua	1	800	1536	0	800	64	0	32	0	384	80	6	0	1	0		1	0	1	
+1778384898	scripts/ai/StandardAI.lua	1	800	1536	0	800	64	0	32	0	384	80	6	0	3	0		1	0	1	
+1778384899	scripts/ai/StandardAI.lua	1	800	1536	0	800	64	0	32	0	384	80	6	0	2	0		1	0	1	
+1778384900	scripts/ai/StandardAI.lua	1	800	1536	0	800	64	0	32	0	384	80	1	0	1	0		1	0	1	
+1778384901	scripts/ai/StandardAI.lua	1	800	1536	0	800	64	0	32	0	384	80	2	0	0	0		1	0	1	
+1778384902	scripts/ai/StandardAI.lua	1	800	1536	0	800	64	0	32	0	384	80	1	0	2	0		1	0	1	
+1778384903	scripts/ai/StandardAI.lua	1	800	1536	0	800	64	0	32	0	384	80	1	0	3	0		1	0	1	
+1778384904	scripts/ai/StandardAI.lua	1	800	1536	0	800	64	0	32	0	384	80	2	0	2	0		1	0	1	
+1778384905	scripts/ai/StandardAI.lua	1	800	1536	0	800	64	0	32	0	384	80	2	0	3	0		1	0	1	
+1778384906	scripts/ai/StandardAI.lua	1	800	768	0	800	64	0	32	0	384	80	3	0	1	0		1	0	0	
+1778384907	scripts/ai/StandardAI.lua	1	800	800	0	800	64	0	32	0	384	80	3	0	2	0		1	0	0	
+1778384908	scripts/ai/StandardAI.lua	1	800	800	0	800	64	0	32	0	384	80	3	0	3	0		1	0	0	
+1778384909	scripts/ai/StandardAI.lua	1	800	800	0	800	64	0	32	0	384	80	5	0	3	0		1	0	1	
+1778384910	scripts/ai/StandardAI.lua	1	800	800	0	800	64	0	32	0	384	80	5	0	1	0		1	0	1	
+1778384911	scripts/ai/StandardAI.lua	1	800	800	0	800	64	0	32	0	384	80	5	0	2	0		1	0	1	
+1778384912	scripts/ai/StandardAI.lua	1	800	800	0	800	64	0	32	0	384	80	4	0	1	0		1	0	1	
+1778384913	scripts/ai/StandardAI.lua	1	800	800	0	800	64	0	32	0	384	80	4	0	3	0		1	0	1	
+1778384914	scripts/ai/StandardAI.lua	1	800	800	0	800	64	0	32	0	384	80	4	0	2	0		1	0	1	
+1778384915	scripts/ai/StandardAI.lua	1	800	900	0	800	64	960	32	0	384	80	8	30	0	0		1	0	1	
+1778384916	scripts/ai/StandardAI.lua	1	800	800	0	800	64	960	32	0	384	80	10	30	0	0		1	0	1	
+1778384917	scripts/ai/StandardAI.lua	1	800	800	0	800	64	960	32	0	384	80	9	30	0	0		1	0	1	
+1778384918	scripts/ai/StandardAI.lua	1	800	800	0	800	64	960	32	0	384	80	7	30	0	0		1	0	1	
+1778384919	scripts/ai/StandardAI.lua	0	768	768	32	256	64	0	32	0	384	80	11	0	0	0		1	0	0	

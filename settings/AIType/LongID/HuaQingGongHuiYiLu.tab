@@ -1,0 +1,19 @@
+AIType	ScriptFile	IsPositive	AlertRange	SearchPlayerDistance	AlertOverTime	AttackRange	EscapeTime	EscapeRange	EscapeInterval	WanderRange	WanderDistance	WanderInterval	PatrolPathID	EscapeLife	PatrolOrderIndex	ReviveTeammate	CustomArguments	IsAutoTurn	NpcSceneType	IsSnarlInFight	DialogIdleTime
+-1560281087	scripts/ai/DungeonStandardAI.lua	1	1536	1536	0	256	64	0	32	0	384	80	3	0	1	0		1	1	1	
+-1560281086	scripts/ai/DungeonStandardAI.lua	1	1536	1536	0	256	64	0	32	0	384	80	3	0	2	0		1	1	1	
+-1560281085	scripts/ai/DungeonStandardAI.lua	1	1536	1536	0	256	64	0	32	0	384	80	3	0	3	0		1	1	1	
+-1560281084	scripts/ai/DungeonStandardAI.lua	1	1536	1536	0	256	64	0	32	0	384	80	6	0	1	0		1	1	1	
+-1560281083	scripts/ai/DungeonStandardAI.lua	1	1536	1536	0	256	64	0	32	0	384	80	7	0	1	0		1	1	1	
+-1560281082	scripts/ai/DungeonStandardAI.lua	1	1536	1536	0	256	64	0	32	0	384	80	5	0	1	0		1	1	1	
+-1560281081	scripts/ai/DungeonStandardAI.lua	1	1536	1536	0	256	64	0	32	0	384	80	8	0	1	0		1	1	1	
+-1560281080	scripts/ai/DungeonStandardAI.lua	1	1536	1536	0	256	64	0	32	0	384	80	7	0	2	0		1	1	1	
+-1560281079	scripts/ai/DungeonStandardAI.lua	1	1536	1536	0	256	64	0	32	0	384	80	8	0	2	0		1	1	1	
+-1560281078	scripts/ai/DungeonStandardAI.lua	1	1536	1536	0	256	64	0	32	0	384	80	5	0	2	0		1	1	1	
+-1560281077	scripts/ai/DungeonStandardAI.lua	1	1536	1536	0	256	64	0	32	0	384	80	6	0	2	0		1	1	1	
+-1560281076	scripts/ai/DungeonStandardAI.lua	1	1536	1536	0	256	64	0	32	0	384	80	6	0	3	0		1	1	1	
+-1560281075	scripts/ai/DungeonStandardAI.lua	1	1536	1536	0	256	64	0	32	0	384	80	5	0	3	0		1	1	1	
+-1560281074	scripts/ai/DungeonStandardAI.lua	1	1536	1536	0	256	64	0	32	0	384	80	8	0	3	0		1	1	1	
+-1560281073	scripts/ai/DungeonStandardAI.lua	1	1536	1536	0	256	64	0	32	0	384	80	7	0	0	0		1	1	1	
+-1560281072	scripts/ai/DungeonStandardAI.lua	1	1024	1536	0	2560000	64	0	32	0	384	80	4	0	1	0		1	1	1	
+-1560281071	scripts/ai/DungeonStandardAI.lua	1	1024	1536	0	2560000	64	0	32	0	384	80	4	0	3	0		1	1	1	
+-1560281070	scripts/ai/DungeonStandardAI.lua	1	1024	1536	0	2560000	64	0	32	0	384	80	4	0	2	0		1	1	1	
